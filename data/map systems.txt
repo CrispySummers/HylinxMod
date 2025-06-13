@@ -1,7 +1,7 @@
 
 system "Caca Bata"
 	pos 696.5 260
-	government "Verohati Theocracy"
+	government "House Verohati"
 	habitable 2201.68
 	link Mata
 	link Neogen
@@ -41,7 +41,7 @@ system "Caca Bata"
 		period 982.325
 
 system Gateway
-	pos 400 340
+	pos 321.53 340
 	government Technocrat
 	habitable 233.28
 	link Mata
@@ -186,6 +186,7 @@ system Neogen
 
 planet "Aesh's Lab"
 	landscape "land/valley10-sfiera"
+	government "Technocrat"
 	"required reputation" 300
     description `This is the capital of the Technocrats. Aesh-Carr started the Technocrats here, wishing to keep himself away from "normal society" to do his work in piece. This world embodies the ultimate form of the values of the Technocrats; it is almost covered with computers, factories, and and artificial habitats.`
 	shipyard "Hylinx Shipyard"
@@ -195,6 +196,7 @@ planet "Aesh's Lab"
 
 planet Sawi
 	landscape "land/city1"
+	government "HyFed"
 	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet".`
 	description `	Its main export is spice. Very spicy!`
 	spaceport `There are many Hylinx plants going around their business. There is a museum nearby the spaceport that contains artifacts from the Hylinx's early space age.`
@@ -207,5 +209,6 @@ planet Sawi
 planet "Veroha's Kiln"
 	landscape "land/valley10-sfiera"
 	"required reputation" 300
+	government "House Verohati"
 	port
 		recharge all
