@@ -41,7 +41,7 @@ system "Caca Bata"
 		period 982.325
 
 system Gateway
-	pos 321.53 340
+	pos 351.53 340
 	government Technocrat
 	habitable 233.28
 	link Mata

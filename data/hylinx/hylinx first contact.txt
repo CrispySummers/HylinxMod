@@ -1,0 +1,23 @@
+mission "Hylinx: First Contact (1)"
+    "display name" "Meeting with plants"
+    description `You have met an alien civilization that appears to be made up of plants. You have gotten common ground with them, and know they're intelligent, but you can't communicate full concepts. Find a way to understand them.`
+    source
+        attribute "hylinx space"
+    on start
+       conversation
+
+mission "Hylinx: First Contact (2a) - Get a Republic diplomat team"
+   description "If you want the Republic, Go to Earth and request the Republic to send a diplomat team to communicate with the Hylinx"
+   destination "Sawi"
+
+mission "Hylinx: First Contact (2b) - Get a Free Worlds diplomat team"
+   description "If you want the Free Worlds, Go to Earth and request the Republic to send a diplomat team to communicate with the Hylinx"
+   destination "Sawi"
+
+mission "Hylinx: First Contact (2b) - Get a Syndicate diplomat team"
+   destination "Sawi"
+   description "If you want the Syndicate, Go to Mater and request the Syndicate to send a diplomat team to communicate with the Hylinx"
+
+mission "Hylinx: First Contact (2b) - Get a Remnant diplomat team"
+   destination "Sawi"
+   description "If you want the Remnant, Go to any of the three Remnant colonies and request the Syndicate to send a diplomat team to communicate with the Hylinx"
