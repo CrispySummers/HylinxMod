@@ -4,20 +4,60 @@ mission "Hylinx: First Contact (1)"
     source
         attribute "hylinx space"
     on start
+    conversation
+        `Minutes after entering this system, a nearby alien ship sends a transmission made up of binary pulses. You work furiously to decode it. After minutes of brute force, you see that it is a grayscale 256x256 image with lots of detail: 10 different plant species with 5 individuals for each, a long line of pixels made up of only 4 different shades of grey, images of many jewels, and a starmap. The starmap seems to complete your own starmap of this place. And one of the star systems on it is emphasized by underlines. It appears that these aliens want to talk.`
+        choice
+            "(Send a similar image of your own.)"
+            goto your_image
+            "(Do nothing.)"
+            goto response
+        label your_image
+        `You create a similar image using the same data schema, with images of the human form, its variations, a starmap of the core systems of human space, and a sample of DNA. You wait for the response.`
+        label response
+        `The alien ship sends another image, this time more abstract. It appears to be about the relationships between objects. One part shows a wilted plant, water droplet, and a grown plant, with an abstract symbol between them. Another shows a spaceship, fire, and yet another symbol. There are many more parts like this.`
+        `The conversation continues, and after a few hours, you and the aliens seem to have developed a pidgin of images. But you don't know how to communicate further. It is clear that you will need the help of a diplomatic team.`
+    on enter "Mata"
        conversation
+           `Why, you've found the home system!`
 
 mission "Hylinx: First Contact (2a) - Get a Republic diplomat team"
    description "If you want the Republic, Go to Earth and request the Republic to send a diplomat team to communicate with the Hylinx"
+   source
+        attribute "hylinx space"
+   stopover "Earth"
+   on stopover
+       conversation "Hylinx: trying to get a First Contact Team from the Republic"
    destination "Sawi"
+
+conversation "Hylinx: trying to get a First Contact Team from the Republic"
+    # Danforth could be useful here. I'll include him
+    `Landing on Earth, you contact the Republic and inform them about the new aliens that you've found. They are skeptical. "How do we know this isn't a hoax?" the ambassador asks.`
 
 mission "Hylinx: First Contact (2b) - Get a Free Worlds diplomat team"
    description "If you want the Free Worlds, Go to Earth and request the Republic to send a diplomat team to communicate with the Hylinx"
+   source
+        attribute "hylinx space"
+   stopover "Bourne"
+   on stopover
+       conversation "Hylinx: trying to get a First Contact Team from the Free Worlds"
    destination "Sawi"
+
+conversation "Hylinx: trying to get a First Contact Team from the Free Worlds"
+    branch if true
+        "event: joined the free worlds"
+        goto council_contact
+    label
+    label council_contact
+        `You contact the Free Worlds council and inform them about the new aliens that you have found. Alondo is intrigued. "New aliens! How exciting." he says, "unfortunately, at the moment, I am occupied with matters closer to home. But we'll prepare a team of linguists and diplomats for you."`
 
 mission "Hylinx: First Contact (2b) - Get a Syndicate diplomat team"
    destination "Sawi"
+    source
+        attribute "hylinx space"
    description "If you want the Syndicate, Go to Mater and request the Syndicate to send a diplomat team to communicate with the Hylinx"
 
 mission "Hylinx: First Contact (2b) - Get a Remnant diplomat team"
    destination "Sawi"
+    source
+        attribute "hylinx space"
    description "If you want the Remnant, Go to any of the three Remnant colonies and request the Syndicate to send a diplomat team to communicate with the Hylinx"

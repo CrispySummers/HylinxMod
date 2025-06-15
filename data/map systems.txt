@@ -113,7 +113,7 @@ system "Hyl 20A190B9"
 		sprite planet/lava6
 		distance 340.53
 		period 121.795
-	object
+	object "Zaminar's Coarsey"
 		sprite planet/cloud8
 		distance 578.29
 		period 269.535
@@ -549,7 +549,7 @@ system "Hyl 8B998401"
 	object
 		sprite star/m4
 		period 10
-	object
+	object "Hyl 8B998401 b"
 		sprite planet/desert1
 		distance 223.29
 		period 87.3826
@@ -599,7 +599,7 @@ system "Hyl 8C0A9C11"
 		sprite planet/ocean0
 		distance 578.142
 		period 189.8
-	object
+	object "Casillir's Folly"
 		sprite planet/gas8
 		distance 1537.55
 		period 823.171
@@ -1014,6 +1014,12 @@ planet "Aesh's Lab"
 	port
 		recharge all
 
+planet "Casillir's Folly"
+	landscape ""
+
+planet "Hyl 8B998401 b"
+	landscape ""
+
 planet Sawi
 	landscape land/city1
 	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet".`
@@ -1032,4 +1038,7 @@ planet "Veroha's Kiln"
 	government "House Verohati"
 	port
 		recharge all
+
+planet "Zaminar's Coarsey"
+	landscape ""
 
