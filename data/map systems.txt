@@ -1,5 +1,6 @@
 
 system "Caca Bata"
+    haze _menu/haze-tear
 	pos 670.5 164
 	government "House Verohati"
 	habitable 2201.68
@@ -43,6 +44,7 @@ system "Caca Bata"
 		period 982.325
 
 system Gateway
+    haze _menu/haze-tear
 	pos 398.53 338
 	government Technocrat
 	habitable 233.28
@@ -96,6 +98,7 @@ system Gateway
 			arrival 1000
 
 system "Hyl 20A190B9"
+    haze _menu/haze-tear
 	pos 462 359
 	government Technocrat
 	habitable 425.92
@@ -135,6 +138,7 @@ system "Hyl 20A190B9"
 			period 12.6321
 
 system "Hyl 2478245D"
+    haze _menu/haze-tear
 	pos 606 228
 	government HyFed
 	habitable 1715
@@ -176,6 +180,7 @@ system "Hyl 2478245D"
 			period 12.484
 
 system "Hyl 27317E2D"
+    haze _menu/haze-tear
 	pos 692 213
 	government "House Verohati"
 	habitable 912.6
@@ -218,6 +223,7 @@ system "Hyl 27317E2D"
 		period 1397.05
 
 system "Hyl 2E0A3AC2"
+    haze _menu/haze-tear
 	pos 475 258
 	habitable 2340
 	link "Hyl 8C0A9C11"
@@ -264,6 +270,7 @@ system "Hyl 2E0A3AC2"
 			period 24.6248
 
 system "Hyl 2ED4511A"
+    haze _menu/haze-tear
 	pos 609 285
 	government HyFed
 	habitable 320
@@ -308,6 +315,7 @@ system "Hyl 2ED4511A"
 			period 58.7289
 
 system "Hyl 3D651BF8"
+    haze _menu/haze-tear
 	pos 474 206
 	habitable 1111.68
 	link "Hyl F23C33AE"
@@ -356,6 +364,7 @@ system "Hyl 3D651BF8"
 			period 55.3553
 
 system "Hyl 5D5FC342"
+    haze _menu/haze-tear
 	pos 562 220
 	government HyFed
 	habitable 486.68
@@ -391,6 +400,7 @@ system "Hyl 5D5FC342"
 		period 3538.5
 
 system "Hyl 5F8DC91D"
+    haze _menu/haze-tear
 	pos 638 114
 	habitable 806.68
 	link "Caca Bata"
@@ -433,6 +443,7 @@ system "Hyl 5F8DC91D"
 		period 2122.69
 
 system "Hyl 627BD9BA"
+    haze _menu/haze-tear
 	pos 752 200
 	government "House Verohati"
 	habitable 486.68
@@ -469,6 +480,7 @@ system "Hyl 627BD9BA"
 		period 2540.85
 
 system "Hyl 6A5646CB"
+    haze _menu/haze-tear
 	pos 597 186
 	government HyFed
 	habitable 425.92
@@ -539,6 +551,7 @@ system "Hyl 6EF35417"
 			period 20.2546
 
 system "Hyl 8B998401"
+    haze _menu/haze-tear
 	pos 400 285
 	government Technocrat
 	habitable 233.28
@@ -575,6 +588,7 @@ system "Hyl 8B998401"
 		period 3215.58
 
 system "Hyl 8C0A9C11"
+    haze _menu/haze-tear
 	pos 439 316
 	government Technocrat
 	habitable 858.28
@@ -617,6 +631,7 @@ system "Hyl 8C0A9C11"
 			period 55.1083
 
 system "Hyl 9B5E4943"
+    haze _menu/haze-tear
 	pos 792 217
 	government "House Verohati"
 	habitable 425.92
@@ -660,6 +675,7 @@ system "Hyl 9B5E4943"
 			period 11.9034
 
 system "Hyl A36BC7F7"
+    haze _menu/haze-tear
 	pos 797 260
 	government "House Verohati"
 	habitable 320
@@ -706,6 +722,7 @@ system "Hyl A36BC7F7"
 			period 25.0823
 
 system "Hyl BBB3F355"
+    haze _menu/haze-tear
 	pos 746 253
 	government "House Verohati"
 	habitable 625
@@ -741,6 +758,7 @@ system "Hyl BBB3F355"
 			period 54.9581
 
 system "Hyl BE15A874"
+    haze _menu/haze-tear
 	pos 687 265
 	government HyFed
 	habitable 425.92
@@ -780,6 +798,7 @@ system "Hyl BE15A874"
 			period 14.6443
 
 system "Hyl C3CCB82D"
+    haze _menu/haze-tear
 	pos 607 323
 	government HyFed
 	habitable 640
@@ -830,6 +849,7 @@ system "Hyl C3CCB82D"
 			period 26.9553
 
 system "Hyl D5AE8C8D"
+    haze _menu/haze-tear
 	pos 801 163
 	government "House Verohati"
 	habitable 135
@@ -872,6 +892,7 @@ system "Hyl D5AE8C8D"
 			period 29.641
 
 system "Hyl F23C33AE"
+    haze _menu/haze-tear
 	pos 404 254
 	government Technocrat
 	habitable 135
@@ -911,6 +932,7 @@ system "Hyl F23C33AE"
 		period 3567.54
 
 system Mata
+    haze _menu/haze-tear
 	pos 546 264
 	government HyFed
 	habitable 912.6
@@ -963,6 +985,7 @@ system Mata
 		period 1157.13
 
 system Neogen
+    haze _menu/haze-tear
 	pos 512 351.5
 	government Technocrat
 	habitable 233.28
