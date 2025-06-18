@@ -1,7 +1,8 @@
+# randomly generated
 
 system "Caca Bata"
-	pos 650.5 162
-	government "House Verohati"
+	pos 637.5 155
+	government HyFed
 	habitable 2201.68
 	link "Hyl 27317E2D"
 	link "Hyl 6A5646CB"
@@ -51,8 +52,8 @@ system "Caca Bata"
 		haze _menu/haze-tear
 
 system Gateway
-	pos 398.53 338
-	government Technocrat
+	pos 405.53 345
+	government HyFed
 	habitable 233.28
 	link "Hyl 8B998401"
 	link "Hyl 8C0A9C11"
@@ -114,7 +115,7 @@ system Gateway
 			arrival 1000
 
 system "Hyl 10000000"
-	pos 496.126 399.854
+	pos 502.126 383.854
 	government Technocrat
 	habitable 425.92
 	link "Hyl 20A190B9"
@@ -159,6 +160,7 @@ system "Hyl 1ABA0005"
 	link "Hyl 10000000"
 	link "Hyl ABC03010"
 	link "Hyl 30A2B03A"
+	link "xowxa Omega"
 	asteroids "small rock" 1 5.9508
 	asteroids "medium rock" 4 7.1253
 	asteroids "large rock" 5 9.0828
@@ -205,36 +207,42 @@ system "Hyl 1ABA0005"
 
 system "Hyl 20A190B9"
 	pos 467 350
-	government Technocrat
+	government HyFed
 	habitable 425.92
 	link "Hyl 8C0A9C11"
 	link Gateway
-	link Neogen
 	link "Hyl 10000000"
+	link "xowxa Omega"
 	haze _menu/haze-tear
 	object
 		sprite star/k5
 		period 10
+		haze _menu/haze-tear
 	object
 		sprite planet/lava2
 		distance 123.69
 		period 26.6623
+		haze _menu/haze-tear
 	object
 		sprite planet/lava6
 		distance 340.53
 		period 121.795
+		haze _menu/haze-tear
 	object "Zaminar's Coarsey"
 		sprite planet/cloud8
 		distance 578.29
 		period 269.535
+		haze _menu/haze-tear
 	object
 		sprite planet/rock6
 		distance 1004.93
 		period 617.447
+		haze _menu/haze-tear
 		object
 			sprite planet/ice7
 			distance 136
 			period 19.9375
+			haze _menu/haze-tear
 	object
 		sprite planet/uranus
 		distance 2917.34
@@ -251,7 +259,6 @@ system "Hyl 2478245D"
 	government HyFed
 	habitable 1715
 	link "Hyl 6A5646CB"
-	link Neogen
 	link Mata
 	link "Hyl 2ED4511A"
 	link "Hyl 27317E2D"
@@ -298,7 +305,7 @@ system "Hyl 2478245D"
 
 system "Hyl 27317E2D"
 	pos 667 212
-	government "House Verohati"
+	government HyFed
 	habitable 912.6
 	link "Hyl 2478245D"
 	link "Caca Bata"
@@ -347,69 +354,10 @@ system "Hyl 27317E2D"
 		period 1397.05
 		haze _menu/haze-tear
 
-system "Stu Aleph"
-	pos 475 258
-	habitable 2340
-	link "Hyl 8C0A9C11"
-	link "Hyl 8B998401"
-	link "Hyl F23C33AE"
-	link Mata
-	link "Hyl 3D651BF8"
-	haze _menu/haze-tear
-	object
-		sprite star/f5
-		distance 33.6538
-		period 11.6952
-		offset 180
-		haze _menu/haze-tear
-	object
-		sprite star/g5
-		distance 92.3462
-		period 11.6952
-		haze _menu/haze-tear
-	object
-		sprite planet/lava2
-		distance 291.306
-		period 41.1128
-		haze _menu/haze-tear
-	object
-		sprite planet/mercury
-		distance 452.146
-		period 79.5006
-		haze _menu/haze-tear
-	object "Genesis"
-		sprite planet/ice0
-		distance 799.036
-		period 186.768
-		haze _menu/haze-tear
-	object
-		sprite planet/dust2
-		distance 1192
-		period 340.302
-		haze _menu/haze-tear
-	object
-		sprite planet/gas11
-		distance 1787.21
-		period 624.761
-		haze _menu/haze-tear
-		object
-			sprite planet/rock3
-			distance 255
-			period 13.4304
-			haze _menu/haze-tear
-		object
-			sprite planet/miranda
-			distance 382
-			period 24.6248
-			haze _menu/haze-tear
-
-planet "Genesis"
-
 system "Hyl 2ED4511A"
 	pos 610 263
 	government HyFed
 	habitable 320
-	link Neogen
 	link "Hyl 2478245D"
 	link "Hyl BE15A874"
 	link "Hyl C3CCB82D"
@@ -465,6 +413,10 @@ system "Hyl 30A2B03A"
 	habitable 320
 	link "Hyl ABC03010"
 	link "Hyl 1ABA0005"
+	link "jqoxo baju"
+	link "jose Beta"
+	link "Vas Beta"
+	link Neogen
 	asteroids "medium rock" 4 7.0056
 	asteroids "large rock" 14 6.048
 	asteroids "small metal" 14 6.048
@@ -503,11 +455,13 @@ system "Hyl 30A2B03A"
 			period 25.2636
 
 system "Hyl 3D651BF8"
-	pos 474 206
+	pos 483 188
+	government HyFed
 	habitable 1111.68
 	link "Hyl F23C33AE"
 	link "Stu Aleph"
 	link "Hyl 5D5FC342"
+	link "ddavma famtu"
 	haze _menu/haze-tear
 	object
 		sprite star/g5
@@ -562,7 +516,7 @@ system "Hyl 3D651BF8"
 			haze _menu/haze-tear
 
 system "Hyl 5D5FC342"
-	pos 562 220
+	pos 537 223
 	government HyFed
 	habitable 486.68
 	link "Hyl 3D651BF8"
@@ -606,8 +560,10 @@ system "Hyl 5D5FC342"
 
 system "Hyl 5F8DC91D"
 	pos 554 101
+	government HyFed
 	habitable 806.68
 	link "Caca Bata"
+	link "ddavma famtu"
 	haze _menu/haze-tear
 	object
 		sprite star/k0
@@ -657,8 +613,8 @@ system "Hyl 5F8DC91D"
 		haze _menu/haze-tear
 
 system "Hyl 627BD9BA"
-	pos 724 193
-	government "House Verohati"
+	pos 704 172
+	government HyFed
 	habitable 486.68
 	link "Hyl BBB3F355"
 	link "Hyl 27317E2D"
@@ -745,7 +701,7 @@ system "Hyl 6A5646CB"
 
 system "Hyl 6EF35417"
 	pos 692 280
-	government "House Verohati"
+	government HyFed
 	habitable 425.92
 	link "Hyl C3CCB82D"
 	link "Hyl BBB3F355"
@@ -780,7 +736,7 @@ system "Hyl 6EF35417"
 
 system "Hyl 8B998401"
 	pos 400 285
-	government Technocrat
+	government HyFed
 	habitable 233.28
 	link Gateway
 	link "Hyl 8C0A9C11"
@@ -830,6 +786,7 @@ system "Hyl 8C0A9C11"
 	link "Stu Aleph"
 	link "Hyl 8B998401"
 	link "Hyl 20A190B9"
+	link "xowxa Omega"
 	haze _menu/haze-tear
 	object
 		sprite star/g5
@@ -984,11 +941,13 @@ system "Hyl A36BC7F7"
 			haze _menu/haze-tear
 
 system "Hyl ABC03010"
-	pos 632.126 361.854
+	pos 634.126 382.854
 	government Technocrat
 	habitable 425.92
 	link "Hyl 1ABA0005"
 	link "Hyl 30A2B03A"
+	link "Xti Aleph"
+	link "Kal Za"
 	asteroids "small rock" 2 4.602
 	asteroids "medium rock" 10 8.736
 	asteroids "large rock" 2 7.488
@@ -1049,7 +1008,7 @@ system "Hyl ABC03010"
 
 system "Hyl BBB3F355"
 	pos 703 229
-	government "House Verohati"
+	government HyFed
 	habitable 625
 	link "Hyl 6EF35417"
 	link "Hyl 627BD9BA"
@@ -1091,7 +1050,7 @@ system "Hyl BBB3F355"
 			haze _menu/haze-tear
 
 system "Hyl BE15A874"
-	pos 657 260
+	pos 652 245
 	government HyFed
 	habitable 425.92
 	link "Hyl 27317E2D"
@@ -1142,10 +1101,11 @@ system "Hyl C3CCB82D"
 	pos 612 308
 	government HyFed
 	habitable 640
-	link Neogen
 	link "Hyl 2ED4511A"
 	link "Hyl 6EF35417"
 	link "Hyl BE15A874"
+	link "Xti Aleph"
+	link "xowxa Omega"
 	haze _menu/haze-tear
 	object
 		sprite star/m0
@@ -1200,7 +1160,7 @@ system "Hyl C3CCB82D"
 			haze _menu/haze-tear
 
 system "Hyl D5AE8C8D"
-	pos 735 137
+	pos 719 137
 	government "House Verohati"
 	habitable 135
 	link "Hyl 9B5E4943"
@@ -1252,8 +1212,8 @@ system "Hyl D5AE8C8D"
 			haze _menu/haze-tear
 
 system "Hyl F23C33AE"
-	pos 404 254
-	government Technocrat
+	pos 446 233
+	government HyFed
 	habitable 135
 	link "Hyl 8B998401"
 	link "Stu Aleph"
@@ -1299,14 +1259,91 @@ system "Hyl F23C33AE"
 		period 3567.54
 		haze _menu/haze-tear
 
+system "Kal Aleph"
+	pos 775 -14
+	habitable nan
+	link "Stu tazu"
+	link "Kal yiqe"
+	link "Kal fezwe"
+
+system "Kal Beta"
+	pos 848 284
+	habitable nan
+	link "Xti Omega"
+	link "zsono Aleph"
+	link "Stu Theta"
+
+system "Kal Omega"
+	pos 1026 416
+	habitable nan
+	link "Vas pesjo"
+	link "cuqsa Aleph"
+	link "javi Beta"
+
+system "Kal Za"
+	pos 692 409
+	habitable nan
+	link "Hyl ABC03010"
+	link "Kal vesi"
+	link Neogen
+
+system "Kal coga"
+	pos 1074 88
+	habitable nan
+	link "Xti Za"
+	link "wxafqa Beta"
+	link "hofli zciqfe"
+
+system "Kal cqucqu"
+	pos 1097 448
+	habitable nan
+	link "Xti zano"
+	link "fjune Omega"
+
+system "Kal cvaco"
+	pos 997 165
+	habitable nan
+	link "sajqu siphe"
+	link "hofli zciqfe"
+	link "mezyo Omega"
+
+system "Kal fezwe"
+	pos 713 70
+	habitable nan
+	link "famtu mzosi"
+	link "Xti fadu"
+	link "Kal Aleph"
+
+system "Kal vesi"
+	pos 705 445
+	habitable nan
+	link "Kal Za"
+	link "Stu woju"
+	link "jqoxo baju"
+	link Neogen
+
+system "Kal wina"
+	pos 918 402
+	habitable nan
+	link "zsono Aleph"
+	link "Xti Theta"
+	link "cuqsa Aleph"
+	link "Vas pesjo"
+
+system "Kal yiqe"
+	pos 702 -23
+	habitable nan
+	link "Kal Aleph"
+	link "famtu mzosi"
+
 system Mata
 	pos 546 264
 	government HyFed
 	habitable 912.6
-	link Neogen
 	link "Stu Aleph"
 	link "Hyl 5D5FC342"
 	link "Hyl 2478245D"
+	link "xowxa Omega"
 	asteroids "small rock" 1 1.584
 	asteroids "medium rock" 25 1.8432
 	asteroids "large rock" 1 3.1392
@@ -1362,14 +1399,13 @@ system Mata
 		haze _menu/haze-tear
 
 system Neogen
-	pos 525 320.5
+	pos 646 440.5
 	government Technocrat
 	habitable 233.28
-	link Mata
-	link "Hyl 20A190B9"
-	link "Hyl 2478245D"
-	link "Hyl 2ED4511A"
-	link "Hyl C3CCB82D"
+	link "Hyl 30A2B03A"
+	link "Kal Za"
+	link "jqoxo baju"
+	link "Kal vesi"
 	asteroids "small rock" 4 0.988
 	asteroids "medium rock" 5 0.715
 	asteroids "large rock" 9 1.391
@@ -1412,6 +1448,386 @@ system Neogen
 		period 3215.58
 		haze _menu/haze-tear
 
+system "Stu Aleph"
+	pos 487 259
+	government HyFed
+	habitable nan
+	link "Hyl 8C0A9C11"
+	link "Hyl 8B998401"
+	link "Hyl F23C33AE"
+	link Mata
+	link "Hyl 3D651BF8"
+	haze _menu/haze-tear
+	object
+		sprite star/f5
+		distance 33.6538
+		period 11.6952
+		offset 180
+		haze _menu/haze-tear
+	object
+		sprite star/g5
+		distance 92.3462
+		period 11.6952
+		haze _menu/haze-tear
+	object
+		sprite planet/lava2
+		distance 291.306
+		period 41.1128
+		haze _menu/haze-tear
+	object
+		sprite planet/mercury
+		distance 452.146
+		period 79.5006
+		haze _menu/haze-tear
+	object Genesis
+		sprite planet/ice0
+		distance 799.036
+		period 186.768
+		haze _menu/haze-tear
+	object
+		sprite planet/dust2
+		distance 1192
+		period 340.302
+		haze _menu/haze-tear
+	object
+		sprite planet/gas11
+		distance 1787.21
+		period 624.761
+		haze _menu/haze-tear
+		object
+			sprite planet/rock3
+			distance 255
+			period 13.4304
+			haze _menu/haze-tear
+		object
+			sprite planet/miranda
+			distance 382
+			period 24.6248
+			haze _menu/haze-tear
+
+system "Stu Theta"
+	pos 939 289
+	habitable nan
+	link "Kal Beta"
+	link "cuqsa Aleph"
+	link "sajqu siphe"
+
+system "Stu Za"
+	pos 1101 552
+	habitable nan
+	link "Xti toldo"
+	link "xupva Aleph"
+
+system "Stu mdeqi"
+	pos 747 485
+	habitable nan
+	link "Stu woju"
+	link "vupe vupe"
+	link "rhuga Omega"
+
+system "Stu tazu"
+	pos 851 24
+	habitable nan
+	link "wxafqa Beta"
+	link "Kal Aleph"
+	link "Xti fadu"
+
+system "Stu woju"
+	pos 797 437
+	habitable nan
+	link "Xti fcomu"
+	link "Kal vesi"
+	link "Stu mdeqi"
+
+system "Vas Beta"
+	pos 523 424
+	habitable nan
+	link "Hyl 30A2B03A"
+
+system "Vas pesjo"
+	pos 970 437
+	habitable nan
+	link "Kal wina"
+	link "wcacva cqucqu"
+	link "hfota bohfo"
+	link "Kal Omega"
+
+system "Xti Aleph"
+	pos 621 344
+	habitable nan
+	link "Hyl ABC03010"
+	link "nbuqo Aleph"
+	link "Hyl C3CCB82D"
+
+system "Xti Omega"
+	pos 918 210
+	habitable nan
+	link "cqucqu Aleph"
+	link "Kal Beta"
+
+system "Xti Theta"
+	pos 854 497
+	habitable nan
+	link "Kal wina"
+	link "wcacva cqucqu"
+
+system "Xti Za"
+	pos 1081 144
+	habitable nan
+	link "mezyo Omega"
+	link "Kal coga"
+
+system "Xti fadu"
+	pos 801 88
+	habitable nan
+	link "Kal fezwe"
+	link "fuytu Omega"
+	link "Stu tazu"
+
+system "Xti fcomu"
+	pos 792 391
+	habitable nan
+	link "nbuqo Aleph"
+	link "zsono Aleph"
+	link "Stu woju"
+
+system "Xti toldo"
+	pos 987 586
+	habitable nan
+	link "wcacva cqucqu"
+	link "Stu Za"
+	link "xupva Aleph"
+	link "ppeyo Za"
+	link "qhuja cqucqu"
+
+system "Xti vijwo"
+	pos 695 607
+	habitable nan
+	link "vupe vupe"
+
+system "Xti zano"
+	pos 1070 392
+	habitable nan
+	link "cuqsa Aleph"
+	link "Kal cqucqu"
+	link "sajqu siphe"
+
+system "cqucqu Aleph"
+	pos 860 178
+	habitable nan
+	link "fuytu Omega"
+	link "Xti Omega"
+
+system "cuqsa Aleph"
+	pos 961 354
+	habitable nan
+	link "Kal wina"
+	link "Xti zano"
+	link "Stu Theta"
+	link "Kal Omega"
+
+system "ddavma famtu"
+	pos 505 147
+	government HyFed
+	habitable nan
+	link "Hyl 3D651BF8"
+	link "Hyl 5F8DC91D"
+
+system "famtu mzosi"
+	pos 678 33
+	habitable nan
+	link "Kal yiqe"
+	link "Kal fezwe"
+
+system "fjune Omega"
+	pos 1116 351
+	habitable nan
+	link "Kal cqucqu"
+	link "ruri Beta"
+
+system "fuytu Omega"
+	pos 880 93
+	habitable nan
+	link "Xti fadu"
+	link "rexze wugba"
+	link "cqucqu Aleph"
+
+system "gijcu Aleph"
+	pos 852 544
+	habitable nan
+	link "wcacva cqucqu"
+
+system "hera Za"
+	pos 846 437
+	habitable nan
+	link "zsono Aleph"
+
+system "hfota bohfo"
+	pos 1002 483
+	habitable nan
+	link "wcacva cqucqu"
+	link "Vas pesjo"
+	link "javi Beta"
+
+system "hofli zciqfe"
+	pos 943 124
+	habitable nan
+	link "Kal cvaco"
+	link "rexze wugba"
+	link "Kal coga"
+	link "wxafqa Beta"
+
+system "javi Beta"
+	pos 1050 485
+	habitable nan
+	link "Kal Omega"
+	link "hfota bohfo"
+
+system "jose Beta"
+	pos 554 482
+	habitable nan
+	link "Hyl 30A2B03A"
+	link "xzedwe zexvi"
+
+system "jqoxo baju"
+	pos 660 502
+	habitable nan
+	link "vupe vupe"
+	link "Kal vesi"
+	link "Hyl 30A2B03A"
+	link "xiyi Omega"
+	link Neogen
+
+system "jroda lcincu"
+	pos 658 96
+	habitable nan
+
+system "lfebti vmonmi"
+	pos 745 571
+	habitable nan
+	link "vupe vupe"
+	link "rhuga Omega"
+
+system "mezyo Omega"
+	pos 1084 196
+	habitable nan
+	link "ruri Beta"
+	link "Xti Za"
+	link "Kal cvaco"
+
+system "nbuqo Aleph"
+	pos 717 334
+	habitable nan
+	link "Xti Aleph"
+	link "yaphe Omega"
+	link "Xti fcomu"
+
+system "ppeyo Za"
+	pos 951 631
+	habitable nan
+	link "Xti toldo"
+	link "qhuja cqucqu"
+
+system "qhuja cqucqu"
+	pos 1020 630
+	habitable nan
+	link "Xti toldo"
+	link "ppeyo Za"
+
+system "rexze wugba"
+	pos 889 137
+	habitable nan
+	link "fuytu Omega"
+	link "hofli zciqfe"
+
+system "rhuga Omega"
+	pos 798 546
+	habitable nan
+	link "lfebti vmonmi"
+	link "Stu mdeqi"
+
+system "ruri Beta"
+	pos 1102 285
+	habitable nan
+	link "fjune Omega"
+	link "mezyo Omega"
+	link "sajqu siphe"
+
+system "sajqu siphe"
+	pos 983 271
+	habitable nan
+	link "Stu Theta"
+	link "Xti zano"
+	link "ruri Beta"
+	link "Kal cvaco"
+
+system "vupe vupe"
+	pos 698 556
+	habitable nan
+	link "Stu mdeqi"
+	link "jqoxo baju"
+	link "Xti vijwo"
+	link "lfebti vmonmi"
+
+system "wcacva cqucqu"
+	pos 906 514
+	habitable nan
+	link "Xti Theta"
+	link "Xti toldo"
+	link "gijcu Aleph"
+	link "hfota bohfo"
+	link "Vas pesjo"
+
+system "wxafqa Beta"
+	pos 937 52
+	habitable nan
+	link "Kal coga"
+	link "Stu tazu"
+	link "hofli zciqfe"
+
+system "xiyi Omega"
+	pos 608 540
+	habitable nan
+	link "jqoxo baju"
+	link "xzedwe zexvi"
+
+system "xowxa Omega"
+	pos 554 315
+	government HyFed
+	habitable nan
+	link "Hyl 20A190B9"
+	link "Hyl 8C0A9C11"
+	link Mata
+	link "Hyl C3CCB82D"
+	link "Hyl 1ABA0005"
+
+system "xupva Aleph"
+	pos 1024 529
+	habitable nan
+	link "Xti toldo"
+	link "Stu Za"
+
+system "xzedwe zexvi"
+	pos 571 520
+	habitable nan
+	link "xiyi Omega"
+	link "jose Beta"
+
+system "yaphe Omega"
+	pos 779 300
+	habitable nan
+	link "nbuqo Aleph"
+	link "zsono Aleph"
+
+system "zsono Aleph"
+	pos 839 360
+	habitable nan
+	link "yaphe Omega"
+	link "Kal wina"
+	link "Kal Beta"
+	link "Xti fcomu"
+	link "hera Za"
+
 planet "Aesh's Lab"
 	landscape land/valley10-sfiera
 	shipyard "Hylinx Shipyard"
@@ -1422,6 +1838,9 @@ planet "Aesh's Lab"
 		recharge all
 
 planet "Casillir's Folly"
+	landscape ""
+
+planet Genesis
 	landscape ""
 
 planet "Hyl 8B998401 b"

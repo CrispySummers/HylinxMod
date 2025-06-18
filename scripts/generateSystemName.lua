@@ -1,9 +1,3 @@
-local nSystems = 80
-local rangeOfX = {350, 1000}
-local rangeOfY = {120, 450}
-
-local systemIDRange = math.pow(16, 8)
-
 possibleNamePrefixes = {
   "Stu",
   "Xti",
@@ -62,21 +56,5 @@ function generateRandomSystemName(possibleNamePrefixes, possibleNameSuffixes, po
 end
 
 for i = 1, 72, 1 do
-  print()
-end
-
-
-for i = 1, nSystems, 1 do
-    math.randomseed(i)
-    local systemPosX = math.random(rangeOfX[1], rangeOfX[2])
-    local systemPosY = math.random(rangeOfY[1], rangeOfY[2])
-    local systemIDInName = math.random(0, systemIDRange)
-    local systemName =  generateRandomSystemName(possibleNamePrefixes, possibleNameSuffixes, globalPossibleConsonants, globalPossibleVowels, os.time() * i)
-    -- string.format("Hyl %X", systemIDInName)
-
-
-    print(string.format([[
-system "%s"
-    pos %.1f %.1f
-]], systemName, systemPosX, systemPosY))
+  print(generateRandomSystemName(possibleNamePrefixes, possibleNameSuffixes, globalPossibleConsonants, globalPossibleVowels, os.time() * i))
 end
