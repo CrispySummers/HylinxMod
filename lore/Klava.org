@@ -1,0 +1,30 @@
+#+title: Klava
+- Klava
+  - environmental
+    - territory: clockwise of the HyFed, and thus the first faction the player is likely to meet. has around 30 star systems.
+    - resources:
+  - economic
+    - needs
+      - metals for building tech
+      - biological material for building more people?
+    - imports
+    - exports
+    - constructions
+      - lots of stations for pumping out warships, to keep up their sovereignty against the HyFed.
+      - virtual worlds
+  - political
+    - governance structure
+      - there is no central governing body. the polities have a set of rules which they all agree to, and may punish the governers of polities who don't follow those rules
+    - rules
+      - freedom of mind, speech, augmentation, association, and place
+      - prohibition of causing suffering in any way
+  - interpolitical
+    - relations
+      - Corps: the most positive, as the Corps are eager to sell their stuff! the Corps also like the idea of augmentation, though are wary of how their two other customers may react to them doing business with the Klava...
+      - Verohata: most hostile.
+  - cultural
+    - cultural ethos: strives to self-improvement via augmentation, hard-working, relaxed, and so on
+    - what does this culture value?
+      - freedom... within a framework
+    - what doesn't this culture value?
+      - conservatism

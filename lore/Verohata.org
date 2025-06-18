@@ -1,0 +1,8 @@
+#+title: Verohata
+- Verohata
+  - environmental
+    -
+  - economic
+  - political
+  - interpolitical
+  - cultural
