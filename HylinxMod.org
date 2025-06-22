@@ -8,85 +8,7 @@
 to create a set of factions, planets, and missions for a plant civilization in Endless Sky that is worthy of being included in the main game!
 ** why am I doing this?
 for fun! Also I think it would be really novel, and would add a lot to ES. And I love ES! and also for validation
-** basket
-*** what do I already know about this project?
-**** lore
-- The Hylinx are a group of species of plants, fungi, and a few sessile animals that originate from Sawi and have developed an interstellar civilization.
-- species
-  - Eyed Vines
-    - eyes, good for seeing
-      - what might they use these eyes for, though?
-      - probably to see where it is best to grow? but doesn't chemosense do that better?
-    - environment:
-  - Sporadic
-    - smaller fungus, capable of sending spores to hijack the brains of animals to do its bidding, and directly commanding them
-- things to flesh out for species
-  - environment
-  - reproduction
-  - growth
-  - social structure
-  - family structure
-  - challenges
-  - diet
-- gotta get feedback on this!
-  - maybe ask about Intelligent Plants on OA
-- botanopsychology
-*** what don't I know that I need to find out?
-- what conditions would lead to sapient plants?
-- is this a good fit for Endless Sky? ask in Github
-*** what can I read or listen to for relevant ideas?
-- Semiosis & Interference
-- web lol
-*** who can I talk to who might provide insights?
-** another basket: more stuff
-*** what is my goal or intention?
-create content (systems, ships, and lore) for ES that introduces a plant civilization
-*** what do I already know about this project?
-- I should check out Semiosis and Interference
-- species that I want to add
-  - Violetstalk
-    -
-  - Sporadic
-  - Eyed Vines
-- factions that I want to add
-  - Klava
-  - HyFed
-  - HyCorps
-- things to flesh out
-  - environment
-    - territory
-    - resources available
-  - economics
-    - needs
-    - imports
-    - exports
-  - politics
-    - governance structure
-    - goals
-    - "personality"
-  - relationships
-  - culture
-    - values
-    - anti-values
-- what I should flesh out for each species
-  - habitat
-  - defense
-  - diet
-  - senses
-  - reproduction
-*** what don't I know that I need to find out?
-- I didn't do this one last time; I must now.
-- what is the best way to flesh out alien species?
-  - I already know, to some extent, how to make alien species, but I am wondering what the best ways are. Definitely worth investing research!
-- can this ever fit in ES? if it doesn't fit in ES, will it still be good?
-- is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
-*** what can I read or listen to for relevant ideas?
-- Modmaking
-- Alien Species Making
-- any other pieces of media on intelligent plants
-*** who can I talk to who might provide insights?
-- I should definitely VERY much talk to the Endless Sky community about this. maybe over on Discord?
-** TODO plan "Hylinx Mod" [2/5]
+** TODO plan "Hylinx Mod" [3/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -115,12 +37,13 @@ CLOCK: [2025-06-22 Sun 15:11]--[2025-06-22 Sun 15:14] =>  0:03
 :END:
 <2025-06-22 Sun 15:36-15:40>
 **** make sure to scour the project archives as well
-*** TODO consolidate the basket of "Hylinx Mod" into a component outline :think:@computer:
+*** DONE consolidate the basket of "Hylinx Mod" into a component outline :think:@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
 :LOGBOOK:
-CLOCK: [2025-06-22 Sun 15:14]
+- State "DONE"       from "TODO"       [2025-06-22 Sun 15:22]
+CLOCK: [2025-06-22 Sun 15:14]--[2025-06-22 Sun 15:22] =>  0:08
 :END:
 <2025-06-22 Sun 15:40-15:44>
 
@@ -136,6 +59,107 @@ CLOCK: [2025-06-22 Sun 15:14]
 :END:
 <2025-06-22 Sun 15:52-16:00>
 
+** TODO components [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** research [/]
+**** research what experts think on Intelligent Plants [/]
+**** research what the existing depictions of Intelligent Plants are [/]
+**** research what conditions would lead to Intelligent Plants [/]
+**** research existing examples of Plant Intelligent [/]
+*** TODO discussion [0/1]
+**** TODO discuss this project's concept in the ES discord (and ask some questions listed under this entry)
+***** questions to ask
+- is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
+- can this ever fit in ES? if it doesn't fit in ES, will it still be good?
+**** discuss this project's concept in the ES Github
+*** first contact mission [/]
+*** ships [/]
+*** factions [/]
+**** Klava [/]
+***** environment
+****** territory
+****** resources available
+***** economics
+****** needs
+****** imports
+****** exports
+***** politics
+****** governance structure
+****** goals
+****** "personality"
+***** relationships
+***** culture
+****** values
+****** anti-values
+**** HyFed [/]
+***** environment
+****** territory
+****** resources available
+***** economics
+****** needs
+****** imports
+****** exports
+***** politics
+****** governance structure
+****** goals
+****** "personality"
+***** relationships
+***** culture
+****** values
+****** anti-values
+**** HyCorps [/]
+***** environment
+****** territory
+****** resources available
+***** economics
+****** needs
+****** imports
+****** exports
+***** politics
+****** governance structure
+****** goals
+****** "personality"
+***** relationships
+***** culture
+****** values
+****** anti-values
+**** Verohata [/]
+***** environment
+****** territory
+****** resources available
+***** economics
+****** needs
+****** imports
+****** exports
+***** politics
+****** governance structure
+****** goals
+****** "personality"
+***** relationships
+***** culture
+****** values
+****** anti-values
+*** species [/]
+**** Violetstalk
+***** habitat
+***** growth
+***** reproduction
+***** social structure - including family
+***** diet
+**** Sporadic
+***** habitat
+***** growth
+***** reproduction
+***** social structure - including family
+***** diet
+**** Eyed Vines
+***** habitat
+***** growth
+***** reproduction
+***** social structure - including family
+***** diet
 ** TODO finish "Hylinx Mod" [0/1]
 :PROPERTIES:
 :ORDERED:  t
