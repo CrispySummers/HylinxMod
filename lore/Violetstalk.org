@@ -1,0 +1,24 @@
+#+title: Violetstalk
+- Violetstalk
+  - enviroment: Tundra
+  - reproduction: spreads pollen by either by air or by insect; decides on which based on instincts and sometimes deliberate choice. the pollen reaches the partner plant and the flower turns into a fruit, which is eaten by the "pets" of the Violetstalk and the seeds inside go out with the dung and enter the environment...
+  - growth:
+    - embryo: not sentient at this stage
+    - sapling: sentient for the first time. the forest will often attempt to establish connections to them to teach them and train them. for example, if a sapling is near a potential river, the forest may teach the sapling to dam it and store it somehow. the forest may also teach a sapling how to catch food.
+    - adolescent: physically and mentally mature enough at this point to start doing some of the forest's work, though is still in training. but the barriers between adolescence and adulthood are blurry...
+    - adulthood: starts doing the work lol
+  - social structure
+    - Violetstalk usually have up to 216 relations, though they usually only have 30 to 50 close relations.
+    - Violetstalk usually unite into polities like us humans
+  - family structure
+    - Violetstalk don't choose mates (since insects or birds do their pollination work for them) but they do childcare since each child is costly! Childcare is mainly feeding, nurturing, and teaching. Teaching is as described above.
+    - Childcare is collective.
+ - diet
+   - whatever the Maw digests.
+   - stuff from the soil
+ - challenges
+   - managing land, especially in new habitats that they break into
+   - keeping their animals in their favour
+   - protecting their animals from predators
+   - domesticating the animals
+   - cooperating with themselves and other animals
