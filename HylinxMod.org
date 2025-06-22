@@ -8,7 +8,7 @@
 to create a set of factions, planets, and missions for a plant civilization in Endless Sky that is worthy of being included in the main game!
 ** why am I doing this?
 for fun! Also I think it would be really novel, and would add a lot to ES. And I love ES! and also for validation
-** TODO plan "Hylinx Mod" [3/5]
+** TODO plan "Hylinx Mod" [4/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -47,9 +47,13 @@ CLOCK: [2025-06-22 Sun 15:14]--[2025-06-22 Sun 15:22] =>  0:08
 :END:
 <2025-06-22 Sun 15:40-15:44>
 
-*** TODO break down the components of "Hylinx Mod" into smaller ones :think:@computer:
+*** DONE break down the components of "Hylinx Mod" into smaller ones :think:@computer:
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-22 Sun 15:29]
+CLOCK: [2025-06-22 Sun 15:22]--[2025-06-22 Sun 15:29] =>  0:07
 :END:
 <2025-06-22 Sun 15:44-15:52>
 
@@ -57,90 +61,259 @@ CLOCK: [2025-06-22 Sun 15:14]--[2025-06-22 Sun 15:22] =>  0:08
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+:LOGBOOK:
+CLOCK: [2025-06-22 Sun 15:35]--[2025-06-22 Sun 15:41] =>  0:06
+CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
+:END:
 <2025-06-22 Sun 15:52-16:00>
 
-** TODO components [0/1]
+** TODO components [0/6]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** research [/]
-**** research what experts think on Intelligent Plants [/]
-**** research what the existing depictions of Intelligent Plants are [/]
-**** research what conditions would lead to Intelligent Plants [/]
-**** research existing examples of Plant Intelligent [/]
-*** TODO discussion [0/1]
-**** TODO discuss this project's concept in the ES discord (and ask some questions listed under this entry)
-***** questions to ask
-- is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
-- can this ever fit in ES? if it doesn't fit in ES, will it still be good?
-**** discuss this project's concept in the ES Github
-*** first contact mission [/]
+*** TODO research [0/4] :@computer:@internet:
+**** TODO research what experts think on Intelligent Plants [0/1]
+***** TODO look online for and take notes on what experts think on Intelligent Plants
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO research what the existing depictions of Intelligent Plants are [0/1]
+***** TODO look online for and take notes on what the existing depictions of Intelligent Plants are
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO research what conditions would lead to Intelligent Plants [0/1]
+***** TODO look online for and take notes on what conditions would lead to Intelligent Plants
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO research existing examples of Plant Intelligence [0/1]
+***** TODO look online for and take notes on existing examples of Plant Intelligence
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO discussion [0/2]
+**** TODO discuss this project's concept in the ES discord [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO ask some questions about the Hylinx concept on the ES Discord - ask some questions listed under this entry
+- questions to ask
+  - is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
+  - can this ever fit in ES? if it doesn't fit in ES, will it still be good?
+***** WAIT wait for 3 pieces of feedback
+**** TODO discuss this project's concept in the ES Github [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO ask some questions about the Hylinx concept on the ES Github - ask some questions listed under this entry
+- questions to ask
+  - is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
+  - can this ever fit in ES? if it doesn't fit in ES, will it still be good?
+***** WAIT wait for 3 pieces of feedback
+*** TODO first contact mission [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO ideas [0/1]
+***** TODO brainstorm missions to add to the first contact mission :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO goals [0/1]
+***** TODO describe my goals for the First Conact Mission :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO conversations [0/1]
+***** TODO write conversation entries for each of the missions :@computer:think:
+:PROPERTIES:
+:EFFORT:   30min
+:END:
+*** TODO jobs [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO describe jobs to be done in Hylinx Space :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO remix the existing job definitions into ones that work in Hylinx Space :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+*** TODO ship and outfit "personality" [0/2]
+the ES crew have stated that they want all outfits in ES to have pros and cons, instead of one set being Superior in all aspects
+**** TODO brainstorm what set of "pros and cons" Hylinx outfits - both generally and faction-specific - might have :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO select 3 pros and cons of Hylinx Outfits :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO outfits [0/2]
+**** TODO cooling [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 10 cooling outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 cooling outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO write definitions for the cooling outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO energy [/]
+***** TODO brainstorm 15 energy outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 5 energy outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO write definitions for the energy outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** weapons [/]
+***** beam weapons [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm 10 beam weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO select 3 beam weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write definitions for the beam weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** missile weapons [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm 10 missile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO select 3 missile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write definitions for the missile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** projectile weapons [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm 10 projectile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO select 3 projectile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write definitions for the projectile weapon outfits of the Hylinx :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 *** ships [/]
+**** transport [/]
+***** brainstorm
+**** light freighter [/]
+**** heavy freighter [/]
+**** light warship [/]
+**** medium warship [/]
+**** heavy warship [/]
+**** interceptor [/]
+**** utility [/]
+**** drone [/]
+**** carrier [/]
 *** factions [/]
 **** Klava [/]
-***** environment
+***** environment [/]
 ****** territory
 ****** resources available
-***** economics
+***** economics [/]
 ****** needs
 ****** imports
 ****** exports
-***** politics
+***** politics [/]
 ****** governance structure
 ****** goals
 ****** "personality"
-***** relationships
-***** culture
+***** relationships [/]
+***** culture [/]
 ****** values
 ****** anti-values
 **** HyFed [/]
-***** environment
+***** environment [/]
 ****** territory
 ****** resources available
-***** economics
+***** economics [/]
 ****** needs
 ****** imports
 ****** exports
-***** politics
+***** politics [/]
 ****** governance structure
 ****** goals
 ****** "personality"
-***** relationships
-***** culture
+***** relationships [/]
+***** culture [/]
 ****** values
 ****** anti-values
 **** HyCorps [/]
-***** environment
+***** environment [/]
 ****** territory
 ****** resources available
-***** economics
+***** economics [/]
 ****** needs
 ****** imports
 ****** exports
-***** politics
+***** politics [/]
 ****** governance structure
 ****** goals
 ****** "personality"
-***** relationships
-***** culture
+***** relationships [/]
+***** culture [/]
 ****** values
 ****** anti-values
 **** Verohata [/]
-***** environment
+***** environment [/]
 ****** territory
 ****** resources available
-***** economics
+***** economics [/]
 ****** needs
 ****** imports
 ****** exports
-***** politics
+***** politics [/]
 ****** governance structure
 ****** goals
 ****** "personality"
-***** relationships
-***** culture
+***** relationships [/]
+***** culture [/]
 ****** values
 ****** anti-values
+*** central aspect [/]
+*** factions [/]
+**** Klava [/]
+**** Verohati [/]
+**** HyFed [/]
+**** HyCorps [/]
 *** species [/]
 **** Violetstalk
 ***** habitat
