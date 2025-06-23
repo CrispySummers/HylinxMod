@@ -1,6 +1,6 @@
 #+title: Hylinx Mod
 #+FILETAGS: :work:
-* TODO "Hylinx Mod" [0%]
+* TODO "Hylinx Mod" [33%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -8,7 +8,7 @@
 to create a set of factions, planets, and missions for a plant civilization in Endless Sky that is worthy of being included in the main game!
 ** why am I doing this?
 for fun! Also I think it would be really novel, and would add a lot to ES. And I love ES! and also for validation
-** TODO plan "Hylinx Mod" [4/5]
+** DONE plan "Hylinx Mod" [5/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -57,30 +57,40 @@ CLOCK: [2025-06-22 Sun 15:22]--[2025-06-22 Sun 15:29] =>  0:07
 :END:
 <2025-06-22 Sun 15:44-15:52>
 
-*** TODO sketch out tasks of "Hylinx Mod" :flow:@computer:
+*** DONE sketch out tasks of "Hylinx Mod" :flow:@computer:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 15:04]
+CLOCK: [2025-06-23 Mon 14:59]--[2025-06-23 Mon 15:04] =>  0:05
 CLOCK: [2025-06-22 Sun 15:35]--[2025-06-22 Sun 15:41] =>  0:06
 CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 :END:
-<2025-06-23 Mon 15:52-16:00>
+<2025-06-23 Mon 15:10-15:22>
 
-** TODO components [0/6]
+** TODO components [0/8]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO research [0/4] :@computer:@internet:
-**** TODO research what experts think on Intelligent Plants [0/1]
-***** TODO look online for and take notes on what experts think on Intelligent Plants
+*** TODO research [1/4] :@computer:@internet:
+**** DONE research what experts think on Intelligent Plants [1/1]
+***** DONE look online for and take notes on what experts think on Intelligent Plants
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 15:21]
+CLOCK: [2025-06-23 Mon 15:05]--[2025-06-23 Mon 15:21] =>  0:16
+:END:
+<2025-06-23 Mon 15:22-15:30>
 **** TODO research what the existing depictions of Intelligent Plants are [0/1]
 ***** TODO look online for and take notes on what the existing depictions of Intelligent Plants are
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+CLOCK: [2025-06-23 Mon 15:21]--[2025-06-23 Mon 15:24] =>  0:03
 :END:
 **** TODO research what conditions would lead to Intelligent Plants [0/1]
 ***** TODO look online for and take notes on what conditions would lead to Intelligent Plants
@@ -152,7 +162,7 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** TODO outfits [0/2]
+*** TODO outfits [0/3]
 **** TODO cooling [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -182,8 +192,8 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** weapons [/]
-***** beam weapons [/]
+**** TODO weapons [0/3]
+***** TODO beam weapons [/]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -199,7 +209,7 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** missile weapons [/]
+***** TODO missile weapons [/]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -215,7 +225,7 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** projectile weapons [/]
+***** TODO projectile weapons [/]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -231,18 +241,181 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** ships [/]
-**** transport [/]
-***** brainstorm
+*** TODO ships [0/3]
+**** TODO transport [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 transport ship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 transport ships :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 transport ships :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** light freighter [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 light freighter ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 light freighters :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 light freighters :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** heavy freighter [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 heavy freighter ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 heavy freighters :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 heavy freighters :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** light warship [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 light warship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 light warships :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 light warships :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** medium warship [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 medium warship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 medium warships :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 medium warships :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** heavy warship [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 heavy warship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 heavy warships :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 heavy warships :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** interceptor [/]
-**** utility [/]
-**** drone [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 interceptor ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 interceptors :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 interceptors :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO utility [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 interceptor ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 interceptors :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 interceptors :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO drone [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 drone ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 drones :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 drones :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 **** carrier [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm 5 carrier ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO select 3 carriers :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write up definitions for 3 carriers :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** placeholder assets [/]
+*** TODO assets [0/1]
+**** TODO write tasks for each of the ships and outfits that I made :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** task format
+****** label components with shape, location, and texture
+****** draw an outline
+****** draw a truer outline
+****** fill in color
+****** fill in texture
+****** add secondary details
+****** add ternary details
 *** factions [/]
 **** Klava [/]
 ***** environment [/]
