@@ -69,11 +69,11 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 :END:
 <2025-06-23 Mon 15:10-15:22>
 
-** TODO components [0/8]
+** TODO components [1/8]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO research [1/4] :@computer:@internet:
+*** DONE research [4/4] :@computer:@internet:
 **** DONE research what experts think on Intelligent Plants [1/1]
 ***** DONE look online for and take notes on what experts think on Intelligent Plants
 :PROPERTIES:
@@ -84,24 +84,37 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 CLOCK: [2025-06-23 Mon 15:05]--[2025-06-23 Mon 15:21] =>  0:16
 :END:
 <2025-06-23 Mon 15:22-15:30>
-**** TODO research what the existing depictions of Intelligent Plants are [0/1]
-***** TODO look online for and take notes on what the existing depictions of Intelligent Plants are
+**** DONE research what the existing depictions of Intelligent Plants are [1/1]
+***** DONE look online for and take notes on what the existing depictions of Intelligent Plants are
 :PROPERTIES:
 :EFFORT:   10min
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 15:02]
+CLOCK: [2025-06-24 Tue 15:00]--[2025-06-24 Tue 15:02] =>  0:02
 CLOCK: [2025-06-23 Mon 15:21]--[2025-06-23 Mon 15:24] =>  0:03
 :END:
-**** TODO research what conditions would lead to Intelligent Plants [0/1]
-***** TODO look online for and take notes on what conditions would lead to Intelligent Plants
+<2025-06-24 Tue 15:00-15:10>
+**** DONE research what conditions would lead to Intelligent Plants [1/1]
+***** DONE look online for and take notes on what conditions would lead to Intelligent Plants
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO research existing examples of Plant Intelligence [0/1]
-***** TODO look online for and take notes on existing examples of Plant Intelligence
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 15:10]
+CLOCK: [2025-06-24 Tue 15:02]--[2025-06-24 Tue 15:10] =>  0:08
+:END:
+<2025-06-24 Tue 15:10-15:20>
+**** DONE research existing examples of Plant Intelligence [1/1]
+***** DONE look online for and take notes on existing examples of Plant Intelligence
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 15:12]
+CLOCK: [2025-06-24 Tue 15:10]--[2025-06-24 Tue 15:12] =>  0:02
+:END:
+<2025-06-24 Tue 15:20-15:30>
 *** TODO discussion [0/2]
 **** TODO discuss this project's concept in the ES discord [0/1]
 :PROPERTIES:
@@ -130,11 +143,13 @@ CLOCK: [2025-06-23 Mon 15:21]--[2025-06-23 Mon 15:24] =>  0:03
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+<2025-06-24 Tue 15:35-15:47>
 **** TODO goals [0/1]
 ***** TODO describe my goals for the First Conact Mission :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-24 Tue 15:47-15:55>
 **** TODO conversations [0/1]
 ***** TODO write conversation entries for each of the missions :@computer:think:
 :PROPERTIES:
@@ -250,14 +265,17 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:05-15:13>
 ***** TODO select 3 transport ships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+<2025-06-25 Wed 15:05-15:06>
 ***** TODO write up definitions for 3 transport ships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:06-15:14>
 **** light freighter [/]
 :PROPERTIES:
 :ORDERED:  t
@@ -266,14 +284,17 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:14-15:22>
 ***** TODO select 3 light freighters :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+<2025-06-25 Wed 15:22-15:23>
 ***** TODO write up definitions for 3 light freighters :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:23-15:31>
 **** heavy freighter [/]
 :PROPERTIES:
 :ORDERED:  t
@@ -282,14 +303,17 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:36-15:44>
 ***** TODO select 3 heavy freighters :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+<2025-06-25 Wed 15:44-15:45>
 ***** TODO write up definitions for 3 heavy freighters :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:45-15:53>
 **** light warship [/]
 :PROPERTIES:
 :ORDERED:  t
@@ -298,14 +322,17 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-25 Wed 15:58-16:05>
 ***** TODO select 3 light warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+<2025-06-26 Thu 14:30-14:31>
 ***** TODO write up definitions for 3 light warships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-26 Thu 14:31-14:39>
 **** medium warship [/]
 :PROPERTIES:
 :ORDERED:  t

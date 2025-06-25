@@ -1,13 +1,11 @@
 # randomly generated
 
 system "Caca Bata"
-	pos 637.5 155
-	government HyFed
+	pos 930.5 393
+	government Verohata
 	habitable 2201.68
-	link "Hyl 27317E2D"
-	link "Hyl 6A5646CB"
-	link "Hyl 627BD9BA"
-	link "Hyl 5F8DC91D"
+	link "cuqsa Aleph"
+	link "Vas pesjo"
 	asteroids "small rock" 1 3.822
 	asteroids "medium rock" 23 4.017
 	asteroids "large rock" 14 4.602
@@ -52,12 +50,10 @@ system "Caca Bata"
 		haze _menu/haze-tear
 
 system Gateway
-	pos 405.53 345
+	pos 508.53 323
 	government HyFed
 	habitable 233.28
-	link "Hyl 8B998401"
 	link "Hyl 8C0A9C11"
-	link "Hyl 20A190B9"
 	haze _menu/haze-tear
 	arrival 1000
 	object
@@ -65,7 +61,7 @@ system Gateway
 		period 10
 		haze _menu/haze-tear
 		arrival 1000
-	object
+	object "Cocha's Memory"
 		sprite planet/ice2
 		distance 251.25
 		period 104.299
@@ -115,48 +111,56 @@ system Gateway
 			arrival 1000
 
 system "Hyl 10000000"
-	pos 502.126 383.854
-	government Technocrat
-	habitable 425.92
+	pos 534.126 391.854
+	government HyFed
+	habitable 233.28
 	link "Hyl 20A190B9"
 	link "Hyl 1ABA0005"
 	asteroids "large metal" 1 1.032
 	object
-		sprite star/k5
+		sprite star/m4
 		period 10
 	object
-		sprite planet/rock5
-		distance 132.16
-		period 29.4473
+		sprite planet/desert0
+		distance 143.64
+		period 45.0852
 	object
-		sprite planet/rock1
-		distance 409.52
-		period 160.623
+		sprite planet/rock2
+		distance 515.48
+		period 306.506
 	object
-		sprite planet/venus
-		distance 987.16
-		period 601.142
+		sprite planet/mars
+		distance 720.97
+		period 506.987
 	object
-		sprite planet/gas0
-		distance 2135.41
-		period 1912.57
+		sprite planet/ice7
+		distance 965.66
+		period 785.882
+	object
+		sprite planet/jupiter
+		distance 1579.42
+		period 1643.87
 		object
-			sprite planet/lava0
-			distance 259
-			period 12.2154
+			sprite planet/oberon
+			distance 254
+			period 12.7207
 		object
-			sprite planet/europa
-			distance 411
-			period 24.4185
+			sprite planet/rock7
+			distance 326
+			period 18.4964
+	object
+		sprite planet/gas3
+		distance 3537.46
+		period 5510.09
 		object
-			sprite planet/rock0
-			distance 519
-			period 34.6503
+			sprite planet/desert4
+			distance 278
+			period 11.8395
 
 system "Hyl 1ABA0005"
-	pos 567.126 371.854
-	government Technocrat
-	habitable 621.68
+	pos 593.126 371.854
+	government HyFed
+	habitable 425.92
 	link "Hyl 10000000"
 	link "Hyl ABC03010"
 	link "Hyl 30A2B03A"
@@ -168,90 +172,96 @@ system "Hyl 1ABA0005"
 	asteroids "medium metal" 9 9.6309
 	asteroids "large metal" 1 4.4631
 	object
-		sprite star/k0
-		distance 19.5438
-		period 13.6975
-		offset 180
+		sprite star/k5
+		period 10
 	object
-		sprite star/m8
-		distance 70.4562
-		period 13.6975
-	object
-		sprite planet/fog0
-		distance 316.416
-		period 90.2952
-	object
-		sprite planet/rock13
-		distance 580.906
-		period 224.613
-	object
-		sprite planet/neptune
-		distance 1027.16
-		period 528.118
-	object
-		sprite planet/gas7
-		distance 2130.37
-		period 1577.46
+		sprite planet/rock18
+		distance 275.56
+		period 88.6585
 		object
-			sprite planet/dust0
-			distance 251
-			period 14.1462
+			sprite planet/rock0
+			distance 155
+			period 24.2583
+	object
+		sprite planet/gas16
+		distance 857.57
+		period 486.744
 		object
-			sprite planet/dust1
-			distance 399
-			period 28.3524
+			sprite planet/miranda
+			distance 214
+			period 16.4785
 		object
-			sprite planet/rhea
-			distance 514
-			period 41.4548
+			sprite planet/ice8
+			distance 303
+			period 27.7627
+	object
+		sprite planet/desert9
+		distance 1330.38
+		period 940.502
+	object
+		sprite planet/gas6
+		distance 2852.34
+		period 2952.55
+		object
+			sprite planet/ice0
+			distance 276
+			period 11.7119
+		object
+			sprite planet/dust3
+			distance 383
+			period 19.1453
 
 system "Hyl 20A190B9"
-	pos 467 350
+	pos 568 336
 	government HyFed
-	habitable 425.92
+	habitable 486.68
 	link "Hyl 8C0A9C11"
-	link Gateway
 	link "Hyl 10000000"
 	link "xowxa Omega"
 	haze _menu/haze-tear
 	object
-		sprite star/k5
+		sprite star/k0
 		period 10
 		haze _menu/haze-tear
 	object
-		sprite planet/lava2
-		distance 123.69
-		period 26.6623
+		sprite planet/rock5
+		distance 136.24
+		period 28.8334
 		haze _menu/haze-tear
 	object
-		sprite planet/lava6
-		distance 340.53
-		period 121.795
-		haze _menu/haze-tear
-	object "Zaminar's Coarsey"
-		sprite planet/cloud8
-		distance 578.29
-		period 269.535
+		sprite planet/lava5
+		distance 373.08
+		period 130.66
 		haze _menu/haze-tear
 	object
-		sprite planet/rock6
-		distance 1004.93
-		period 617.447
+		sprite planet/ice4
+		distance 1021.57
+		period 592.026
 		haze _menu/haze-tear
 		object
-			sprite planet/ice7
-			distance 136
-			period 19.9375
+			sprite planet/ice8
+			distance 123
+			period 17.1483
 			haze _menu/haze-tear
 	object
-		sprite planet/uranus
-		distance 2917.34
-		period 3054.05
+		sprite planet/gas3
+		distance 1520.82
+		period 1075.36
+		haze _menu/haze-tear
+	object
+		sprite planet/gas0
+		distance 2303.06
+		period 2003.99
 		haze _menu/haze-tear
 		object
-			sprite planet/dust3
-			distance 206
-			period 12.6321
+			sprite planet/callisto
+			distance 296
+			period 14.9243
+			haze _menu/haze-tear
+		object
+			sprite planet/oberon
+			distance 420
+			period 25.225
 			haze _menu/haze-tear
 
 system "Hyl 2478245D"
@@ -308,7 +318,6 @@ system "Hyl 27317E2D"
 	government HyFed
 	habitable 912.6
 	link "Hyl 2478245D"
-	link "Caca Bata"
 	link "Hyl BE15A874"
 	link "Hyl 627BD9BA"
 	haze _menu/haze-tear
@@ -355,7 +364,7 @@ system "Hyl 27317E2D"
 		haze _menu/haze-tear
 
 system "Hyl 2ED4511A"
-	pos 610 263
+	pos 630 260
 	government HyFed
 	habitable 320
 	link "Hyl 2478245D"
@@ -409,14 +418,13 @@ system "Hyl 2ED4511A"
 
 system "Hyl 30A2B03A"
 	pos 587.126 437.854
-	government Technocrat
+	government HyFed
 	habitable 320
 	link "Hyl ABC03010"
 	link "Hyl 1ABA0005"
 	link "jqoxo baju"
 	link "jose Beta"
 	link "Vas Beta"
-	link Neogen
 	asteroids "medium rock" 4 7.0056
 	asteroids "large rock" 14 6.048
 	asteroids "small metal" 14 6.048
@@ -426,102 +434,29 @@ system "Hyl 30A2B03A"
 		sprite star/m0
 		period 10
 	object
-		sprite planet/cloud3
-		distance 282.61
-		period 106.235
-		object
-			sprite planet/miranda
-			distance 132
-			period 16.6761
+		sprite planet/dust2
+		distance 185
+		period 56.2656
 	object
-		sprite planet/rock11
-		distance 613.45
-		period 339.746
+		sprite planet/ocean7
+		distance 552.96
+		period 290.754
 	object
-		sprite planet/cloud1
-		distance 1071.26
-		period 784.02
+		sprite planet/gas15
+		distance 1255.77
+		period 995.062
 	object
-		sprite planet/uranus
-		distance 2357.55
-		period 2559.63
-		object
-			sprite planet/oberon
-			distance 208
-			period 12.8165
-		object
-			sprite planet/dust1
-			distance 327
-			period 25.2636
-
-system "Hyl 3D651BF8"
-	pos 483 188
-	government HyFed
-	habitable 1111.68
-	link "Hyl F23C33AE"
-	link "Stu Aleph"
-	link "Hyl 5D5FC342"
-	link "ddavma famtu"
-	haze _menu/haze-tear
-	object
-		sprite star/g5
-		distance 50.3456
-		period 14.7951
-		offset 180
-		haze _menu/haze-tear
-	object
-		sprite star/k0
-		distance 64.6544
-		period 14.7951
-		haze _menu/haze-tear
-	object
-		sprite planet/ice1
-		distance 254.904
-		period 48.8243
-		haze _menu/haze-tear
-	object
-		sprite planet/desert0
-		distance 695.944
-		period 220.258
-		haze _menu/haze-tear
-	object
-		sprite planet/jupiter
-		distance 1483.58
-		period 685.549
-		haze _menu/haze-tear
-		object
-			sprite planet/dust7
-			distance 257
-			period 12.9468
-			haze _menu/haze-tear
-	object
-		sprite planet/gas10
-		distance 2637.99
-		period 1625.48
-		haze _menu/haze-tear
-		object
-			sprite planet/ice8
-			distance 221
-			period 17.2936
-			haze _menu/haze-tear
-		object
-			sprite planet/io
-			distance 349
-			period 34.3191
-			haze _menu/haze-tear
-		object
-			sprite planet/luna
-			distance 480
-			period 55.3553
-			haze _menu/haze-tear
+		sprite planet/gas3
+		distance 2242.41
+		period 2374.42
 
 system "Hyl 5D5FC342"
 	pos 537 223
 	government HyFed
 	habitable 486.68
-	link "Hyl 3D651BF8"
 	link Mata
 	link "Hyl 6A5646CB"
+	link "Stu Aleph"
 	haze _menu/haze-tear
 	object
 		sprite star/k0
@@ -558,60 +493,6 @@ system "Hyl 5D5FC342"
 		period 3538.5
 		haze _menu/haze-tear
 
-system "Hyl 5F8DC91D"
-	pos 554 101
-	government HyFed
-	habitable 806.68
-	link "Caca Bata"
-	link "ddavma famtu"
-	haze _menu/haze-tear
-	object
-		sprite star/k0
-		distance 35.3052
-		period 11.8248
-		offset 180
-		haze _menu/haze-tear
-	object
-		sprite star/m0
-		distance 53.6948
-		period 11.8248
-		haze _menu/haze-tear
-	object
-		sprite planet/rock2
-		distance 300.785
-		period 73.4671
-		haze _menu/haze-tear
-	object
-		sprite planet/ocean4
-		distance 644.225
-		period 230.285
-		haze _menu/haze-tear
-		object
-			sprite planet/ice8
-			distance 172
-			period 20.5363
-			haze _menu/haze-tear
-	object
-		sprite planet/gas5
-		distance 1272.47
-		period 639.268
-		haze _menu/haze-tear
-		object
-			sprite planet/ice7
-			distance 250
-			period 13.1449
-			haze _menu/haze-tear
-	object
-		sprite planet/gas16
-		distance 1817.47
-		period 1091.22
-		haze _menu/haze-tear
-	object
-		sprite planet/neptune
-		distance 2832.16
-		period 2122.69
-		haze _menu/haze-tear
-
 system "Hyl 627BD9BA"
 	pos 704 172
 	government HyFed
@@ -619,7 +500,6 @@ system "Hyl 627BD9BA"
 	link "Hyl BBB3F355"
 	link "Hyl 27317E2D"
 	link "Hyl D5AE8C8D"
-	link "Caca Bata"
 	haze _menu/haze-tear
 	object
 		sprite star/k0
@@ -657,12 +537,11 @@ system "Hyl 627BD9BA"
 		haze _menu/haze-tear
 
 system "Hyl 6A5646CB"
-	pos 598 175
+	pos 576 186
 	government HyFed
 	habitable 425.92
 	link "Hyl 5D5FC342"
 	link "Hyl 2478245D"
-	link "Caca Bata"
 	haze _menu/haze-tear
 	object
 		sprite star/k5
@@ -700,7 +579,7 @@ system "Hyl 6A5646CB"
 		haze _menu/haze-tear
 
 system "Hyl 6EF35417"
-	pos 692 280
+	pos 737 255
 	government HyFed
 	habitable 425.92
 	link "Hyl C3CCB82D"
@@ -734,57 +613,12 @@ system "Hyl 6EF35417"
 			distance 372
 			period 20.2546
 
-system "Hyl 8B998401"
-	pos 400 285
-	government HyFed
-	habitable 233.28
-	link Gateway
-	link "Hyl 8C0A9C11"
-	link "Stu Aleph"
-	link "Hyl F23C33AE"
-	haze _menu/haze-tear
-	object
-		sprite star/m4
-		period 10
-		haze _menu/haze-tear
-	object "Hyl 8B998401 b"
-		sprite planet/desert1
-		distance 223.29
-		period 87.3826
-		haze _menu/haze-tear
-	object
-		sprite planet/neptune
-		distance 787.3
-		period 578.538
-		haze _menu/haze-tear
-		object
-			sprite planet/rock7
-			distance 194
-			period 13.4628
-			haze _menu/haze-tear
-		object
-			sprite planet/rock0
-			distance 283
-			period 23.7198
-			haze _menu/haze-tear
-	object
-		sprite planet/gas6
-		distance 1468.39
-		period 1473.61
-		haze _menu/haze-tear
-	object
-		sprite planet/luna
-		distance 2470.35
-		period 3215.58
-		haze _menu/haze-tear
-
 system "Hyl 8C0A9C11"
-	pos 439 316
-	government Technocrat
+	pos 558 303
+	government HyFed
 	habitable 858.28
 	link Gateway
 	link "Stu Aleph"
-	link "Hyl 8B998401"
 	link "Hyl 20A190B9"
 	link "xowxa Omega"
 	haze _menu/haze-tear
@@ -832,7 +666,7 @@ system "Hyl 8C0A9C11"
 
 system "Hyl 9B5E4943"
 	pos 772 189
-	government "House Verohati"
+	government HyFed
 	habitable 425.92
 	link "Hyl A36BC7F7"
 	link "Hyl BBB3F355"
@@ -885,7 +719,7 @@ system "Hyl 9B5E4943"
 
 system "Hyl A36BC7F7"
 	pos 766 235
-	government "House Verohati"
+	government HyFed
 	habitable 320
 	link "Hyl 6EF35417"
 	link "Hyl 9B5E4943"
@@ -942,8 +776,8 @@ system "Hyl A36BC7F7"
 
 system "Hyl ABC03010"
 	pos 634.126 382.854
-	government Technocrat
-	habitable 425.92
+	government HyFed
+	habitable 486.68
 	link "Hyl 1ABA0005"
 	link "Hyl 30A2B03A"
 	link "Xti Aleph"
@@ -955,56 +789,36 @@ system "Hyl ABC03010"
 	asteroids "medium metal" 22 4.056
 	asteroids "large metal" 2 8.346
 	object
-		sprite star/k5
+		sprite star/k0
 		period 10
 	object
-		sprite planet/ganymede
-		distance 137.69
-		period 31.3148
-	object
-		sprite planet/cloud0
-		distance 356.65
-		period 130.545
-	object
-		sprite planet/forest1
-		distance 756.09
-		period 402.955
+		sprite planet/rock18
+		distance 288.69
+		period 88.9377
 		object
-			sprite planet/rock3
-			distance 159
-			period 22.4555
+			sprite planet/lava0
+			distance 166
+			period 26.8859
 	object
-		sprite planet/rock14
-		distance 1224.98
-		period 830.978
+		sprite planet/desert0
+		distance 628.18
+		period 285.473
 	object
-		sprite planet/gas2
-		distance 1571.99
-		period 1208.01
-		object
-			sprite planet/rock7
-			distance 195
-			period 16.4993
+		sprite planet/rock8
+		distance 939.18
+		period 521.869
 	object
-		sprite planet/rock17
-		distance 1905.08
-		period 1611.63
-	object
-		sprite planet/gas12
-		distance 3990.33
-		period 4885.5
+		sprite planet/gas0
+		distance 1955.74
+		period 1568.21
 		object
-			sprite planet/miranda
-			distance 257
-			period 10.8214
+			sprite planet/dust3
+			distance 269
+			period 12.9296
 		object
-			sprite planet/rhea
-			distance 374
-			period 18.9973
-		object
-			sprite planet/dust5
-			distance 554
-			period 34.2491
+			sprite planet/ice0
+			distance 398
+			period 23.2692
 
 system "Hyl BBB3F355"
 	pos 703 229
@@ -1050,7 +864,7 @@ system "Hyl BBB3F355"
 			haze _menu/haze-tear
 
 system "Hyl BE15A874"
-	pos 652 245
+	pos 661 240
 	government HyFed
 	habitable 425.92
 	link "Hyl 27317E2D"
@@ -1098,7 +912,7 @@ system "Hyl BE15A874"
 			haze _menu/haze-tear
 
 system "Hyl C3CCB82D"
-	pos 612 308
+	pos 679 299
 	government HyFed
 	habitable 640
 	link "Hyl 2ED4511A"
@@ -1160,8 +974,8 @@ system "Hyl C3CCB82D"
 			haze _menu/haze-tear
 
 system "Hyl D5AE8C8D"
-	pos 719 137
-	government "House Verohati"
+	pos 739 162
+	government HyFed
 	habitable 135
 	link "Hyl 9B5E4943"
 	link "Hyl 627BD9BA"
@@ -1211,133 +1025,370 @@ system "Hyl D5AE8C8D"
 			period 29.641
 			haze _menu/haze-tear
 
-system "Hyl F23C33AE"
-	pos 446 233
-	government HyFed
-	habitable 135
-	link "Hyl 8B998401"
-	link "Stu Aleph"
-	link "Hyl 3D651BF8"
-	haze _menu/haze-tear
-	object
-		sprite star/m8
-		period 10
-		haze _menu/haze-tear
-	object
-		sprite planet/rock12
-		distance 215.61
-		period 108.992
-		haze _menu/haze-tear
-	object
-		sprite planet/rock4
-		distance 443.86
-		period 321.93
-		haze _menu/haze-tear
-	object
-		sprite planet/gas9
-		distance 967.11
-		period 1035.4
-		haze _menu/haze-tear
-		object
-			sprite planet/dust1
-			distance 234
-			period 13.4219
-			haze _menu/haze-tear
-		object
-			sprite planet/dust7
-			distance 323
-			period 21.7668
-			haze _menu/haze-tear
-	object
-		sprite planet/gas3
-		distance 1706.47
-		period 2426.84
-		haze _menu/haze-tear
-	object
-		sprite planet/gas4
-		distance 2206.23
-		period 3567.54
-		haze _menu/haze-tear
-
 system "Kal Aleph"
-	pos 775 -14
+	pos 928 130
+	government Consortium
 	habitable nan
 	link "Stu tazu"
 	link "Kal yiqe"
 	link "Kal fezwe"
 
 system "Kal Beta"
-	pos 848 284
+	pos 881 333
+	government Verohata
 	habitable nan
 	link "Xti Omega"
 	link "zsono Aleph"
 	link "Stu Theta"
 
 system "Kal Omega"
-	pos 1026 416
-	habitable nan
+	pos 991 405
+	government Verohata
+	habitable 806.68
 	link "Vas pesjo"
 	link "cuqsa Aleph"
 	link "javi Beta"
+	object
+		sprite star/k0
+		distance 35.3052
+		period 11.8248
+		offset 180
+	object
+		sprite star/m0
+		distance 53.6948
+		period 11.8248
+	object
+		sprite planet/rock2
+		distance 300.785
+		period 73.4671
+	object
+		sprite planet/ocean4
+		distance 644.225
+		period 230.285
+		object
+			sprite planet/ice8
+			distance 172
+			period 20.5363
+	object
+		sprite planet/gas5
+		distance 1272.47
+		period 639.268
+		object
+			sprite planet/ice7
+			distance 250
+			period 13.1449
+	object
+		sprite planet/gas16
+		distance 1817.47
+		period 1091.22
+	object
+		sprite planet/neptune
+		distance 2832.16
+		period 2122.69
 
 system "Kal Za"
-	pos 692 409
-	habitable nan
+	pos 716 399
+	government Technocrat
+	habitable 486.68
 	link "Hyl ABC03010"
 	link "Kal vesi"
-	link Neogen
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock2
+		distance 166.24
+		period 38.8635
+	object
+		sprite planet/dust5
+		distance 353
+		period 120.254
+	object
+		sprite planet/rock8
+		distance 571.25
+		period 247.558
+	object
+		sprite planet/ice6
+		distance 1106.61
+		period 667.468
+		object
+			sprite planet/dust1
+			distance 135
+			period 19.718
+	object
+		sprite planet/gas17
+		distance 2248.82
+		period 1933.62
+		object
+			sprite planet/ice7
+			distance 215
+			period 13.4689
+		object
+			sprite planet/io
+			distance 340
+			period 26.785
+		object
+			sprite planet/rock0
+			distance 433
+			period 38.4951
 
 system "Kal coga"
-	pos 1074 88
-	habitable nan
+	pos 1054 173
+	government Consortium
+	habitable 425.92
 	link "Xti Za"
 	link "wxafqa Beta"
 	link "hofli zciqfe"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/ice4
+		distance 229.81
+		period 67.5226
+	object
+		sprite planet/gas4
+		distance 682.81
+		period 345.817
+		object
+			sprite planet/ice7
+			distance 281
+			period 16.6133
+	object
+		sprite planet/gas13
+		distance 1847.17
+		period 1538.71
+		object
+			sprite planet/miranda
+			distance 283
+			period 13.4397
+		object
+			sprite planet/luna
+			distance 372
+			period 20.2546
 
 system "Kal cqucqu"
-	pos 1097 448
-	habitable nan
+	pos 1079 376
+	government Independent
+	habitable 486.68
 	link "Xti zano"
 	link "fjune Omega"
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/cloud1
+		distance 267.09
+		period 79.1452
+	object
+		sprite planet/ocean3
+		distance 498.58
+		period 201.855
+	object
+		sprite planet/gas9
+		distance 926.47
+		period 511.311
+		object
+			sprite planet/luna
+			distance 248
+			period 14.6443
+	object
+		sprite planet/gas1
+		distance 1776.91
+		period 1358.11
+	object
+		sprite planet/gas15
+		distance 2697.91
+		period 2540.85
 
 system "Kal cvaco"
-	pos 997 165
-	habitable nan
+	pos 1001 254
+	government Consortium
+	habitable 2035
 	link "sajqu siphe"
 	link "hofli zciqfe"
 	link "mezyo Omega"
+	object
+		sprite star/f5
+		distance 17.6118
+		period 10.5101
+	object
+		sprite star/m0
+		distance 94.3882
+		period 10.5101
+		offset 180
+	object
+		sprite planet/lava3
+		distance 300.638
+		period 46.2215
+	object
+		sprite planet/lava1
+		distance 586.448
+		period 125.928
+	object
+		sprite planet/rock4
+		distance 1203.7
+		period 370.3
+		object
+			sprite planet/rock17
+			distance 180
+			period 21.9856
+	object
+		sprite planet/desert7
+		distance 1778.51
+		period 665.061
+	object
+		sprite planet/gas7
+		distance 2302.47
+		period 979.644
+		object
+			sprite planet/luna
+			distance 254
+			period 14.4006
+		object
+			sprite planet/dust4
+			distance 366
+			period 24.9088
 
 system "Kal fezwe"
-	pos 713 70
-	habitable nan
+	pos 868 142
+	government Consortium
+	habitable 625
 	link "famtu mzosi"
 	link "Xti fadu"
 	link "Kal Aleph"
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock17
+		distance 110.29
+		period 18.5321
+	object
+		sprite planet/rock15
+		distance 263.65
+		period 68.4954
+	object
+		sprite planet/rock1
+		distance 448.74
+		period 152.094
+	object
+		sprite planet/gas13
+		distance 1463.75
+		period 896.025
+		object
+			sprite planet/miranda
+			distance 261
+			period 11.9034
+		object
+			sprite planet/dust4
+			distance 410
+			period 23.4361
+		object
+			sprite planet/io
+			distance 547
+			period 36.1153
+		object
+			sprite planet/lava0
+			distance 736
+			period 56.3673
 
 system "Kal vesi"
-	pos 705 445
-	habitable nan
+	pos 735 440
+	government Technocrat
+	habitable 135
 	link "Kal Za"
 	link "Stu woju"
 	link "jqoxo baju"
-	link Neogen
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/forest3
+		distance 246.41
+		period 133.162
+		object
+			sprite planet/miranda
+			distance 144
+			period 23.5836
+	object
+		sprite planet/rock12
+		distance 656.42
+		period 578.983
+	object
+		sprite planet/lava1
+		distance 845.06
+		period 845.716
+	object
+		sprite planet/gas9
+		distance 1538.75
+		period 2078
+		object
+			sprite planet/ice8
+			distance 242
+			period 14.1161
+		object
+			sprite planet/europa
+			distance 348
+			period 24.3422
+		object
+			sprite planet/dust4
+			distance 509
+			period 43.0593
 
 system "Kal wina"
-	pos 918 402
-	habitable nan
+	pos 873 392
+	government Verohata
+	habitable 233.28
 	link "zsono Aleph"
 	link "Xti Theta"
 	link "cuqsa Aleph"
 	link "Vas pesjo"
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/ice4
+		distance 180.21
+		period 63.3563
+	object
+		sprite planet/neptune
+		distance 505.05
+		period 297.251
+	object
+		sprite planet/rock4
+		distance 797.94
+		period 590.305
+	object
+		sprite planet/jupiter
+		distance 1805.35
+		period 2008.92
+		object
+			sprite planet/dust5
+			distance 275
+			period 14.3305
+		object
+			sprite planet/dust4
+			distance 392
+			period 24.3888
+		object
+			sprite planet/europa
+			distance 534
+			period 38.7769
+		object
+			sprite planet/rock3
+			distance 681
+			period 55.8447
 
 system "Kal yiqe"
-	pos 702 -23
+	pos 880 87
+	government Consortium
 	habitable nan
 	link "Kal Aleph"
 	link "famtu mzosi"
 
 system Mata
-	pos 546 264
+	pos 583 266
 	government HyFed
 	habitable 912.6
 	link "Stu Aleph"
@@ -1399,13 +1450,11 @@ system Mata
 		haze _menu/haze-tear
 
 system Neogen
-	pos 646 440.5
+	pos 804 488.5
 	government Technocrat
 	habitable 233.28
-	link "Hyl 30A2B03A"
-	link "Kal Za"
-	link "jqoxo baju"
-	link "Kal vesi"
+	link "rhuga Omega"
+	link "Stu woju"
 	asteroids "small rock" 4 0.988
 	asteroids "medium rock" 5 0.715
 	asteroids "large rock" 9 1.391
@@ -1449,14 +1498,12 @@ system Neogen
 		haze _menu/haze-tear
 
 system "Stu Aleph"
-	pos 487 259
+	pos 516 256
 	government HyFed
 	habitable nan
 	link "Hyl 8C0A9C11"
-	link "Hyl 8B998401"
-	link "Hyl F23C33AE"
 	link Mata
-	link "Hyl 3D651BF8"
+	link "Hyl 5D5FC342"
 	haze _menu/haze-tear
 	object
 		sprite star/f5
@@ -1506,93 +1553,250 @@ system "Stu Aleph"
 			haze _menu/haze-tear
 
 system "Stu Theta"
-	pos 939 289
+	pos 922 320
+	government Verohata
 	habitable nan
 	link "Kal Beta"
 	link "cuqsa Aleph"
 	link "sajqu siphe"
 
 system "Stu Za"
-	pos 1101 552
-	habitable nan
+	pos 985 558
+	government Verohata
+	habitable 233.28
 	link "Xti toldo"
 	link "xupva Aleph"
+	link "qhuja cqucqu"
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/ice1
+		distance 333
+		period 159.143
+		object
+			sprite planet/rock3
+			distance 192
+			period 22.7378
+	object
+		sprite planet/rock11
+		distance 716
+		period 501.754
+	object
+		sprite planet/lava3
+		distance 1301.16
+		period 1229.19
+	object
+		sprite planet/gas17
+		distance 2553.32
+		period 3378.93
+		object
+			sprite planet/rock0
+			distance 225
+			period 14.4194
 
 system "Stu mdeqi"
 	pos 747 485
-	habitable nan
+	government Technocrat
+	habitable 425.92
 	link "Stu woju"
 	link "vupe vupe"
 	link "rhuga Omega"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock0
+		distance 109.04
+		period 22.0686
+	object
+		sprite planet/ice1
+		distance 372.25
+		period 139.203
+	object
+		sprite planet/ocean6
+		distance 640.5
+		period 314.177
+	object
+		sprite planet/gas7
+		distance 1503.74
+		period 1130.2
+	object
+		sprite planet/neptune
+		distance 4257.95
+		period 5385.14
 
 system "Stu tazu"
-	pos 851 24
-	habitable nan
+	pos 959 169
+	government Consortium
+	habitable 486.68
 	link "wxafqa Beta"
 	link "Kal Aleph"
 	link "Xti fadu"
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/fog0
+		distance 337.76
+		period 112.551
+		object
+			sprite planet/rock17
+			distance 182
+			period 18.1128
+	object
+		sprite planet/dust0
+		distance 654.92
+		period 303.893
+	object
+		sprite planet/cloud6
+		distance 821.48
+		period 426.907
+	object
+		sprite planet/jupiter
+		distance 2040.49
+		period 1671.24
 
 system "Stu woju"
-	pos 797 437
+	pos 780 453
+	government Technocrat
 	habitable nan
 	link "Xti fcomu"
 	link "Kal vesi"
 	link "Stu mdeqi"
+	link "hera Za"
+	link Neogen
 
 system "Vas Beta"
-	pos 523 424
+	pos 538 426
+	government Independent
 	habitable nan
 	link "Hyl 30A2B03A"
 
 system "Vas pesjo"
-	pos 970 437
-	habitable nan
+	pos 934 433
+	government Verohata
+	habitable 625
 	link "Kal wina"
 	link "wcacva cqucqu"
 	link "hfota bohfo"
 	link "Kal Omega"
+	link "Caca Bata"
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/dust5
+		distance 132.24
+		period 24.3312
+	object
+		sprite planet/rock7
+		distance 454.45
+		period 155.006
+	object
+		sprite planet/ocean4
+		distance 1045.61
+		period 540.972
+	object
+		sprite planet/mars
+		distance 1267.9
+		period 722.35
+	object
+		sprite planet/gas13
+		distance 2557.71
+		period 2069.65
+		object
+			sprite planet/callisto
+			distance 274
+			period 12.8037
 
 system "Xti Aleph"
-	pos 621 344
+	pos 664 345
+	government HyFed
 	habitable nan
 	link "Hyl ABC03010"
 	link "nbuqo Aleph"
 	link "Hyl C3CCB82D"
 
 system "Xti Omega"
-	pos 918 210
+	pos 883 280
+	government Independent
 	habitable nan
 	link "cqucqu Aleph"
 	link "Kal Beta"
 
 system "Xti Theta"
-	pos 854 497
+	pos 888 433
 	habitable nan
 	link "Kal wina"
 	link "wcacva cqucqu"
+	link "gijcu Aleph"
 
 system "Xti Za"
-	pos 1081 144
-	habitable nan
+	pos 1069 212
+	government Consortium
+	habitable 320
 	link "mezyo Omega"
 	link "Kal coga"
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/ice2
+		distance 163.49
+		period 46.7436
+	object
+		sprite planet/gas10
+		distance 435.45
+		period 203.185
+	object
+		sprite planet/cloud7
+		distance 799.7
+		period 505.68
+	object
+		sprite planet/gas13
+		distance 1384.7
+		period 1152.18
+		object
+			sprite planet/rock7
+			distance 275
+			period 12.8739
+		object
+			sprite planet/dust4
+			distance 414
+			period 23.7799
+	object
+		sprite planet/gas14
+		distance 2263.7
+		period 2408.32
+		object
+			sprite planet/dust0
+			distance 234
+			period 14.5775
+		object
+			sprite planet/ice8
+			distance 336
+			period 25.0823
 
 system "Xti fadu"
-	pos 801 88
+	pos 892 168
+	government Consortium
 	habitable nan
 	link "Kal fezwe"
 	link "fuytu Omega"
 	link "Stu tazu"
 
 system "Xti fcomu"
-	pos 792 391
+	pos 784 415
+	government Technocrat
 	habitable nan
-	link "nbuqo Aleph"
 	link "zsono Aleph"
 	link "Stu woju"
+	link "hera Za"
 
 system "Xti toldo"
-	pos 987 586
+	pos 941 532
+	government Verohata
 	habitable nan
 	link "wcacva cqucqu"
 	link "Stu Za"
@@ -1601,76 +1805,280 @@ system "Xti toldo"
 	link "qhuja cqucqu"
 
 system "Xti vijwo"
-	pos 695 607
-	habitable nan
+	pos 705 576
+	government Independent
+	habitable 945
 	link "vupe vupe"
+	object
+		sprite star/g5
+		distance 30.8148
+		period 11.2955
+		offset 180
+	object
+		sprite star/m0
+		distance 60.1852
+		period 11.2955
+	object
+		sprite planet/rock17
+		distance 219.025
+		period 42.1779
+	object
+		sprite planet/lava4
+		distance 672.585
+		period 226.968
+		object
+			sprite planet/rock7
+			distance 164
+			period 26.9384
+	object
+		sprite planet/gas8
+		distance 1310.2
+		period 617.089
+		object
+			sprite planet/dust3
+			distance 213
+			period 16.548
+	object
+		sprite planet/gas13
+		distance 2238.2
+		period 1377.82
+		object
+			sprite planet/callisto
+			distance 260
+			period 11.8351
+		object
+			sprite planet/luna
+			distance 394
+			period 22.0777
 
 system "Xti zano"
-	pos 1070 392
-	habitable nan
+	pos 1036 354
+	government Independent
+	habitable 912.6
 	link "cuqsa Aleph"
 	link "Kal cqucqu"
 	link "sajqu siphe"
+	object
+		sprite star/k0
+		distance 46.671
+		period 13.241
+	object
+		sprite star/k5
+		distance 53.329
+		period 13.241
+		offset 180
+	object
+		sprite planet/rock11
+		distance 180.689
+		period 32.1601
+	object
+		sprite planet/dust2
+		distance 485.529
+		period 141.658
+	object
+		sprite planet/lava4
+		distance 724.529
+		period 258.228
+	object
+		sprite planet/mars
+		distance 1089.37
+		period 476.083
+		object
+			sprite planet/dust7
+			distance 152
+			period 25.045
+	object
+		sprite planet/dust0
+		distance 1602.86
+		period 849.694
+	object
+		sprite planet/gas6
+		distance 4484.86
+		period 3976.88
+		object
+			sprite planet/lava0
+			distance 304
+			period 13.5386
+		object
+			sprite planet/rhea
+			distance 457
+			period 24.9539
 
 system "cqucqu Aleph"
-	pos 860 178
+	pos 876 240
+	government Consortium
 	habitable nan
 	link "fuytu Omega"
 	link "Xti Omega"
+	link "jroda lcincu"
 
 system "cuqsa Aleph"
 	pos 961 354
+	government Verohata
 	habitable nan
 	link "Kal wina"
 	link "Xti zano"
 	link "Stu Theta"
 	link "Kal Omega"
-
-system "ddavma famtu"
-	pos 505 147
-	government HyFed
-	habitable nan
-	link "Hyl 3D651BF8"
-	link "Hyl 5F8DC91D"
+	link "Caca Bata"
 
 system "famtu mzosi"
-	pos 678 33
-	habitable nan
+	pos 840 117
+	government Consortium
+	habitable 625
 	link "Kal yiqe"
 	link "Kal fezwe"
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock7
+		distance 166.29
+		period 34.3099
+	object
+		sprite planet/rock13
+		distance 466.5
+		period 161.212
+		object
+			sprite planet/rock3
+			distance 166
+			period 26.8859
+	object
+		sprite planet/rock4
+		distance 1173.5
+		period 643.198
+	object
+		sprite planet/gas7
+		distance 1513.54
+		period 942.13
+	object
+		sprite planet/gas4
+		distance 2400.95
+		period 1882.33
 
 system "fjune Omega"
-	pos 1116 351
-	habitable nan
+	pos 1080 332
+	government Consortium
+	habitable 912.6
 	link "Kal cqucqu"
 	link "ruri Beta"
+	object
+		sprite star/k0
+		distance 50.4047
+		period 14.8613
+		offset 180
+	object
+		sprite star/k5
+		distance 57.5953
+		period 14.8613
+	object
+		sprite planet/rock13
+		distance 382.285
+		period 98.9694
+		object
+			sprite planet/rock14
+			distance 131
+			period 18.8482
+	object
+		sprite planet/cloud6
+		distance 1029.29
+		period 437.244
+		object
+			sprite planet/dust4
+			distance 182
+			period 25.137
+	object
+		sprite planet/cloud8
+		distance 1389.9
+		period 686.109
+	object
+		sprite planet/gas14
+		distance 2232.86
+		period 1397.05
 
 system "fuytu Omega"
-	pos 880 93
+	pos 916 199
+	government Consortium
 	habitable nan
 	link "Xti fadu"
 	link "rexze wugba"
 	link "cqucqu Aleph"
 
 system "gijcu Aleph"
-	pos 852 544
-	habitable nan
+	pos 873 531
+	government Verohata
+	habitable 233.28
 	link "wcacva cqucqu"
+	link "ppeyo Za"
+	link "Xti Theta"
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/rock11
+		distance 145.09
+		period 45.7696
+	object
+		sprite planet/jupiter
+		distance 485.33
+		period 280.012
+	object
+		sprite planet/gas12
+		distance 974.54
+		period 796.748
+	object
+		sprite planet/gas16
+		distance 1800.1
+		period 2000.17
+		object
+			sprite planet/lava0
+			distance 239
+			period 19.4489
 
 system "hera Za"
-	pos 846 437
+	pos 848 431
+	government Technocrat
 	habitable nan
 	link "zsono Aleph"
+	link "Xti fcomu"
+	link "Stu woju"
 
 system "hfota bohfo"
-	pos 1002 483
-	habitable nan
+	pos 973 455
+	government Verohata
+	habitable 912.6
 	link "wcacva cqucqu"
 	link "Vas pesjo"
 	link "javi Beta"
+	object
+		sprite star/k0
+		distance 56.9387
+		period 17.8427
+		offset 180
+	object
+		sprite star/k5
+		distance 65.0613
+		period 17.8427
+	object
+		sprite planet/rock12
+		distance 297.751
+		period 68.03
+	object
+		sprite planet/rock3
+		distance 478.161
+		period 138.446
+	object
+		sprite planet/desert2
+		distance 646.251
+		period 217.531
+	object
+		sprite planet/gas11
+		distance 2049.25
+		period 1228.32
 
 system "hofli zciqfe"
-	pos 943 124
+	pos 1019 218
+	government Consortium
 	habitable nan
 	link "Kal cvaco"
 	link "rexze wugba"
@@ -1678,155 +2086,784 @@ system "hofli zciqfe"
 	link "wxafqa Beta"
 
 system "javi Beta"
-	pos 1050 485
-	habitable nan
+	pos 1015 450
+	government Verohata
+	habitable 135
 	link "Kal Omega"
 	link "hfota bohfo"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/venus
+		distance 258
+		period 142.667
+		object
+			sprite planet/rock0
+			distance 156
+			period 22.2334
+	object
+		sprite planet/lava2
+		distance 553.56
+		period 448.374
+	object
+		sprite planet/desert7
+		distance 957.81
+		period 1020.5
+	object
+		sprite planet/gas2
+		distance 1226.3
+		period 1478.39
+	object
+		sprite planet/gas7
+		distance 2862.54
+		period 5272.55
+		object
+			sprite planet/ice7
+			distance 243
+			period 13.4753
+		object
+			sprite planet/dust1
+			distance 411
+			period 29.641
 
 system "jose Beta"
-	pos 554 482
-	habitable nan
+	pos 581 468
+	government Technocrat
+	habitable 486.68
 	link "Hyl 30A2B03A"
 	link "xzedwe zexvi"
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock12
+		distance 340.04
+		period 113.693
+		object
+			sprite planet/rock0
+			distance 134
+			period 16.1616
+	object
+		sprite planet/cloud8
+		distance 715.48
+		period 347.004
+	object
+		sprite planet/gas3
+		distance 1402.64
+		period 952.484
+		object
+			sprite planet/rock7
+			distance 273
+			period 11.5215
+		object
+			sprite planet/callisto
+			distance 421
+			period 22.0642
+	object
+		sprite planet/gas9
+		distance 2550.45
+		period 2335.41
+		object
+			sprite planet/ice8
+			distance 250
+			period 14.8218
+		object
+			sprite planet/dust3
+			distance 340
+			period 23.5076
 
 system "jqoxo baju"
-	pos 660 502
-	habitable nan
+	pos 687 479
+	government Technocrat
+	habitable 1080
 	link "vupe vupe"
 	link "Kal vesi"
 	link "Hyl 30A2B03A"
 	link "xiyi Omega"
-	link Neogen
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/ganymede
+		distance 216.64
+		period 38.8111
+	object
+		sprite planet/lava2
+		distance 370.33
+		period 86.7424
+	object
+		sprite planet/rock9
+		distance 797.14
+		period 273.937
+	object
+		sprite planet/ocean0
+		distance 1135.03
+		period 465.435
+	object
+		sprite planet/gas5
+		distance 1771.59
+		period 907.597
+		object
+			sprite planet/ice7
+			distance 283
+			period 15.8317
 
 system "jroda lcincu"
-	pos 658 96
+	pos 832 287
+	government Independent
 	habitable nan
+	link "cqucqu Aleph"
+	link "yaphe Omega"
 
 system "lfebti vmonmi"
-	pos 745 571
-	habitable nan
+	pos 743 548
+	government Technocrat
+	habitable 135
 	link "vupe vupe"
 	link "rhuga Omega"
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/desert6
+		distance 223.25
+		period 114.837
+		object
+			sprite planet/dust0
+			distance 130
+			period 15.4433
+	object
+		sprite planet/desert2
+		distance 537.25
+		period 428.704
+	object
+		sprite planet/cloud5
+		distance 784.41
+		period 756.324
+	object
+		sprite planet/desert7
+		distance 1406.45
+		period 1815.85
+	object
+		sprite planet/gas1
+		distance 2357.45
+		period 3940.55
 
 system "mezyo Omega"
-	pos 1084 196
-	habitable nan
+	pos 1060 263
+	government Consortium
+	habitable 233.28
 	link "ruri Beta"
 	link "Xti Za"
 	link "Kal cvaco"
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/ice6
+		distance 307.76
+		period 141.397
+		object
+			sprite planet/luna
+			distance 147
+			period 22.4047
+	object
+		sprite planet/gas11
+		distance 765.45
+		period 554.621
+	object
+		sprite planet/rock17
+		distance 1506.06
+		period 1530.68
+	object
+		sprite planet/gas1
+		distance 2477.22
+		period 3229
+		object
+			sprite planet/rock3
+			distance 236
+			period 14.4905
+		object
+			sprite planet/rock0
+			distance 351
+			period 26.2831
+		object
+			sprite planet/io
+			distance 441
+			period 37.0146
 
 system "nbuqo Aleph"
 	pos 717 334
-	habitable nan
+	government Independent
+	habitable 425.92
 	link "Xti Aleph"
-	link "yaphe Omega"
-	link "Xti fcomu"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/desert9
+		distance 144.25
+		period 33.5792
+	object
+		sprite planet/ice4
+		distance 612.5
+		period 293.802
+		object
+			sprite planet/rock14
+			distance 150
+			period 23.094
+	object
+		sprite planet/desert1
+		distance 1264.66
+		period 871.679
+		object
+			sprite planet/oberon
+			distance 141
+			period 14.5337
+	object
+		sprite planet/gas5
+		distance 1896.7
+		period 1601.01
 
 system "ppeyo Za"
-	pos 951 631
-	habitable nan
+	pos 902 566
+	government Verohata
+	habitable 858.28
 	link "Xti toldo"
 	link "qhuja cqucqu"
+	link "gijcu Aleph"
+	object
+		sprite star/g5
+		distance 32.6159
+		period 17.9481
+	object
+		sprite star/m4
+		distance 87.3841
+		period 17.9481
+		offset 180
+	object
+		sprite planet/lava4
+		distance 250.544
+		period 54.1467
+	object
+		sprite planet/gas0
+		distance 768.544
+		period 290.903
+	object
+		sprite planet/forest3
+		distance 1094.83
+		period 494.616
+	object
+		sprite planet/gas11
+		distance 3014.24
+		period 2259.5
+		object
+			sprite planet/ice8
+			distance 275
+			period 15.041
+		object
+			sprite planet/rock14
+			distance 403
+			period 26.683
+		object
+			sprite planet/io
+			distance 536
+			period 40.9284
+		object
+			sprite planet/rhea
+			distance 725
+			period 64.385
 
 system "qhuja cqucqu"
-	pos 1020 630
-	habitable nan
+	pos 953 578
+	government Verohata
+	habitable 553.28
 	link "Xti toldo"
 	link "ppeyo Za"
+	link "Stu Za"
+	object
+		sprite star/m0
+		distance 49.3308
+		period 21.5212
+		offset 180
+	object
+		sprite star/m4
+		distance 67.6692
+		period 21.5212
+	object
+		sprite planet/lava2
+		distance 219.309
+		period 55.2297
+	object
+		sprite planet/ocean6
+		distance 574.069
+		period 233.902
+	object
+		sprite planet/cloud8
+		distance 805.679
+		period 388.894
+	object
+		sprite planet/lava5
+		distance 1042.24
+		period 572.188
+	object
+		sprite planet/gas11
+		distance 1948.49
+		period 1462.63
+		object
+			sprite planet/rock7
+			distance 252
+			period 13.1941
 
 system "rexze wugba"
-	pos 889 137
+	pos 961 224
+	government Consortium
 	habitable nan
 	link "fuytu Omega"
 	link "hofli zciqfe"
 
 system "rhuga Omega"
-	pos 798 546
-	habitable nan
+	pos 769 510
+	government Technocrat
+	habitable 2201.68
 	link "lfebti vmonmi"
 	link "Stu mdeqi"
+	link Neogen
+	object
+		sprite star/f5
+		distance 25.8628
+		period 10.7885
+		offset 180
+	object
+		sprite star/k0
+		distance 91.1372
+		period 10.7885
+	object
+		sprite planet/desert1
+		distance 276.947
+		period 39.2897
+	object
+		sprite planet/ice6
+		distance 606.107
+		period 127.206
+	object
+		sprite planet/desert5
+		distance 971.867
+		period 258.281
+	object
+		sprite planet/ice5
+		distance 1587.88
+		period 539.397
+	object
+		sprite planet/gas5
+		distance 2565.32
+		period 1107.63
+		object
+			sprite planet/dust0
+			distance 245
+			period 12.7525
 
 system "ruri Beta"
-	pos 1102 285
-	habitable nan
+	pos 1066 289
+	government Consortium
+	habitable 425.92
 	link "fjune Omega"
 	link "mezyo Omega"
 	link "sajqu siphe"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock11
+		distance 134.84
+		period 30.3476
+	object
+		sprite planet/ocean5
+		distance 387.4
+		period 147.787
+	object
+		sprite planet/uranus
+		distance 1196.69
+		period 802.359
+		object
+			sprite planet/oberon
+			distance 208
+			period 12.8165
+		object
+			sprite planet/dust1
+			distance 327
+			period 25.2636
+	object
+		sprite planet/jupiter
+		distance 2512.69
+		period 2441.21
+		object
+			sprite planet/dust4
+			distance 279
+			period 14.6443
 
 system "sajqu siphe"
-	pos 983 271
-	habitable nan
+	pos 976 327
+	government Independent
+	habitable 425.92
 	link "Stu Theta"
 	link "Xti zano"
 	link "ruri Beta"
 	link "Kal cvaco"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/desert0
+		distance 178.36
+		period 46.1681
+	object
+		sprite planet/cloud8
+		distance 649.32
+		period 320.689
+		object
+			sprite planet/callisto
+			distance 169
+			period 26.549
+	object
+		sprite planet/lava1
+		distance 1114.73
+		period 721.357
+	object
+		sprite planet/ice6
+		distance 1453.57
+		period 1074.11
+		object
+			sprite planet/rhea
+			distance 141
+			period 21.047
+	object
+		sprite planet/uranus
+		distance 2801.61
+		period 2874.14
+		object
+			sprite planet/oberon
+			distance 198
+			period 11.9034
 
 system "vupe vupe"
-	pos 698 556
-	habitable nan
+	pos 712 515
+	government Technocrat
+	habitable 486.68
 	link "Stu mdeqi"
 	link "jqoxo baju"
 	link "Xti vijwo"
 	link "lfebti vmonmi"
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/cloud4
+		distance 177.69
+		period 42.947
+	object
+		sprite planet/lava3
+		distance 382.85
+		period 135.825
+	object
+		sprite planet/ice5
+		distance 670.46
+		period 314.773
+		object
+			sprite planet/miranda
+			distance 137
+			period 15.8603
+	object
+		sprite planet/gas11
+		distance 1964.46
+		period 1578.71
+		object
+			sprite planet/rhea
+			distance 247
+			period 12.8033
 
 system "wcacva cqucqu"
-	pos 906 514
-	habitable nan
+	pos 922 471
+	government Verohata
+	habitable 486.68
 	link "Xti Theta"
 	link "Xti toldo"
 	link "gijcu Aleph"
 	link "hfota bohfo"
 	link "Vas pesjo"
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert6
+		distance 279.49
+		period 84.7203
+		object
+			sprite planet/ice0
+			distance 169
+			period 22.8905
+	object
+		sprite planet/cloud6
+		distance 806.45
+		period 415.245
+	object
+		sprite planet/rock8
+		distance 1028.61
+		period 598.156
+	object
+		sprite planet/gas13
+		distance 1735.02
+		period 1310.37
+		object
+			sprite planet/rhea
+			distance 291
+			period 14.0136
+		object
+			sprite planet/io
+			distance 380
+			period 20.9115
+		object
+			sprite planet/rock14
+			distance 541
+			period 35.5227
 
 system "wxafqa Beta"
-	pos 937 52
+	pos 1011 185
+	government Consortium
 	habitable nan
 	link "Kal coga"
 	link "Stu tazu"
 	link "hofli zciqfe"
 
 system "xiyi Omega"
-	pos 608 540
-	habitable nan
+	pos 644 514
+	government Technocrat
+	habitable 425.92
 	link "jqoxo baju"
 	link "xzedwe zexvi"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/ice5
+		distance 297.16
+		period 99.2845
+		object
+			sprite planet/dust4
+			distance 183
+			period 24.4854
+	object
+		sprite planet/cloud3
+		distance 750.2
+		period 398.255
+	object
+		sprite planet/lava0
+		distance 1000.76
+		period 613.608
+	object
+		sprite planet/gas0
+		distance 2340.72
+		period 2194.93
+		object
+			sprite planet/desert4
+			distance 249
+			period 11.5148
+		object
+			sprite planet/dust7
+			distance 387
+			period 22.3112
 
 system "xowxa Omega"
-	pos 554 315
+	pos 619 311
 	government HyFed
-	habitable nan
+	habitable 625
 	link "Hyl 20A190B9"
 	link "Hyl 8C0A9C11"
 	link Mata
 	link "Hyl C3CCB82D"
 	link "Hyl 1ABA0005"
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/desert6
+		distance 237.44
+		period 58.5397
+	object
+		sprite planet/cloud3
+		distance 467.4
+		period 161.679
+	object
+		sprite planet/miranda
+		distance 641.4
+		period 259.904
+	object
+		sprite planet/neptune
+		distance 1211.76
+		period 674.909
+		object
+			sprite planet/desert4
+			distance 211
+			period 15.2706
+	object
+		sprite planet/gas3
+		distance 1948.77
+		period 1376.45
+		object
+			sprite planet/rock0
+			distance 280
+			period 11.9675
+		object
+			sprite planet/europa
+			distance 386
+			period 19.3707
 
 system "xupva Aleph"
-	pos 1024 529
-	habitable nan
+	pos 987 514
+	government Verohata
+	habitable 621.68
 	link "Xti toldo"
 	link "Stu Za"
+	object
+		sprite star/k0
+		distance 21.7154
+		period 16.0427
+		offset 180
+	object
+		sprite star/m8
+		distance 78.2846
+		period 16.0427
+	object
+		sprite planet/ice3
+		distance 297.285
+		period 82.2309
+	object
+		sprite planet/rock1
+		distance 650.845
+		period 266.374
+	object
+		sprite planet/rock18
+		distance 912.605
+		period 442.283
+	object
+		sprite planet/ice6
+		distance 1197.24
+		period 664.586
+	object
+		sprite planet/gas16
+		distance 1530.2
+		period 960.286
+	object
+		sprite planet/gas3
+		distance 2186.09
+		period 1639.76
+		object
+			sprite planet/dust5
+			distance 299
+			period 13.206
+		object
+			sprite planet/luna
+			distance 431
+			period 22.855
 
 system "xzedwe zexvi"
-	pos 571 520
-	habitable nan
+	pos 591 503
+	government Technocrat
+	habitable 425.92
 	link "xiyi Omega"
 	link "jose Beta"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/cloud6
+		distance 158.49
+		period 38.6722
+	object
+		sprite planet/cloud1
+		distance 398.9
+		period 154.416
+	object
+		sprite planet/cloud3
+		distance 656.91
+		period 326.328
+	object
+		sprite planet/gas6
+		distance 1322.95
+		period 932.634
+		object
+			sprite planet/dust3
+			distance 272
+			period 11.4582
+		object
+			sprite planet/oberon
+			distance 375
+			period 18.5486
+		object
+			sprite planet/dust5
+			distance 487
+			period 27.451
+	object
+		sprite planet/gas3
+		distance 2456.11
+		period 2359.22
+		object
+			sprite planet/rock0
+			distance 308
+			period 13.8067
+		object
+			sprite planet/dust0
+			distance 413
+			period 21.4383
 
 system "yaphe Omega"
-	pos 779 300
+	pos 826 332
+	government Independent
 	habitable nan
-	link "nbuqo Aleph"
 	link "zsono Aleph"
+	link "jroda lcincu"
 
 system "zsono Aleph"
-	pos 839 360
-	habitable nan
+	pos 820 383
+	government Verohata
+	habitable 425.92
 	link "yaphe Omega"
 	link "Kal wina"
 	link "Kal Beta"
 	link "Xti fcomu"
 	link "hera Za"
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/europa
+		distance 146.56
+		period 34.389
+	object
+		sprite planet/earth
+		distance 387.52
+		period 147.855
+	object
+		sprite planet/gas15
+		distance 1256.52
+		period 863.277
+		object
+			sprite planet/lava0
+			distance 192
+			period 14.0039
+		object
+			sprite planet/rock0
+			distance 323
+			period 30.5563
+		object
+			sprite planet/rock17
+			distance 480
+			period 55.3553
+	object
+		sprite planet/jupiter
+		distance 2689.96
+		period 2704.05
 
 planet "Aesh's Lab"
 	landscape land/valley10-sfiera
@@ -1848,8 +2885,7 @@ planet "Hyl 8B998401 b"
 
 planet Sawi
 	landscape land/city1
-	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet".`
-	description `	Its main export is spice. Very spicy!`
+	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet". The heat that this planet's star bombards it with has certainly sped up evolution here, and most scientists find a new species of large animals emerge every 100000 years, instead of the billions of years that Earth takes.`
 	spaceport `There are many Hylinx plants going around their business. There is a museum nearby the spaceport that contains artifacts from the Hylinx's early space age.`
 	shipyard "Hylinx Shipyard"
 	outfitter "Hylinx Outfitter"
@@ -1861,10 +2897,11 @@ planet Sawi
 planet "Veroha's Kiln"
 	landscape land/valley10-sfiera
 	"required reputation" 300
-	government "House Verohati"
+	government "Verohati"
 	port
 		recharge all
 
-planet "Zaminar's Coarsey"
+planet "Cocha's Memory"
 	landscape ""
-
+	government HyFed
+	"required reputation" 10
