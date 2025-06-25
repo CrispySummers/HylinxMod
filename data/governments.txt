@@ -2,5 +2,5 @@ government "Technocrat"
     color .01 .02 .5
 government "HyFed"
     color .05 .8 .1
-government "House Verohati"
+government "Verohata"
     color .6 .2 .1
