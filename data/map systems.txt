@@ -50,7 +50,7 @@ system "Caca Bata"
 		haze _menu/haze-tear
 
 system Gateway
-	pos 508.53 323
+	pos 390 341
 	government HyFed
 	habitable 233.28
 	link "Hyl 8C0A9C11"
@@ -111,7 +111,7 @@ system Gateway
 			arrival 1000
 
 system "Hyl 10000000"
-	pos 534.126 391.854
+	pos 526.126 397.854
 	government HyFed
 	habitable 233.28
 	link "Hyl 20A190B9"
@@ -158,7 +158,7 @@ system "Hyl 10000000"
 			period 11.8395
 
 system "Hyl 1ABA0005"
-	pos 593.126 371.854
+	pos 583.126 375.854
 	government HyFed
 	habitable 425.92
 	link "Hyl 10000000"
@@ -212,7 +212,7 @@ system "Hyl 1ABA0005"
 			period 19.1453
 
 system "Hyl 20A190B9"
-	pos 568 336
+	pos 490 362
 	government HyFed
 	habitable 486.68
 	link "Hyl 8C0A9C11"
@@ -265,7 +265,7 @@ system "Hyl 20A190B9"
 			haze _menu/haze-tear
 
 system "Hyl 2478245D"
-	pos 606 213
+	pos 581 259
 	government HyFed
 	habitable 1715
 	link "Hyl 6A5646CB"
@@ -364,7 +364,7 @@ system "Hyl 27317E2D"
 		haze _menu/haze-tear
 
 system "Hyl 2ED4511A"
-	pos 630 260
+	pos 611 311
 	government HyFed
 	habitable 320
 	link "Hyl 2478245D"
@@ -451,7 +451,7 @@ system "Hyl 30A2B03A"
 		period 2374.42
 
 system "Hyl 5D5FC342"
-	pos 537 223
+	pos 520 244
 	government HyFed
 	habitable 486.68
 	link Mata
@@ -494,7 +494,7 @@ system "Hyl 5D5FC342"
 		haze _menu/haze-tear
 
 system "Hyl 627BD9BA"
-	pos 704 172
+	pos 686 158
 	government HyFed
 	habitable 486.68
 	link "Hyl BBB3F355"
@@ -537,7 +537,7 @@ system "Hyl 627BD9BA"
 		haze _menu/haze-tear
 
 system "Hyl 6A5646CB"
-	pos 576 186
+	pos 564 202
 	government HyFed
 	habitable 425.92
 	link "Hyl 5D5FC342"
@@ -579,7 +579,7 @@ system "Hyl 6A5646CB"
 		haze _menu/haze-tear
 
 system "Hyl 6EF35417"
-	pos 737 255
+	pos 720 276
 	government HyFed
 	habitable 425.92
 	link "Hyl C3CCB82D"
@@ -614,7 +614,7 @@ system "Hyl 6EF35417"
 			period 20.2546
 
 system "Hyl 8C0A9C11"
-	pos 558 303
+	pos 463 318
 	government HyFed
 	habitable 858.28
 	link Gateway
@@ -665,7 +665,7 @@ system "Hyl 8C0A9C11"
 			haze _menu/haze-tear
 
 system "Hyl 9B5E4943"
-	pos 772 189
+	pos 747 191
 	government HyFed
 	habitable 425.92
 	link "Hyl A36BC7F7"
@@ -718,7 +718,7 @@ system "Hyl 9B5E4943"
 			haze _menu/haze-tear
 
 system "Hyl A36BC7F7"
-	pos 766 235
+	pos 764 233
 	government HyFed
 	habitable 320
 	link "Hyl 6EF35417"
@@ -974,7 +974,7 @@ system "Hyl C3CCB82D"
 			haze _menu/haze-tear
 
 system "Hyl D5AE8C8D"
-	pos 739 162
+	pos 730 144
 	government HyFed
 	habitable 135
 	link "Hyl 9B5E4943"
@@ -1087,7 +1087,7 @@ system "Kal Omega"
 		period 2122.69
 
 system "Kal Za"
-	pos 716 399
+	pos 700 389
 	government Technocrat
 	habitable 486.68
 	link "Hyl ABC03010"
@@ -1388,7 +1388,7 @@ system "Kal yiqe"
 	link "famtu mzosi"
 
 system Mata
-	pos 583 266
+	pos 558 306
 	government HyFed
 	habitable 912.6
 	link "Stu Aleph"
@@ -1498,7 +1498,7 @@ system Neogen
 		haze _menu/haze-tear
 
 system "Stu Aleph"
-	pos 516 256
+	pos 494 283
 	government HyFed
 	habitable nan
 	link "Hyl 8C0A9C11"
@@ -2675,7 +2675,7 @@ system "xiyi Omega"
 			period 22.3112
 
 system "xowxa Omega"
-	pos 619 311
+	pos 544 348
 	government HyFed
 	habitable 625
 	link "Hyl 20A190B9"
@@ -2768,7 +2768,7 @@ system "xupva Aleph"
 			period 22.855
 
 system "xzedwe zexvi"
-	pos 591 503
+	pos 593 506
 	government Technocrat
 	habitable 425.92
 	link "xiyi Omega"
@@ -2877,6 +2877,11 @@ planet "Aesh's Lab"
 planet "Casillir's Folly"
 	landscape ""
 
+planet "Cocha's Memory"
+	landscape ""
+	"required reputation" 10
+	government HyFed
+
 planet Genesis
 	landscape ""
 
@@ -2897,11 +2902,7 @@ planet Sawi
 planet "Veroha's Kiln"
 	landscape land/valley10-sfiera
 	"required reputation" 300
-	government "Verohati"
+	government Verohati
 	port
 		recharge all
 
-planet "Cocha's Memory"
-	landscape ""
-	government HyFed
-	"required reputation" 10

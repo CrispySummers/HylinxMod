@@ -1,0 +1,11 @@
+#+title: Light Freighter Ideas
+- A freighter that is speedy and cost-effective in terms of tons per credit.
+- A freighter that is bulky but armored and can withstand serious heat damage and burning damage
+- A heavy freighter that can also act a warship in a pinch - because of its heavy arnament
+- A freighter that simply carries as much as possible, and is little more than a cargo module attached to an engine and crew compartments
+- Faction-specific freighter ideas
+  - Consortium
+    - A freighter that can store lots of data
+  - HyFed
+  - Klava
+  - Verohata

@@ -1,0 +1,18 @@
+# A freighter that is speedy and cost effective
+ship "Speedster"
+    sprite ship/speedster
+        scale 0.5
+    thumbnail thumbnail/speedster
+    attributes
+        category "Light Freighter"
+    description "speedy and cost effective"
+    outfits
+        "Passive Cooler"
+        "Cataka-class Fission Reactor"
+        "Cataka-class Drive"
+
+# A freighter that is bulky but armored and can withstand serious heat damage and burning damage
+ship "Hothouse"
+
+# A heavy freighter that can also act as a warship in a pinch using its heavy arnament
+ship "Kraken"

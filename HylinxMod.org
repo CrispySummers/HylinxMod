@@ -70,9 +70,6 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 <2025-06-23 Mon 15:10-15:22>
 
 ** TODO components [1/8]
-:PROPERTIES:
-:ORDERED:  t
-:END:
 *** DONE research [4/4] :@computer:@internet:
 **** DONE research what experts think on Intelligent Plants [1/1]
 ***** DONE look online for and take notes on what experts think on Intelligent Plants
@@ -256,7 +253,7 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** TODO ships [0/3]
+*** TODO ships [1/6]
 **** TODO transport [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -265,37 +262,46 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-25 Wed 15:05-15:13>
 ***** TODO select 3 transport ships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-06-25 Wed 15:05-15:06>
 ***** TODO write up definitions for 3 transport ships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-25 Wed 15:06-15:14>
-**** light freighter [/]
+**** DONE light freighter [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO brainstorm 5 light freighter ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+***** DONE brainstorm 5 light freighter ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-25 Wed 14:55]
+CLOCK: [2025-06-25 Wed 14:51]--[2025-06-25 Wed 14:55] =>  0:04
+:END:
 <2025-06-25 Wed 15:14-15:22>
-***** TODO select 3 light freighters :@computer:think:divg:
+***** DONE select 3 light freighters :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-25 Wed 14:56]
+CLOCK: [2025-06-25 Wed 14:55]--[2025-06-25 Wed 14:56] =>  0:01
+:END:
 <2025-06-25 Wed 15:22-15:23>
-***** TODO write up definitions for 3 light freighters :@computer:think:
+***** DONE write up definitions for 3 light freighters :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-25 Wed 15:06]
+CLOCK: [2025-06-25 Wed 14:56]--[2025-06-25 Wed 15:06] =>  0:10
+:END:
 <2025-06-25 Wed 15:23-15:31>
-**** heavy freighter [/]
+**** TODO heavy freighter [/]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -303,18 +309,15 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-25 Wed 15:36-15:44>
 ***** TODO select 3 heavy freighters :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-06-25 Wed 15:44-15:45>
 ***** TODO write up definitions for 3 heavy freighters :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-25 Wed 15:45-15:53>
-**** light warship [/]
+**** TODO light warship [0/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -322,17 +325,17 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-25 Wed 15:58-16:05>
+<2025-06-26 Thu 14:30-14:37>
 ***** TODO select 3 light warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-06-26 Thu 14:30-14:31>
+<2025-06-26 Thu 14:37-14:38>
 ***** TODO write up definitions for 3 light warships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-26 Thu 14:31-14:39>
+<2025-06-26 Thu 14:38-14:46>
 **** medium warship [/]
 :PROPERTIES:
 :ORDERED:  t
