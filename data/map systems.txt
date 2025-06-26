@@ -1,6 +1,7 @@
 # randomly generated
 
 system "Caca Bata"
+	attributes "hylinx space"
 	pos 930.5 393
 	government Verohata
 	habitable 2201.68
@@ -52,6 +53,7 @@ system "Caca Bata"
 		haze _menu/haze-tear
 
 system Gateway
+	attributes "hylinx space"
 	pos 426 344
 	government HyFed
 	habitable 233.28
@@ -61,58 +63,50 @@ system Gateway
 	object
 		sprite star/m4
 		period 10
-		haze _menu/haze-tear
 		arrival 1000
 	object "Cocha's Memory"
 		sprite planet/ice2
 		distance 251.25
 		period 104.299
-		haze _menu/haze-tear
 		arrival 1000
 		object
 			sprite planet/dust5
 			distance 136
 			period 19.9375
-			haze _menu/haze-tear
 			arrival 1000
 	object
 		sprite planet/gas15
 		distance 724.06
 		period 510.25
-		haze _menu/haze-tear
 		arrival 1000
 		object
 			sprite planet/rock0
 			distance 202
 			period 15.1121
-			haze _menu/haze-tear
 			arrival 1000
 	object
 		sprite planet/lava4
 		distance 1173.55
 		period 1052.87
-		haze _menu/haze-tear
 		arrival 1000
 	object
 		sprite planet/gas2
 		distance 2076.71
 		period 2478.48
-		haze _menu/haze-tear
 		arrival 1000
 		object
 			sprite planet/lava0
 			distance 213
 			period 18.8358
-			haze _menu/haze-tear
 			arrival 1000
 		object
 			sprite planet/dust7
 			distance 326
 			period 35.6649
-			haze _menu/haze-tear
 			arrival 1000
 
 system "Hyl 10000000"
+	attributes "hylinx space"
 	pos 526.126 397.854
 	government HyFed
 	habitable 233.28
@@ -160,6 +154,7 @@ system "Hyl 10000000"
 			period 11.8395
 
 system "Hyl 1ABA0005"
+	attributes "hylinx space"
 	pos 583.126 375.854
 	government HyFed
 	habitable 425.92
@@ -214,8 +209,9 @@ system "Hyl 1ABA0005"
 			period 19.1453
 
 system "Hyl 20A190B9"
+	attributes "hylinx space"
 	pos 490 362
-	government HyFed
+	government Uninhabited
 	habitable 486.68
 	link "Hyl 8C0A9C11"
 	link "Hyl 10000000"
@@ -224,51 +220,43 @@ system "Hyl 20A190B9"
 	object
 		sprite star/k0
 		period 10
-		haze _menu/haze-tear
 	object
 		sprite planet/rock5
 		distance 136.24
 		period 28.8334
-		haze _menu/haze-tear
 	object
 		sprite planet/lava5
 		distance 373.08
 		period 130.66
-		haze _menu/haze-tear
 	object
 		sprite planet/ice4
 		distance 1021.57
 		period 592.026
-		haze _menu/haze-tear
 		object
 			sprite planet/ice8
 			distance 123
 			period 17.1483
-			haze _menu/haze-tear
 	object
 		sprite planet/gas3
 		distance 1520.82
 		period 1075.36
-		haze _menu/haze-tear
 	object
 		sprite planet/gas0
 		distance 2303.06
 		period 2003.99
-		haze _menu/haze-tear
 		object
 			sprite planet/callisto
 			distance 296
 			period 14.9243
-			haze _menu/haze-tear
 		object
 			sprite planet/oberon
 			distance 420
 			period 25.225
-			haze _menu/haze-tear
 
 system "Hyl 2478245D"
+	attributes "hylinx space"
 	pos 581 259
-	government HyFed
+	government Uninhabited
 	habitable 1715
 	link "Hyl 6A5646CB"
 	link Mata
@@ -282,32 +270,26 @@ system "Hyl 2478245D"
 	object
 		sprite star/f5
 		period 10
-		haze _menu/haze-tear
 	object
 		sprite planet/ice5
 		distance 267.09
 		period 42.1613
-		haze _menu/haze-tear
 	object
 		sprite planet/lava2
 		distance 459.09
 		period 95.0112
-		haze _menu/haze-tear
 	object
 		sprite planet/lava5
 		distance 804.65
 		period 220.464
-		haze _menu/haze-tear
 	object
 		sprite planet/gas7
 		distance 1297.06
 		period 451.199
-		haze _menu/haze-tear
 		object
 			sprite planet/lava0
 			distance 266
 			period 15.4331
-			haze _menu/haze-tear
 	object
 		sprite planet/gas3
 		distance 2756.82
@@ -320,8 +302,9 @@ system "Hyl 2478245D"
 			haze _menu/haze-tear
 
 system "Hyl 27317E2D"
+	attributes "hylinx space"
 	pos 667 212
-	government HyFed
+	government Uninhabited
 	habitable 912.6
 	link "Hyl 2478245D"
 	link "Hyl BE15A874"
@@ -372,8 +355,9 @@ system "Hyl 27317E2D"
 		haze _menu/haze-tear
 
 system "Hyl 2ED4511A"
+	attributes "hylinx space"
 	pos 624 279
-	government HyFed
+	government Uninhabited
 	habitable 320
 	link "Hyl 2478245D"
 	link "Hyl BE15A874"
@@ -427,6 +411,7 @@ system "Hyl 2ED4511A"
 			haze _menu/haze-tear
 
 system "Hyl 30A2B03A"
+	attributes "hylinx space"
 	pos 587.126 437.854
 	government HyFed
 	habitable 320
@@ -467,6 +452,7 @@ system "Hyl 30A2B03A"
 		offset 5.51766
 
 system "Hyl 5D5FC342"
+	attributes "hylinx space"
 	pos 520 244
 	government HyFed
 	habitable 486.68
@@ -514,8 +500,9 @@ system "Hyl 5D5FC342"
 		haze _menu/haze-tear
 
 system "Hyl 627BD9BA"
+	attributes "hylinx space"
 	pos 686 158
-	government HyFed
+	government Uninhabited
 	habitable 486.68
 	link "Hyl BBB3F355"
 	link "Hyl 27317E2D"
@@ -559,6 +546,7 @@ system "Hyl 627BD9BA"
 		haze _menu/haze-tear
 
 system "Hyl 6A5646CB"
+	attributes "hylinx space"
 	pos 564 202
 	government HyFed
 	habitable 425.92
@@ -606,6 +594,7 @@ system "Hyl 6A5646CB"
 		haze _menu/haze-tear
 
 system "Hyl 6EF35417"
+	attributes "hylinx space"
 	pos 720 276
 	government HyFed
 	habitable 425.92
@@ -643,6 +632,7 @@ system "Hyl 6EF35417"
 			period 20.2546
 
 system "Hyl 8C0A9C11"
+	attributes "hylinx space"
 	pos 463 318
 	government HyFed
 	habitable 858.28
@@ -696,6 +686,7 @@ system "Hyl 8C0A9C11"
 			haze _menu/haze-tear
 
 system "Hyl 9B5E4943"
+	attributes "hylinx space"
 	pos 747 191
 	government HyFed
 	habitable 425.92
@@ -751,6 +742,7 @@ system "Hyl 9B5E4943"
 			haze _menu/haze-tear
 
 system "Hyl A36BC7F7"
+	attributes "hylinx space"
 	pos 764 233
 	government HyFed
 	habitable 320
@@ -808,6 +800,7 @@ system "Hyl A36BC7F7"
 			haze _menu/haze-tear
 
 system "Hyl ABC03010"
+	attributes "hylinx space"
 	pos 634.126 382.854
 	government HyFed
 	habitable 486.68
@@ -854,6 +847,7 @@ system "Hyl ABC03010"
 			period 23.2692
 
 system "Hyl BBB3F355"
+	attributes "hylinx space"
 	pos 703 229
 	government HyFed
 	habitable 625
@@ -897,6 +891,7 @@ system "Hyl BBB3F355"
 			haze _menu/haze-tear
 
 system "Hyl BE15A874"
+	attributes "hylinx space"
 	pos 661 240
 	government HyFed
 	habitable 425.92
@@ -945,6 +940,7 @@ system "Hyl BE15A874"
 			haze _menu/haze-tear
 
 system "Hyl C3CCB82D"
+	attributes "hylinx space"
 	pos 679 299
 	government HyFed
 	habitable 640
@@ -1007,6 +1003,7 @@ system "Hyl C3CCB82D"
 			haze _menu/haze-tear
 
 system "Hyl D5AE8C8D"
+	attributes "hylinx space"
 	pos 730 144
 	government HyFed
 	habitable 135
@@ -1059,22 +1056,25 @@ system "Hyl D5AE8C8D"
 			haze _menu/haze-tear
 
 system "Kal Aleph"
+	attributes "hylinx space"
 	pos 928 130
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Stu tazu"
 	link "Kal yiqe"
 	link "Kal fezwe"
 
 system "Kal Beta"
+	attributes "hylinx space"
 	pos 881 333
 	government Verohata
-	habitable nan
+	habitable 0
 	link "Xti Omega"
 	link "zsono Aleph"
 	link "Stu Theta"
 
 system "Kal Omega"
+	attributes "hylinx space"
 	pos 991 405
 	government Verohata
 	habitable 806.68
@@ -1120,6 +1120,7 @@ system "Kal Omega"
 		period 2122.69
 
 system "Kal Za"
+	attributes "hylinx space"
 	pos 700 389
 	government Technocrat
 	habitable 486.68
@@ -1166,6 +1167,7 @@ system "Kal Za"
 			period 38.4951
 
 system "Kal coga"
+	attributes "hylinx space"
 	pos 1054 173
 	government Consortium
 	habitable 425.92
@@ -1201,6 +1203,7 @@ system "Kal coga"
 			period 20.2546
 
 system "Kal cqucqu"
+	attributes "hylinx space"
 	pos 1079 376
 	government Independent
 	habitable 486.68
@@ -1235,6 +1238,7 @@ system "Kal cqucqu"
 		period 2540.85
 
 system "Kal cvaco"
+	attributes "hylinx space"
 	pos 1001 254
 	government Consortium
 	habitable 2035
@@ -1284,6 +1288,7 @@ system "Kal cvaco"
 			period 24.9088
 
 system "Kal fezwe"
+	attributes "hylinx space"
 	pos 868 142
 	government Consortium
 	habitable 625
@@ -1327,6 +1332,7 @@ system "Kal fezwe"
 			period 56.3673
 
 system "Kal vesi"
+	attributes "hylinx space"
 	pos 735 440
 	government Technocrat
 	habitable 135
@@ -1370,6 +1376,7 @@ system "Kal vesi"
 			period 43.0593
 
 system "Kal wina"
+	attributes "hylinx space"
 	pos 873 392
 	government Verohata
 	habitable 233.28
@@ -1414,13 +1421,15 @@ system "Kal wina"
 			period 55.8447
 
 system "Kal yiqe"
+	attributes "hylinx space"
 	pos 880 87
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Kal Aleph"
 	link "famtu mzosi"
 
 system Mata
+	attributes "hylinx space"
 	pos 558 306
 	government HyFed
 	habitable 912.6
@@ -1485,6 +1494,7 @@ system Mata
 		haze _menu/haze-tear
 
 system Neogen
+	attributes "hylinx space"
 	pos 804 488.5
 	government Technocrat
 	habitable 233.28
@@ -1533,6 +1543,7 @@ system Neogen
 		haze _menu/haze-tear
 
 system "Stu Aleph"
+	attributes "hylinx space"
 	pos 494 283
 	government HyFed
 	habitable 233.28
@@ -1586,15 +1597,17 @@ system "Stu Aleph"
 			haze _menu/haze-tear
 
 system "Stu Theta"
+	attributes "hylinx space"
 	pos 922 320
 	government Verohata
-	habitable nan
+	habitable 0
 	link "Kal Beta"
 	link "cuqsa Aleph"
 	link "sajqu siphe"
 	fleet "Hylinx Civilian Fleet" 3000
 
 system "Stu Za"
+	attributes "hylinx space"
 	pos 985 558
 	government Verohata
 	habitable 233.28
@@ -1630,6 +1643,7 @@ system "Stu Za"
 			period 14.4194
 
 system "Stu mdeqi"
+	attributes "hylinx space"
 	pos 747 485
 	government Technocrat
 	habitable 425.92
@@ -1662,6 +1676,7 @@ system "Stu mdeqi"
 		period 5385.14
 
 system "Stu tazu"
+	attributes "hylinx space"
 	pos 959 169
 	government Consortium
 	habitable 486.68
@@ -1693,9 +1708,10 @@ system "Stu tazu"
 		period 1671.24
 
 system "Stu woju"
+	attributes "hylinx space"
 	pos 780 453
 	government Technocrat
-	habitable nan
+	habitable 0
 	link "Xti fcomu"
 	link "Kal vesi"
 	link "Stu mdeqi"
@@ -1703,12 +1719,14 @@ system "Stu woju"
 	link Neogen
 
 system "Vas Beta"
+	attributes "hylinx space"
 	pos 538 426
 	government Independent
-	habitable nan
+	habitable 0
 	link "Hyl 30A2B03A"
 
 system "Vas pesjo"
+	attributes "hylinx space"
 	pos 934 433
 	government Verohata
 	habitable 625
@@ -1746,28 +1764,32 @@ system "Vas pesjo"
 			period 12.8037
 
 system "Xti Aleph"
+	attributes "hylinx space"
 	pos 664 345
 	government HyFed
-	habitable nan
+	habitable 0
 	link "Hyl ABC03010"
 	link "nbuqo Aleph"
 	link "Hyl C3CCB82D"
 
 system "Xti Omega"
+	attributes "hylinx space"
 	pos 883 280
 	government Independent
-	habitable nan
+	habitable 0
 	link "cqucqu Aleph"
 	link "Kal Beta"
 
 system "Xti Theta"
+	attributes "hylinx space"
 	pos 888 433
-	habitable nan
+	habitable 0
 	link "Kal wina"
 	link "wcacva cqucqu"
 	link "gijcu Aleph"
 
 system "Xti Za"
+	attributes "hylinx space"
 	pos 1069 212
 	government Consortium
 	habitable 320
@@ -1814,25 +1836,28 @@ system "Xti Za"
 			period 25.0823
 
 system "Xti fadu"
+	attributes "hylinx space"
 	pos 892 168
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Kal fezwe"
 	link "fuytu Omega"
 	link "Stu tazu"
 
 system "Xti fcomu"
+	attributes "hylinx space"
 	pos 784 415
 	government Technocrat
-	habitable nan
+	habitable 0
 	link "zsono Aleph"
 	link "Stu woju"
 	link "hera Za"
 
 system "Xti toldo"
+	attributes "hylinx space"
 	pos 941 532
 	government Verohata
-	habitable nan
+	habitable 0
 	link "wcacva cqucqu"
 	link "Stu Za"
 	link "xupva Aleph"
@@ -1840,6 +1865,7 @@ system "Xti toldo"
 	link "qhuja cqucqu"
 
 system "Xti vijwo"
+	attributes "hylinx space"
 	pos 705 576
 	government Independent
 	habitable 945
@@ -1887,6 +1913,7 @@ system "Xti vijwo"
 			period 22.0777
 
 system "Xti zano"
+	attributes "hylinx space"
 	pos 1036 354
 	government Independent
 	habitable 912.6
@@ -1940,17 +1967,19 @@ system "Xti zano"
 			period 24.9539
 
 system "cqucqu Aleph"
+	attributes "hylinx space"
 	pos 876 240
 	government Consortium
-	habitable nan
+	habitable 0
 	link "fuytu Omega"
 	link "Xti Omega"
 	link "jroda lcincu"
 
 system "cuqsa Aleph"
+	attributes "hylinx space"
 	pos 961 354
 	government Verohata
-	habitable nan
+	habitable 0
 	link "Kal wina"
 	link "Xti zano"
 	link "Stu Theta"
@@ -1958,6 +1987,7 @@ system "cuqsa Aleph"
 	link "Caca Bata"
 
 system "famtu mzosi"
+	attributes "hylinx space"
 	pos 840 117
 	government Consortium
 	habitable 625
@@ -1992,6 +2022,7 @@ system "famtu mzosi"
 		period 1882.33
 
 system "fjune Omega"
+	attributes "hylinx space"
 	pos 1080 332
 	government Consortium
 	habitable 912.6
@@ -2032,14 +2063,16 @@ system "fjune Omega"
 		period 1397.05
 
 system "fuytu Omega"
+	attributes "hylinx space"
 	pos 916 199
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Xti fadu"
 	link "rexze wugba"
 	link "cqucqu Aleph"
 
 system "gijcu Aleph"
+	attributes "hylinx space"
 	pos 873 531
 	government Verohata
 	habitable 233.28
@@ -2071,14 +2104,16 @@ system "gijcu Aleph"
 			period 19.4489
 
 system "hera Za"
+	attributes "hylinx space"
 	pos 848 431
 	government Technocrat
-	habitable nan
+	habitable 0
 	link "zsono Aleph"
 	link "Xti fcomu"
 	link "Stu woju"
 
 system "hfota bohfo"
+	attributes "hylinx space"
 	pos 973 455
 	government Verohata
 	habitable 912.6
@@ -2112,15 +2147,17 @@ system "hfota bohfo"
 		period 1228.32
 
 system "hofli zciqfe"
+	attributes "hylinx space"
 	pos 1019 218
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Kal cvaco"
 	link "rexze wugba"
 	link "Kal coga"
 	link "wxafqa Beta"
 
 system "javi Beta"
+	attributes "hylinx space"
 	pos 1015 450
 	government Verohata
 	habitable 135
@@ -2163,6 +2200,7 @@ system "javi Beta"
 			period 29.641
 
 system "jose Beta"
+	attributes "hylinx space"
 	pos 581 468
 	government Technocrat
 	habitable 486.68
@@ -2209,6 +2247,7 @@ system "jose Beta"
 			period 23.5076
 
 system "jqoxo baju"
+	attributes "hylinx space"
 	pos 687 479
 	government Technocrat
 	habitable 1080
@@ -2245,13 +2284,15 @@ system "jqoxo baju"
 			period 15.8317
 
 system "jroda lcincu"
+	attributes "hylinx space"
 	pos 832 287
 	government Independent
-	habitable nan
+	habitable 0
 	link "cqucqu Aleph"
 	link "yaphe Omega"
 
 system "lfebti vmonmi"
+	attributes "hylinx space"
 	pos 743 548
 	government Technocrat
 	habitable 135
@@ -2286,6 +2327,7 @@ system "lfebti vmonmi"
 		period 3940.55
 
 system "mezyo Omega"
+	attributes "hylinx space"
 	pos 1060 263
 	government Consortium
 	habitable 233.28
@@ -2329,6 +2371,7 @@ system "mezyo Omega"
 			period 37.0146
 
 system "nbuqo Aleph"
+	attributes "hylinx space"
 	pos 717 334
 	government Independent
 	habitable 425.92
@@ -2362,6 +2405,7 @@ system "nbuqo Aleph"
 		period 1601.01
 
 system "ppeyo Za"
+	attributes "hylinx space"
 	pos 902 566
 	government Verohata
 	habitable 858.28
@@ -2411,6 +2455,7 @@ system "ppeyo Za"
 			period 64.385
 
 system "qhuja cqucqu"
+	attributes "hylinx space"
 	pos 953 578
 	government Verohata
 	habitable 553.28
@@ -2452,13 +2497,15 @@ system "qhuja cqucqu"
 			period 13.1941
 
 system "rexze wugba"
+	attributes "hylinx space"
 	pos 961 224
 	government Consortium
-	habitable nan
+	habitable 0
 	link "fuytu Omega"
 	link "hofli zciqfe"
 
 system "rhuga Omega"
+	attributes "hylinx space"
 	pos 769 510
 	government Technocrat
 	habitable 2201.68
@@ -2500,6 +2547,7 @@ system "rhuga Omega"
 			period 12.7525
 
 system "ruri Beta"
+	attributes "hylinx space"
 	pos 1066 289
 	government Consortium
 	habitable 425.92
@@ -2539,6 +2587,7 @@ system "ruri Beta"
 			period 14.6443
 
 system "sajqu siphe"
+	attributes "hylinx space"
 	pos 976 327
 	government Independent
 	habitable 425.92
@@ -2583,6 +2632,7 @@ system "sajqu siphe"
 			period 11.9034
 
 system "vupe vupe"
+	attributes "hylinx space"
 	pos 712 515
 	government Technocrat
 	habitable 486.68
@@ -2619,6 +2669,7 @@ system "vupe vupe"
 			period 12.8033
 
 system "wcacva cqucqu"
+	attributes "hylinx space"
 	pos 922 471
 	government Verohata
 	habitable 486.68
@@ -2664,14 +2715,16 @@ system "wcacva cqucqu"
 			period 35.5227
 
 system "wxafqa Beta"
+	attributes "hylinx space"
 	pos 1011 185
 	government Consortium
-	habitable nan
+	habitable 0
 	link "Kal coga"
 	link "Stu tazu"
 	link "hofli zciqfe"
 
 system "xiyi Omega"
+	attributes "hylinx space"
 	pos 644 514
 	government Technocrat
 	habitable 425.92
@@ -2710,6 +2763,7 @@ system "xiyi Omega"
 			period 22.3112
 
 system "xowxa Omega"
+	attributes "hylinx space"
 	pos 544 348
 	government HyFed
 	habitable 625
@@ -2757,6 +2811,7 @@ system "xowxa Omega"
 			period 19.3707
 
 system "xupva Aleph"
+	attributes "hylinx space"
 	pos 987 514
 	government Verohata
 	habitable 621.68
@@ -2805,6 +2860,7 @@ system "xupva Aleph"
 			period 22.855
 
 system "xzedwe zexvi"
+	attributes "hylinx space"
 	pos 593 506
 	government Technocrat
 	habitable 425.92
@@ -2855,13 +2911,15 @@ system "xzedwe zexvi"
 			period 21.4383
 
 system "yaphe Omega"
+	attributes "hylinx space"
 	pos 826 332
 	government Independent
-	habitable nan
+	habitable 0
 	link "zsono Aleph"
 	link "jroda lcincu"
 
 system "zsono Aleph"
+	attributes "hylinx space"
 	pos 820 383
 	government Verohata
 	habitable 425.92
@@ -2903,6 +2961,7 @@ system "zsono Aleph"
 		period 2704.05
 
 planet "Aesh's Lab"
+	attributes "hylinx space"
 	landscape land/valley10-sfiera
 	shipyard "Hylinx Shipyard"
 	outfitter "Hylinx Outfitter"
@@ -2912,49 +2971,56 @@ planet "Aesh's Lab"
 		recharge all
 
 planet "Casillir's Folly"
+	attributes "gas giant" "hylinx space"
 	landscape "land/beach1"
 
 planet "Cocha's Memory"
+	attributes "hylinx space"
 	landscape ""
 	"required reputation" 10
 	government HyFed
 
 planet "First Pick"
-	attributes "gas giant"
+	attributes "gas giant" "hylinx space"
 	landscape "land/nasa11"
 
 planet "Genesis"
+	attributes "hylinx space"
 	landscape "land/fog5"
         government "HyFed"
         port
 		recharge all
 
-planet "Hyl 8B998401 b"
+planet "Talon"
+	attributes "hylinx space"
 	landscape ""
-        government "HyFed"
-        port
+	government "HyFed"
+	port
 		recharge all
 
 planet Onai
+	attributes "hylinx space"
 	landscape ""
         government "HyFed"
         port
 		recharge all
 
-planet "Platinum Mem"
-	attributes "gas giant"
+planet "Memtos"
+	attributes "hylinx space" "gas giant"
 	landscape "planet/clouds11"
         government "HyFed"
         port
 		recharge all
 
 planet Ponsi
+	attributes "hylinx space"
 	landscape "land/fog12"
         government "HyFed"
         port
 		recharge all
 
 planet Sawi
+	attributes "hylinx space"
 	landscape land/fog12
 	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet". The heat that this planet's star bombards it with has certainly sped up evolution here, and most scientists find a new species of large animals emerge every 100000 years, instead of the billions of years that Earth takes.`
 	spaceport `There are many Hylinx plants going around their business. There is a museum nearby the spaceport that contains artifacts from the Hylinx's early space age.`
@@ -2966,12 +3032,13 @@ planet Sawi
 		recharge all
 
 planet Vacari
-	attributes "gas giant"
+	attributes "hylinx space" "gas giant"
 	landscape "land/city1"
         port
 		recharge all
 
 planet "Var Aleph"
+	attributes "hylinx space"
 	landscape "land/forest0"
         government "HyFed"
 	"required reputation" 100
@@ -2981,6 +3048,7 @@ planet "Var Aleph"
 		recharge all
 
 planet "Var Electa"
+	attributes "hylinx space"
 	landscape "land/station10"
 	description `Food Farm.`
         government "HyFed"
@@ -2988,6 +3056,7 @@ planet "Var Electa"
 		recharge all
 
 planet "Veroha's Kiln"
+	attributes "hylinx space"
 	landscape land/valley10-sfiera
 	"required reputation" 300
 	government Verohata
@@ -2995,6 +3064,7 @@ planet "Veroha's Kiln"
 		recharge all
 
 planet "Xochta's Memory"
+	attributes "hylinx space"
 	landscape "land/desert1"
 	description `Chief exporter of spices`
 
