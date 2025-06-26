@@ -2912,7 +2912,7 @@ planet "Aesh's Lab"
 		recharge all
 
 planet "Casillir's Folly"
-	landscape ""
+	landscape "land/beach1"
 
 planet "Cocha's Memory"
 	landscape ""
@@ -2921,26 +2921,41 @@ planet "Cocha's Memory"
 
 planet "First Pick"
 	attributes "gas giant"
-	landscape ""
+	landscape "land/nasa11"
 
-planet Genesis
-	landscape ""
+planet "Genesis"
+	landscape "land/fog5"
+        government "HyFed"
+        port
+		recharge all
 
 planet "Hyl 8B998401 b"
 	landscape ""
+        government "HyFed"
+        port
+		recharge all
 
 planet Onai
 	landscape ""
+        government "HyFed"
+        port
+		recharge all
 
-planet "Platinum Men"
+planet "Platinum Mem"
 	attributes "gas giant"
-	landscape ""
+	landscape "planet/clouds11"
+        government "HyFed"
+        port
+		recharge all
 
 planet Ponsi
-	landscape ""
+	landscape "land/fog12"
+        government "HyFed"
+        port
+		recharge all
 
 planet Sawi
-	landscape land/city1
+	landscape land/fog12
 	description `Sawi is the home planet of the Hylinx where they evolved intelligence. Two billion years older than Earth, the plants species that live on it have had more time to evolve the ability to think, reason, and remember; 60% of plant species on it have been proven to be sentient. Thus some Hylinx call it the "Thinking Planet". The heat that this planet's star bombards it with has certainly sped up evolution here, and most scientists find a new species of large animals emerge every 100000 years, instead of the billions of years that Earth takes.`
 	spaceport `There are many Hylinx plants going around their business. There is a museum nearby the spaceport that contains artifacts from the Hylinx's early space age.`
 	shipyard "Hylinx Shipyard"
@@ -2952,14 +2967,25 @@ planet Sawi
 
 planet Vacari
 	attributes "gas giant"
-	landscape ""
+	landscape "land/city1"
+        port
+		recharge all
 
 planet "Var Aleph"
-	landscape ""
+	landscape "land/forest0"
+        government "HyFed"
+	"required reputation" 100
+	port
+		recharge all
+        port
+		recharge all
 
 planet "Var Electa"
-	landscape ""
+	landscape "land/station10"
 	description `Food Farm.`
+        government "HyFed"
+        port
+		recharge all
 
 planet "Veroha's Kiln"
 	landscape land/valley10-sfiera
@@ -2969,6 +2995,6 @@ planet "Veroha's Kiln"
 		recharge all
 
 planet "Xochta's Memory"
-	landscape ""
+	landscape "land/desert1"
 	description `Chief exporter of spices`
 

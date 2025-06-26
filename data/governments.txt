@@ -1,6 +1,11 @@
 government "Technocrat"
     color .01 .02 .5
+
 government "HyFed"
     color .05 .8 .1
+
 government "Verohata"
     color .6 .2 .1
+
+government "Hylinx"
+    color .02 .8 .01
