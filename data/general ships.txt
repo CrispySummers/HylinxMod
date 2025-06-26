@@ -5,18 +5,21 @@ ship "Rush"
     thumbnail thumbnail/speedster
     attributes
         category "Light Freighter"
-        cost 1000000
-        licenses "Hylinx General"
-        shields 3000
-        hull 10000
+        "cost" 1000000
+        "licenses" "Hylinx General"
+        "shields" 1000
+        "hull" 2000
         "required crew" 5
-        bunks 7
-        mass 200
+        "bunks" 7
+        "mass" 200
         "cargo space" 100
         "outfit space" 250
         "engine capacity" 100
-        "drag" 1.2
+        "drag" 3
     description "speedy and cost effective"
+	leak "leak" 60 50
+	explode "tiny explosion" 10
+	explode "small explosion" 5
     outfits
         "Cataka-class Fission Reactor"
         "Passive Cooler" 2

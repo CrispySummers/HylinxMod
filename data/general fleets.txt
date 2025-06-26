@@ -1,12 +1,14 @@
 fleet "Hylinx Civilian Fleet"
     government "Hylinx"
     names "Hylinx Civilian Ship Names"
-    cargo 3
+    cargo 4
     personality
-        confusion 40
+        confusion 20
         timid frugal appeasing
-    variant 30
+    variant 1000
         "Rush"
+
+fleet "HyFed Fleet"
 
 phrase "Hylinx Civilian Ship Names"
     word

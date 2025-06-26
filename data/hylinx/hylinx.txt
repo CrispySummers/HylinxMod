@@ -1,0 +1,5 @@
+government "Hylinx"
+    color .01 .65 .02
+    "penalty for"
+        disable 1
+        destroy 100
