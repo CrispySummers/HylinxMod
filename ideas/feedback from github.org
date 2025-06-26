@@ -1,0 +1,6 @@
+#+title: Feedback From Github
+- @Saugia
+  - First, decide what is unique about this species that adds to Endless Sky
+  - Second, this is going to be a long term project. Make sure to make a prototype. And first make it as a plugin.
+  - Third, Ember Waste systems should not be in JD range of other systems - they should be accessible primarily through wormholes.
+  - You might want to add some uninhabited systems for variety

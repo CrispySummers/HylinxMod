@@ -69,7 +69,7 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 :END:
 <2025-06-23 Mon 15:10-15:22>
 
-** TODO components [1/8]
+** TODO components [1/9]
 *** DONE research [4/4] :@computer:@internet:
 **** DONE research what experts think on Intelligent Plants [1/1]
 ***** DONE look online for and take notes on what experts think on Intelligent Plants
@@ -122,15 +122,77 @@ CLOCK: [2025-06-24 Tue 15:10]--[2025-06-24 Tue 15:12] =>  0:02
   - is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
   - can this ever fit in ES? if it doesn't fit in ES, will it still be good?
 ***** WAIT wait for 3 pieces of feedback
-**** TODO discuss this project's concept in the ES Github [/]
+**** TODO discuss this project's concept in the ES Github [1/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO ask some questions about the Hylinx concept on the ES Github - ask some questions listed under this entry
+***** DONE ask some questions about the Hylinx concept on the ES Github - ask some questions listed under this entry
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-26 Thu 08:35]
+:END:
 - questions to ask
   - is the territory anticlockwise of the Remnant up for grabs for aspiring ES contributors?
   - can this ever fit in ES? if it doesn't fit in ES, will it still be good?
 ***** WAIT wait for 3 pieces of feedback
+*** TODO prototype [0/3]
+**** TODO unique traits [0/1]
+***** TODO brainstorm 15 traits the Hylinx have that would be unique :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO brainstorm 15 traits the Hylinx could have that would be unique :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO first contact mission [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO write a description scrappy first contact mission - don't think too much! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO write a definition for a scrappy first contact mission - don't think too much! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO basic ships [0/3]
+***** TODO Glass Cannon [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO draw a sprite for the Glass Cannon consisting of basic shapes :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write a definition for the Glass Cannon :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO Rush [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO draw a sprite for the Rush consisting of basic shapes :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write a definition for the Rush :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO Eco [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO draw a sprite for the Eco consisting of basic shapes :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO write a definition for the Eco :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 *** TODO first contact mission [0/3]
 :PROPERTIES:
 :ORDERED:  t
