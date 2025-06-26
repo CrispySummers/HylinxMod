@@ -1,0 +1,34 @@
+outfit "Passive Cooler"
+    category "Systems"
+    licenses "Hylinx General"
+    description "gotta cool down man"
+    cost 50000
+    mass 20
+    "outfit space" -20
+    cooling 300
+
+outfit "Cataka-class Fission Reactor"
+    category "Power"
+    licenses "Hylinx General"
+    description "gotta make some energy"
+    cost 80000
+    mass 40
+    "outfit space" -40
+    "energy capacity" 1200
+    "energy generation" 400
+
+outfit "Cataka-class Drive"
+    category "Engines"
+    licenses "Hylinx General"
+    description "gotta go go go"
+    cost 100000
+    mass 60
+    "outfit space" -40
+    "engine capacity" -40
+    "thrust" 210000
+    "thrusting energy" 250
+    "thrusting heat" 280
+    turn 30000
+    "turning energy" 120
+    "turning heat" 180
+    "flare sprite" effect/fissionflare

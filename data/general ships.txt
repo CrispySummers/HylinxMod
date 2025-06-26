@@ -1,15 +1,28 @@
 # A freighter that is speedy and cost effective
-ship "Speedster"
+ship "Rush"
     sprite ship/speedster
         scale 0.5
     thumbnail thumbnail/speedster
     attributes
         category "Light Freighter"
+        cost 1000000
+        licenses "Hylinx General"
+        shields 3000
+        hull 10000
+        "required crew" 5
+        bunks 7
+        mass 200
+        "cargo space" 100
+        "outfit space" 250
+        "engine capacity" 100
+        "drag" 1.2
     description "speedy and cost effective"
     outfits
-        "Passive Cooler"
         "Cataka-class Fission Reactor"
+        "Passive Cooler" 2
         "Cataka-class Drive"
+    engine 10 -60
+    engine -10 -60
 
 # A freighter that is bulky but armored and can withstand serious heat damage and burning damage
 ship "Hothouse"

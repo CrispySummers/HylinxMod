@@ -50,7 +50,7 @@ system "Caca Bata"
 		haze _menu/haze-tear
 
 system Gateway
-	pos 390 341
+	pos 426 344
 	government HyFed
 	habitable 233.28
 	link "Hyl 8C0A9C11"
@@ -273,6 +273,10 @@ system "Hyl 2478245D"
 	link "Hyl 2ED4511A"
 	link "Hyl 27317E2D"
 	haze _menu/haze-tear
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
 	object
 		sprite star/f5
 		period 10
@@ -364,7 +368,7 @@ system "Hyl 27317E2D"
 		haze _menu/haze-tear
 
 system "Hyl 2ED4511A"
-	pos 611 311
+	pos 624 279
 	government HyFed
 	habitable 320
 	link "Hyl 2478245D"
@@ -433,22 +437,26 @@ system "Hyl 30A2B03A"
 	object
 		sprite star/m0
 		period 10
-	object
+	object "Var Electa"
 		sprite planet/dust2
-		distance 185
-		period 56.2656
+		distance 236.491
+		period 81.322
+		offset 321.085
 	object
 		sprite planet/ocean7
-		distance 552.96
-		period 290.754
+		distance 604.451
+		period 332.297
+		offset 168.25
 	object
 		sprite planet/gas15
-		distance 1255.77
-		period 995.062
+		distance 1307.26
+		period 1056.89
+		offset 23.0038
 	object
 		sprite planet/gas3
-		distance 2242.41
-		period 2374.42
+		distance 2293.9
+		period 2456.67
+		offset 5.51766
 
 system "Hyl 5D5FC342"
 	pos 520 244
@@ -458,6 +466,8 @@ system "Hyl 5D5FC342"
 	link "Hyl 6A5646CB"
 	link "Stu Aleph"
 	haze _menu/haze-tear
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
 	object
 		sprite star/k0
 		period 10
@@ -515,7 +525,7 @@ system "Hyl 627BD9BA"
 		distance 498.58
 		period 201.855
 		haze _menu/haze-tear
-	object
+	object Vacari
 		sprite planet/gas9
 		distance 926.47
 		period 511.311
@@ -552,15 +562,16 @@ system "Hyl 6A5646CB"
 		distance 195
 		period 52.7774
 		haze _menu/haze-tear
-	object
+	object Ponsi
 		sprite planet/ice4
 		distance 418.01
 		period 165.644
 		haze _menu/haze-tear
 	object
 		sprite planet/desert3
-		distance 1058.01
-		period 667.007
+		distance 1034.53
+		period 644.926
+		offset 326.763
 		haze _menu/haze-tear
 		object
 			sprite planet/rock14
@@ -569,13 +580,15 @@ system "Hyl 6A5646CB"
 			haze _menu/haze-tear
 	object
 		sprite planet/gas5
-		distance 1526.9
-		period 1156.41
+		distance 1503.42
+		period 1129.84
+		offset 349.79
 		haze _menu/haze-tear
 	object
 		sprite planet/gas3
-		distance 2788.15
-		period 2853.45
+		distance 2764.67
+		period 2817.48
+		offset 357.754
 		haze _menu/haze-tear
 
 system "Hyl 6EF35417"
@@ -592,7 +605,7 @@ system "Hyl 6EF35417"
 		sprite planet/ice4
 		distance 229.81
 		period 67.5226
-	object
+	object "Platinum Men"
 		sprite planet/gas4
 		distance 682.81
 		period 345.817
@@ -681,7 +694,7 @@ system "Hyl 9B5E4943"
 		distance 178.36
 		period 46.1681
 		haze _menu/haze-tear
-	object
+	object Onai
 		sprite planet/cloud8
 		distance 649.32
 		period 320.689
@@ -733,7 +746,7 @@ system "Hyl A36BC7F7"
 		distance 163.49
 		period 46.7436
 		haze _menu/haze-tear
-	object
+	object "First Pick"
 		sprite planet/gas10
 		distance 435.45
 		period 203.185
@@ -1402,6 +1415,8 @@ system Mata
 	asteroids "medium metal" 3 2.8512
 	asteroids "large metal" 7 3.7728
 	haze _menu/haze-tear
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
 	object
 		sprite star/k0
 		distance 52.2716
@@ -1500,56 +1515,54 @@ system Neogen
 system "Stu Aleph"
 	pos 494 283
 	government HyFed
-	habitable nan
+	habitable 233.28
 	link "Hyl 8C0A9C11"
 	link Mata
 	link "Hyl 5D5FC342"
 	haze _menu/haze-tear
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
 	object
-		sprite star/f5
-		distance 33.6538
-		period 11.6952
-		offset 180
+		sprite star/m4
+		period 10
 		haze _menu/haze-tear
-	object
-		sprite star/g5
-		distance 92.3462
-		period 11.6952
-		haze _menu/haze-tear
-	object
-		sprite planet/lava2
-		distance 291.306
-		period 41.1128
-		haze _menu/haze-tear
-	object
-		sprite planet/mercury
-		distance 452.146
-		period 79.5006
-		haze _menu/haze-tear
-	object Genesis
-		sprite planet/ice0
-		distance 799.036
-		period 186.768
-		haze _menu/haze-tear
-	object
-		sprite planet/dust2
-		distance 1192
-		period 340.302
-		haze _menu/haze-tear
-	object
-		sprite planet/gas11
-		distance 1787.21
-		period 624.761
+	object "Var Aleph"
+		sprite planet/cloud4
+		distance 332.148
+		period 158.532
+		offset 145.784
 		haze _menu/haze-tear
 		object
-			sprite planet/rock3
-			distance 255
-			period 13.4304
+			sprite planet/dust3
+			distance 143
+			period 16.0841
+			haze _menu/haze-tear
+	object
+		sprite planet/lava5
+		distance 724.188
+		period 510.385
+		offset 67.7485
+		haze _menu/haze-tear
+	object
+		sprite planet/gas5
+		distance 1518.6
+		period 1549.83
+		offset 10.2801
+		haze _menu/haze-tear
+		object
+			sprite planet/desert4
+			distance 230
+			period 11.5995
 			haze _menu/haze-tear
 		object
-			sprite planet/miranda
-			distance 382
-			period 24.6248
+			sprite planet/rock0
+			distance 311
+			period 18.2384
+			haze _menu/haze-tear
+		object
+			sprite planet/rhea
+			distance 489
+			period 35.9592
 			haze _menu/haze-tear
 
 system "Stu Theta"
@@ -2683,6 +2696,8 @@ system "xowxa Omega"
 	link Mata
 	link "Hyl C3CCB82D"
 	link "Hyl 1ABA0005"
+	fleet "Hylinx Civilian Fleet" 3000
+	fleet "HyFed Fleet" 1000
 	object
 		sprite star/g5
 		period 10
@@ -2698,7 +2713,7 @@ system "xowxa Omega"
 		sprite planet/miranda
 		distance 641.4
 		period 259.904
-	object
+	object "Xochta's Memory"
 		sprite planet/neptune
 		distance 1211.76
 		period 674.909
@@ -2882,10 +2897,24 @@ planet "Cocha's Memory"
 	"required reputation" 10
 	government HyFed
 
+planet "First Pick"
+	attributes "gas giant"
+	landscape ""
+
 planet Genesis
 	landscape ""
 
 planet "Hyl 8B998401 b"
+	landscape ""
+
+planet Onai
+	landscape ""
+
+planet "Platinum Men"
+	attributes "gas giant"
+	landscape ""
+
+planet Ponsi
 	landscape ""
 
 planet Sawi
@@ -2899,10 +2928,25 @@ planet Sawi
 	port
 		recharge all
 
+planet Vacari
+	attributes "gas giant"
+	landscape ""
+
+planet "Var Aleph"
+	landscape ""
+
+planet "Var Electa"
+	landscape ""
+	description `Food Farm.`
+
 planet "Veroha's Kiln"
 	landscape land/valley10-sfiera
 	"required reputation" 300
 	government Verohata
 	port
 		recharge all
+
+planet "Xochta's Memory"
+	landscape ""
+	description `Chief exporter of spices`
 
