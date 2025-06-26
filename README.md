@@ -14,3 +14,6 @@ The HyFed is a federation of worlds. Each world keeps its sovereignity, but foll
 - [ ] Ships
 - [ ] Outfits
 - [ ] Factions
+- [ ] Lore
+- [ ] First Contact Missions
+- [ ] Extra Missions
