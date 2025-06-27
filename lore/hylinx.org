@@ -1,4 +1,6 @@
 #+title: Hylinx
-- The Hylinx are a group of plants, fungi, and slow-moving or sessile animals that all originated from Sawi (a hotter but otherwise Earth-like world) and have established many civilizations within Hylinx Space.
-- Hylinx Space consists of 100 star systems. a lot!
-- The Hylinx have four governing factions
+The Hylinx are a diverse group of plants and fungi from Sawi, a hot, steamy, and stormy world, that have colonized all of the star systems available to them - about 100, nearer to the Core and thus containing higher mass stars than human space. Among the species they include are: the "Progenitor" species, the Violetstalk (stems in the shallow sea fully covered with tiny but sharp thorns with fleshy mouths at the top) who think the most like humans; the Sporadic, a species of fungi that hijacks the brains of animals to do its bidding; and the Eyed vines that are capable of seeing and feed visual information to their allied species. They are roughly equivalent to humans in technology, with the same level of engineering capability, combat capability and social progress.
+
+The Hylinx have four governing factions:
+- [[./verota.org][Verota]]: a coalition of planets who worship Vero and seek to embody Their Five Virtues.
+- [[./hyfed.org][HyFed]]: the original federation of planets that the Hylinx formed after they first set up colonies on other planets.
