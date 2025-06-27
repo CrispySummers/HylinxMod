@@ -1,0 +1,6 @@
+#+title: Conversation Patterns
+The Hylinx communicate primarily through chemicals, though sometimes also through electrical signals when they need to send something fast.
+
+Thus, when your translator translates their languages to English, what you get will:
+- Be logical, structured, specific, and commanding, though containing metaphor. E.g "If you want to strengthen your relationship with us, join us for our feast." instead of the usual human "Wanna join us for dinner?"
+- Contain emotion tags (representing things that humans and other sapient animal species usually communicate with body language) in square brackets. e.g [angry], [indignant], [pleasure], [curious], [sad]
