@@ -1,0 +1,17 @@
+#+title: Verohata
+* environmental
+** Geography
+The Verota are anti-clockwise of the HyFed, having colonized 40 star systems.
+** resources available
+They have access to metals, of course, which are everywhere. In general, I think space is generally homogenous in terms of which star sectors have which resources?
+* economic
+** needs
+- Food
+  - Yes, commonfeed is easy to make, decent, and keeps well. But the Verota prefer certain other kinds of food, to celebrate things. Thus, they must make these at special stations.
+  - For example, they prefer Bovavec, which is as much food as it is chemoart. They eat it to celebrate certain events. It has a distinctly bacterial flavor.
+-
+** imports
+** exports
+* political
+* interpolitical
+* cultural

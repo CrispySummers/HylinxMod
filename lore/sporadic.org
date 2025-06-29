@@ -1,3 +1,21 @@
 #+title: Sporadic
-- Sporadic
-  - smaller fungus, capable of sending spores to hijack the brains of animals to do its bidding, and directly commanding them
+smaller fungus, capable of sending spores to hijack the brains of animals to do its bidding, and directly commanding them
+
+* environment
+tundras, where things are quite cool
+* form
+the Sporadic form large root networks under the face, with a few palm-sized mushrooms peeking out.
+* diet
+* respiration
+* reproduction
+The Sporadic first meet myceliae, then form spores. The mushrooms then disperse the spores into the air, which the winds blow. The spores will then land on new soil, and grow...
+* sensitivity
+** brains
+** senses
+- Chemosense: common to all hylinx
+- hearing
+- seismic sense
+-
+** communication
+* growth
+* challenges

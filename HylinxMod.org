@@ -387,7 +387,7 @@ CLOCK: [2025-06-25 Wed 14:56]--[2025-06-25 Wed 15:06] =>  0:10
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-28 Sat 14:30-14:37>
+<2025-06-29 Sun 14:30-14:37>
 ***** TODO select 3 light warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min

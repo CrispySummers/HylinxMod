@@ -1,37 +1,30 @@
 #+title: Hy Fed
-- HyFed
-  - environmental
-    - territory: a sphere around Mata, the star system which Sawi belongs to, that extends on average 3 hyperlinks away from mata in any direction, though it is biased corewards
-    - resources available:
-      - from stars: sunlight, but not plasma since they don't have starlifting tech yet
-      - from asteroids: metals, minerals, e.t.c
-      - from planets: lots!
-  - economic
-    - needs
-      - political influence
-      - energy, which they get easily from starlight, and fusion torches around planets
-    - imports
-      - metals (yes, they mine these themselves, but also buy from other suppliers)
-      -
-    - exports
-  - political
-    - government structure
-      - Council at top, made up of around 1000 to 5000 people at any given time, which make decisions when needed to safeguard the HyFed or even the Hylinx as a whole
-      - A defense (and offense) fleet that is shared with other HyFed
-      - polities below, which can do whatever they want as long as they don't violate the Interstellar Rules. if they don't, the HyFed may go to war with them and try to take down their governance!
-    - Interstellar Rules
-      - No atrocities
-      - No selling or buying harmful things (drugs, e.t.c)
-  - interpolitical
-    - relationships with others
-      - Verohata: the Council is wary of them, since the Verohata broke away from them, and also oppress their dissidents, but isn't hostile against them (yet).
-      - Klava: covertly trying to stop the Klava's transhylinxist activities, even sometimes going so far as to coverlty kill entire virtual worlds using viruses. but publicly has a good relationship with them
-      - Corp: buys and sells with and from them
-  - cultural
-    - cultural ethos: varied. generally diverse, though.
-    - what do the culture(s) generally value?
-      - hard work
-      - conservatism
-    - what don't the culture(s) generally value?
-      - malicious activities
-      - transhylinxism
+* environmental
+** territory
+a sphere around Mata, the star system which Sawi belongs to, that extends on average 3 hyperlinks away from mata in any direction, though it is biased corewards
+** resources available:
+- from stars: sunlight, but not plasma since they don't have starlifting tech yet
+- from asteroids: metals, minerals, e.t.c
+- from planets: lots!
+* economic
+** needs
+- political influence
+- energy, which they get easily from starlight, and fusion torches around planets
+** imports
+- metals (yes, they mine these themselves, but also buy from other suppliers)
+** exports
+* political
+** government structure
+- Council at top, made up of around 1000 to 5000 people at any given time, which make decisions when needed to safeguard the HyFed or even the Hylinx as a whole
+- A defense (and offense) fleet that is shared with other HyFed
+- polities below, which can do whatever they want as long as they don't violate the Interstellar Rules. if they don't, the HyFed may go to war with them and try to take down their governance!
+** general laws
+- No atrocities
+- No selling or buying harmful things (drugs, e.t.c)
+** relationships with others
+* history
+after the First Interplanetary War of the Hylinx, the colonies of Sawi, Xoit, and the moons of Vci saw that it would be in their best interests to form a coalition of sorts. What really pushed them to agree was the discovery of hyperlinks, the invention of the hyperdrive, which made them see that there was many star systems waiting to be colonized...
+* cultural
+  - cultural ethos: varied. generally diverse, though.
+  - what do the culture(s) generally value?
+  - what don't the culture(s) generally value?
