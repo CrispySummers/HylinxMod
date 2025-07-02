@@ -1,7 +1,6 @@
 # A freighter that is speedy and cost effective
 ship "Rush"
     sprite ship/speedster
-        scale 0.5
     thumbnail thumbnail/speedster
     attributes
         category "Light Freighter"
@@ -14,16 +13,17 @@ ship "Rush"
         "mass" 200
         "cargo space" 100
         "outfit space" 250
-        "engine capacity" 100
+        "engine capacity" 60
         "drag" 3
     description "speedy and cost effective"
-	leak "leak" 60 50
-	explode "tiny explosion" 10
-	explode "small explosion" 5
+    leak "leak" 60 50
+    explode "tiny explosion" 10
+    explode "small explosion" 5
     outfits
         "Cataka-class Fission Reactor"
         "Passive Cooler" 2
         "Cataka-class Drive"
+        "Shield Generator 0"
     engine 10 -60
     engine -10 -60
 
@@ -32,3 +32,53 @@ ship "Hothouse"
 
 # A heavy freighter that can also act as a warship in a pinch using its heavy arnament
 ship "Kraken"
+
+# A ship for hit and runs
+ship "Vulture"
+
+# A ship designed to take down the average ship above its weight class
+ship "David"
+
+# classic patrol ship
+ship "Peacekeeper"
+    sprite ship/peacekeeper
+    thumbnail thumbnail/peacekeeper
+    attributes
+        category "Light Warship"
+        cost 1000000
+        "licenses" "Hylinx Military"
+        "shields" 2500
+        "hull" 4000
+        "required crew" 3
+        "bunks" 5
+        "mass" 300
+        "cargo space" 20
+        "outfit space" 300
+        "engine capacity" 100
+        "drag" 2
+    description "Awesome!"
+    leak "leak" 60 50
+    explode "tiny explosion" 10
+    explode "small explosion" 5
+    outfits
+        "Cataka-class Fission Reactor"
+        "Passive Cooler" 2
+        "Cataka-class Drive"
+        "Shield Generator 0"
+    engine 10 -60
+    engine -10 -60
+
+# hit and run
+ship "Diver"
+
+# Klava ship
+ship "Shocker"
+
+# Klava ship
+ship "Bill"
+
+# Verota ship
+ship "Preacher"
+
+# Verota ship
+ship "Deacon"

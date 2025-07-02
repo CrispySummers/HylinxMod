@@ -193,22 +193,30 @@ CLOCK: [2025-06-24 Tue 15:10]--[2025-06-24 Tue 15:12] =>  0:02
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** TODO first contact mission [0/3]
+*** TODO first contact mission [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO ideas [0/1]
-***** TODO brainstorm missions to add to the first contact mission :@computer:think:divg:
+**** DONE ideas [1/1]
+***** DONE brainstorm missions to add to the first contact mission :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
-<2025-06-24 Tue 15:35-15:47>
-**** TODO goals [0/1]
-***** TODO describe my goals for the First Conact Mission :@computer:think:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-30 Mon 15:08]
+CLOCK: [2025-06-30 Mon 15:06]--[2025-06-30 Mon 15:08] =>  0:02
+:END:
+<2025-06-30 Mon 15:00-15:15>
+**** DONE goals [1/1]
+***** DONE describe my goals for the First Contact Mission :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-24 Tue 15:47-15:55>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-30 Mon 15:09]
+CLOCK: [2025-06-30 Mon 15:08]--[2025-06-30 Mon 15:09] =>  0:01
+:END:
+<2025-06-24 Tue 15:15-15:23>
 **** TODO conversations [0/1]
 ***** TODO write conversation entries for each of the missions :@computer:think:
 :PROPERTIES:
@@ -315,7 +323,7 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** TODO ships [1/6]
+*** TODO ships [1/8]
 **** TODO transport [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -379,26 +387,36 @@ CLOCK: [2025-06-25 Wed 14:56]--[2025-06-25 Wed 15:06] =>  0:10
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO light warship [0/3]
+**** TODO light warship [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO brainstorm 5 light warship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
+***** DONE brainstorm 5 light warship ideas for the Hylinx - in general and faction-specific :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-29 Sun 14:30-14:37>
-***** TODO select 3 light warships :@computer:think:divg:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-30 Mon 14:50]
+CLOCK: [2025-06-30 Mon 14:43]--[2025-06-30 Mon 14:50] =>  0:07
+:END:
+<2025-06-30 Mon 14:30-14:37>
+***** DONE select 3 light warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-06-26 Thu 14:37-14:38>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-30 Mon 14:53]
+CLOCK: [2025-06-30 Mon 14:50]--[2025-06-30 Mon 14:53] =>  0:03
+:END:
+<2025-06-30 Mon 14:37-14:38>
 ***** TODO write up definitions for 3 light warships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-26 Thu 14:38-14:46>
-**** medium warship [/]
+:LOGBOOK:
+CLOCK: [2025-06-30 Mon 14:53]--[2025-06-30 Mon 14:58] =>  0:05
+:END:
+**** TODO medium warship [0/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -414,7 +432,7 @@ CLOCK: [2025-06-25 Wed 14:56]--[2025-06-25 Wed 15:06] =>  0:10
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** heavy warship [/]
+**** TODO heavy warship [0/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:

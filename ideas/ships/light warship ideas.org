@@ -1,0 +1,32 @@
+#+title: Light Warship Ideas
+- a ship similar to the Quicksilver. one that is fast, and weak on its own, but absolutely destructive in swarms, and can shoot from far away. one with the equivalent of particle cannons.
+- perhaps another ship similar to the Headhunter.
+- maybe one used for bounty hunting?
+- one trading weapon capacity for speed?
+- and one trading speed for weapon capacity?
+
+alright, I've come up with 5 vague ideas, but I gotta make specs man
+
+- Vulture
+- A ship for doing hit and runs
+- Hunter: a ship for hitting well above one's weight
+- Diver: a ship that goes in fast and does hit and runs on slow targets
+- A ship that is still a light warship, but can also tank a lot of damage while giving it out
+
+I wanna come up with more ideas, so I'll come up with ideas for Faction-related warships.
+
+- HyFed
+  - Peacekeeper
+    - classic light warship for patrolling uninhabited systems
+    - has decent fuel capacity (400) for going on long routes, and ramscoop capability (around 3)
+    - mainly non-ammoed weapons, since stocking up on ammo might be... hard
+- Klava
+  - Shocker
+    -
+  - Bill
+    - tanks possible damage while dealing it
+    - around as fast as a Raven
+- Verota
+  - Preacher
+    -
+  - Deacon
