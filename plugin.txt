@@ -1,3 +1,5 @@
 name "Hylinx"
 about "A plugin that adds a plant and fungi civilization to Endless Sky"
-version 
+version "0.0.0"
+authors
+    "CrispySummers (DSPE)"
