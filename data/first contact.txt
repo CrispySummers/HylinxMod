@@ -1,0 +1,28 @@
+mission "Hylinx First Contact 0"
+    invisible
+    landing
+    source
+        attributes "hylinx"
+
+mission "Hylinx First Contact 1"
+    "display name" "Diplomacy with plants"
+    landing
+    description `Go to the homeworld of the Hylinx, and meet with them.`
+    source
+        attributes "Qulinx"
+    destination "Sawi"
+    conversation "Hylinx First Contact - meeting the Qulinx"
+        # TODO: add a branch here to move to another part if the player contacted the Hylinx before in space
+        `You land on the Quarg ringworld and flag down a local Quarg for answers. "Yes human, what is it?"`
+        `   "Can you tell me about this region of space?", you say.`
+        `   The Quarg's skin pulsates thoughtfully, before it responds. "This region of space is home to the Hylinx, a group of plant and fungi species originating from a hot, steamy, foggy world that have colonized almost this entire region. They are unfortunately ruled by corporates lol"`
+        choice
+            `"Could you help me talk to them?"`
+        `   "Yeah here is a data chip! It contains many Hylinx languages."`
+        `   "Thank you!" you say.`
+        set "language: Hylinx"
+    on complete
+       conversation "Hylinx first contact"
+
+conversation "Hylinx first contact"
+    what the fuck

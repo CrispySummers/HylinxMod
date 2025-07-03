@@ -8,6 +8,17 @@ outfit "Passive Cooler"
         "outfit space" -20
         cooling 300
 
+outfit "Dynamos Cooler"
+    category "Systems"
+    licenses "Hylinx General"
+    description "gotta cool down man"
+    cost 50000
+    attributes
+        mass 40
+        "outfit space" -40
+        cooling 4000
+        "cooling energy" -200
+
 outfit "Cataka-class Fission Reactor"
     category "Power"
     licenses "Hylinx General"
@@ -18,6 +29,18 @@ outfit "Cataka-class Fission Reactor"
         "outfit space" -40
         "energy capacity" 1200
         "energy generation" 400
+
+outfit "Nova Reactor"
+    category "Power"
+    licenses "Hylinx General"
+    description "gotta make some energy"
+    cost 1000000
+    attributes
+        mass 140
+        "outfit space" -140
+        "energy capacity" 5000
+        "energy generation" 2000
+        "energy heat" 1400
 
 outfit "Cataka-class Drive"
     category "Engines"
@@ -36,6 +59,23 @@ outfit "Cataka-class Drive"
         "turning heat" 180
         "flare sprite" effect/fissionflare
 
+outfit "Ultima-class Drive"
+    category "Engines"
+    licenses "Hylinx General"
+    description "gotta go go go"
+    cost 2000000
+    attributes
+        mass 240
+        "outfit space" -240
+        "engine capacity" -200
+        "thrust" 3000000
+        "thrusting energy" 500
+        "thrusting heat" 500
+        turn 500000
+        "turning energy" 300
+        "turning heat" 300
+        "flare sprite" effect/fissionflare
+
 outfit "Shield Generator 0"
     category "Systems"
     licenses "Hylinx Generator"
@@ -45,3 +85,37 @@ outfit "Shield Generator 0"
         mass 16
         "outfit space" -16
         "shield generation" 60
+
+outfit "GRASER"
+	category "Secondary Weapons"
+	series "Secondary Weapons"
+	index 13020
+	cost 150000000
+	thumbnail "outfit/dragonflame"
+	"mass" 156
+	"outfit space" -156
+	"weapon capacity" -156
+	"required crew" 10
+	"gun ports" -1
+	"spinal mount" -1
+	"unique" 1
+	weapon
+		sound "dragonflame"
+		icon "icon/dragonflame"
+		"fire effect" "dragonflame"
+		"hit effect" "bright hit"
+		"hit effect" "dragonflame plasma" 30
+		"hit effect" "dragonflame debris" 50
+		"velocity" 2000
+		"lifetime" 1
+		"reload" 180
+		"firing energy" 16000
+		"firing fuel" 200
+		"firing heat" 40000
+		"firing force" 1500
+		"hit force" 3000
+		"shield damage" 25000
+		"hull damage" 15000
+		"heat damage" 50000
+		"piercing" 0.4
+		"penetration count" 20
