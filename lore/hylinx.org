@@ -4,3 +4,5 @@ The Hylinx are a diverse group of plants and fungi from Sawi, a hot, steamy, and
 The Hylinx have four governing factions:
 - [[./verota.org][Verota]]: a coalition of planets who worship Vero and seek to embody Their Five Virtues.
 - [[./hyfed.org][HyFed]]: the original federation of planets that the Hylinx formed after they first set up colonies on other planets.
+- [[./consortium.org][Consortium]]: a group of megacorporations
+- [[./klava.org][Klava]]: a coalition of planets who believe in self-improvement through augmentation and radical body modification

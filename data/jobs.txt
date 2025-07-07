@@ -1,0 +1,21 @@
+mission "Hylinx Cargo [0]"
+    name "Delivery to <planet>"
+    job
+    repeat
+    description "Deliver <cargo> to <destination>. Payment is <payment>."
+    cargo random 5 2 .1
+    source
+        attributes "hylinx space"
+    on visit
+       dialog phrase "hylinx cargo on visit"
+    on complete
+       payment
+       dialog phrase "hylinx cargo delivery payment"
+
+phrase "hylinx cargo visit"
+    word
+        "The Hylinx are grateful for your delivery of <planet>"
+        "At the dock, the dock robots pick up your delivery of <planet>"
+    word
+        ", and you find that your bank account is <playment> richer."
+        ", and pay you <payment>"

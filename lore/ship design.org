@@ -1,0 +1,6 @@
+#+title: Ship Design
+- transport
+  - transport ships are somewhat automated
+  - luxury cruiser?
+- warships
+  - Warships have no crew, and are completely automated, because the Hylinx are too slow to combat.

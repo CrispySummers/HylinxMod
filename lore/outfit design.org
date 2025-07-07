@@ -1,0 +1,22 @@
+#+title: Outfit Design
+- weapons
+  - beam weapons
+    - context
+      - 
+    - purpose
+  - projectile weapons
+    - purpose
+  - missile weapons
+    - purpose
+- systems
+  - cooling
+    - purpose
+  - bunks  
+    - purpose
+- power
+  - reactors
+    - purpose
+  - batteries
+    - purpose
+- engines
+  - purpose

@@ -1,0 +1,25 @@
+#+title: Jobs
+Alright, for this brainstorming session, I'll come up with 10 kinds of jobs. After all, this task will take 10 minutes...
+
+- Simple courier missions: carrying cargo or passengers
+- Hylinx general missions
+  - prisoner transport
+  - what else can I come up with? let's think of what the other factions already have...
+    - maybe special kinds of courier missions?
+      - like GM seeds?
+      - 
+  - tech retrieval
+  - collaborators
+  - escort (not from pirates, but from enemy governments...)  
+- Faction-specific missions
+  - Consortium
+    - Corporate Espionage?
+      - the Consortium might find using a foreigner like the player to scan rival ships to be useful, as rival ships might simply think that it is alien curiosity
+    - Weapon Testing?
+  - Verota
+    - Pilgrimage?
+    - Test of purity (of the PC)?  
+  - HyFed    
+  - Klava
+    - Weapon Testing?
+    - Mind Testing?

@@ -69,7 +69,7 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 :END:
 <2025-06-23 Mon 15:10-15:22>
 
-** TODO components [1/9]
+** TODO components [3/9]
 *** DONE research [4/4] :@computer:@internet:
 **** DONE research what experts think on Intelligent Plants [1/1]
 ***** DONE look online for and take notes on what experts think on Intelligent Plants
@@ -254,30 +254,46 @@ CLOCK: [2025-06-30 Mon 15:08]--[2025-06-30 Mon 15:09] =>  0:01
 :PROPERTIES:
 :EFFORT:   30min
 :END:
-*** TODO jobs [0/2]
+*** DONE jobs [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO describe jobs to be done in Hylinx Space :@computer:think:
+**** DONE describe jobs to be done in Hylinx Space :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-07 Mon 14:32]
+CLOCK: [2025-07-07 Mon 14:28]--[2025-07-07 Mon 14:32] =>  0:04
+:END:
 <2025-07-07 Mon 14:30-14:38>
-**** TODO remix the existing job definitions into ones that work in Hylinx Space :@computer:
+**** DONE remix the existing job definitions into ones that work in Hylinx Space :@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-07 Mon 14:38]
+CLOCK: [2025-07-07 Mon 14:32]--[2025-07-07 Mon 14:38] =>  0:06
+:END:
 <2025-07-07 Mon 14:38-14:42>
-*** TODO ship and outfit "personality" [0/2]
+*** DONE ship and outfit "personality" [2/2]
 the ES crew have stated that they want all outfits in ES to have pros and cons, instead of one set being Superior in all aspects
-**** TODO brainstorm what set of "pros and cons" Hylinx outfits - both generally and faction-specific - might have :@computer:think:divg:
+**** DONE brainstorm what set of "pros and cons" Hylinx outfits - both generally and faction-specific - might have :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-07 Mon 14:43]
+CLOCK: [2025-07-07 Mon 14:38]--[2025-07-07 Mon 14:43] =>  0:05
+:END:
 <2025-07-07 Mon 14:42-14:54>
-**** TODO select 3 pros and cons of Hylinx Outfits :@computer:think:convg:
+**** DONE select 3 pros and cons of Hylinx Outfits :@computer:think:convg:
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-07 Mon 14:47]
+CLOCK: [2025-07-07 Mon 14:43]--[2025-07-07 Mon 14:47] =>  0:04
 :END:
 <2025-07-07 Mon 14:59-15:07>
 *** TODO outfits [0/3]
@@ -289,33 +305,27 @@ the ES crew have stated that they want all outfits in ES to have pros and cons, 
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:07-15:15>
 ***** TODO select 3 cooling outfits of the Hylinx :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:15-15:23>
 ***** TODO write definitions for the cooling outfits of the Hylinx :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:28-15:36>
 **** TODO energy [/]
 ***** TODO brainstorm 15 energy outfits of the Hylinx :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:36-15:44>
 ***** TODO select 5 energy outfits of the Hylinx :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:44-15:52>
 ***** TODO write definitions for the energy outfits of the Hylinx :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-07-07 Mon 15:52-16:00>
 **** TODO weapons [0/3]
 ***** TODO beam weapons [/]
 :PROPERTIES:

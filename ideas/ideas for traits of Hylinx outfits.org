@@ -1,0 +1,46 @@
+#+title: Ideas For Traits Of Hylinx Outfits
+- the existing pros and cons that the outfits of the current factions have
+  - humans
+    - pros
+      - ???
+    - cons  
+      - ???
+  - Korath  
+    - pros
+      - high energy
+      - high cooling
+    - cons
+      - high heat
+      - slow  
+      - lots of outfit space needed
+  - Quarg
+    - pros
+      - high damage
+      - high thrust
+    - cons
+      - high energy needed    
+  - Hai  
+    - pros
+      - simple
+      - reasonably damaging  
+    - cons    
+  - Remnant  
+    - pros
+      - things like cloaking, shielding, hull repair, and such are integrated into the ships themselves
+      - low mass
+      - cloaking!
+    - cons
+      - 
+  - Successor
+    - pros
+    - cons
+
+- ideas for pros
+  - I have no idea what I'm doing lol
+  - range?  
+  - energy output
+  - corrosion damage output
+  - disruption damage output
+- ideas for cons
+  - high energy requirements
+  - high reload times
