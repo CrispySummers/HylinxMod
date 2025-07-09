@@ -1,0 +1,7 @@
+#+title: Transport Ship Ideas
+- a shuttle, a starter "singleship" for newbie pilots
+- a luxury liner
+  - similar in purpose to the Star Queen
+- an armored transport for militaries
+- a small scout
+- a heavy shuttle

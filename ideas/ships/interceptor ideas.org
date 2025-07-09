@@ -1,0 +1,16 @@
+#+title: Interceptor Ideas
+Alright, I have no idea what Interceptors are good for, but I'll make some anyways.
+
+I think they are mainly good for swarming and overwhelming? Thus, I'll make Hylinx interceptors fast and manouverable
+
+- a long range, low armor, but fast interceptor
+- a short range, high armor, and fast interceptor
+
+alright, I'll take a look at the interceptors of humans, and other species
+
+- Hylinx general purpose
+- faction-specific
+  - HyFed
+  - Consortium
+  - Klava
+  - Verota

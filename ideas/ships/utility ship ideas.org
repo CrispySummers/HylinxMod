@@ -1,0 +1,27 @@
+#+title: Utility Ship Ideas
+Alright, so I assume that "utility" in the context of ES Utility Ships simply means "general purpose".
+
+- A generation ship with all the anemities needed.
+  - basically the Hylinx equivalent to the Bactrian
+  - let's say that this can carry... around 500 people?  
+  - but I don't want this to be OP, so I'll give it a serious con, like maybe huge mass, so it can move around 250 at max.
+- some version of the Mule?
+  - a smaller version of the generation ship for those who can't afford the bigger Hylinx Garden-Ship?
+- a miner ship, I Guess
+  - lets call it the "Excavator"
+- alright, so what are some other kinds of general purpose ships I could make?
+  - more miner ships?
+    - maybe at least three scales of them, with different speeds, cargo capacities, masses, and such
+  - maybe a scout variant of the Hylinx Garden-Ship?
+- yes, it's been only three minutes since I first started the task, but I still have 4 minutes more, so I should make more ideas
+- let's recall what utility ships the OTHER factions have
+- fighter carriers could also be useful
+  - let's also make more effective drones, eh? in ES, most fighters and drones are little more than glorified missiles ._.
+- personnel carriers with less cargo space than a generation ship could also be useful
+  - the equivalent of a Navy Auxillery
+- Builder Ships could also be useful
+- alright, let's consider ships that the Hylinx might make that humans wouldn't, because of their differing nature.
+  - unlike humans, the Hylinx are focused primarily on slowly manipulating the environment around them to their advantage, instead of immediate hunting.
+  - thus, in space, they might have built more than one kind of generation ship, that they might still sell in the game's "present day"
+  - so what kinds of ships would they need to establish a new colony?  
+    - a ship carrying lots of equipment and people

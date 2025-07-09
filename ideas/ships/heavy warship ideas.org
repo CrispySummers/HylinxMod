@@ -1,0 +1,4 @@
+#+title: Heavy Warship Ideas
+- Glass Cannon
+- Carrier thingy
+- missilecarrier

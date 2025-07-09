@@ -115,3 +115,15 @@ ship "Glass Cannon"
         "Nova Reactor"
         "Ultima-class Drive"
         "Shield Generator 5"
+
+# shuttle
+ship "Atry"
+
+# luxury liner
+ship "Orna"
+
+# rhino
+ship "Rhino"
+
+# scout
+ship "Hylinx Scouter"

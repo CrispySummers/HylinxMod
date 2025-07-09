@@ -1,0 +1,5 @@
+#+title: Medium Warship Ideas
+- something simialr to the Raven?
+- long-distance striker
+- ion striker
+- missileboat

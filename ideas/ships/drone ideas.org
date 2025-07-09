@@ -1,0 +1,14 @@
+#+title: Drone Ideas
+- info drones
+  - these drones can scan ships?
+  - Surveillance Drone  
+    - i'll have to name it something difference because this is the name of a drone that the Republic Navy has
+- research drones
+  - let's make a few
+  - Searcher  
+- combat drones
+  - let's make a few
+  - smaller ships should use swarm tactics  
+  - ion beam drones  
+  - laser drones  
+  - missile drones  
