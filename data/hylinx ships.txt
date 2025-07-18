@@ -118,12 +118,124 @@ ship "Glass Cannon"
 
 # shuttle
 ship "Atry"
+    sprite ship/shuttle
+    thumbnail thumbnail/shuttle
+    attributes
+        category "Transport"
+        cost 1000000
+        "licenses" "Hylinx General"
+        "shields" 800
+        "hull" 1500
+        "required crew" 1
+        "bunks" 10
+        mass 180
+        "cargo space" 20
+        "outfit space" 250
+        "engine capacity" 70
+        "drag" 3
+    description "Atry"
+    leak "leak" 60 50
+    explode "tiny explosion" 10
+    explode "small explosion" 5
+    outfits
+        "Cataka-class Fission Reactor"
+        "Passive Cooler" 2
+        "Cataka-class Drive"
+        "Shield Generator 0"
+    engine 10 -60
+    engine -10 -60
+
 
 # luxury liner
 ship "Orna"
+    sprite "ship/star queen"
+    thumbnail "thumbnail/star queen"
+    attributes
+        category "Transport"
+        cost 5000000
+        "licenses" "Hylinx General"
+        "shields" 3000
+        "hull" 10000
+        "required crew" 3
+        "bunks" 50
+        mass 300
+        "cargo space" 30
+        "outfit space" 250
+        "engine capacity" 80
+        "drag" 3
+    description "travel the stars in luxury!"
 
 # rhino
 ship "Rhino"
+    sprite "ship/behemoth" 
+    thumbnail "thumbnail/behemoth" 
+    attributes
+        category "Transport"
+        cost 4000000
+        "licenses" "Hylinx General"
+        "shields" 10000
+        "hull" 300000
+        "required crew" 2
+        "bunks" 30
+        mass 250
+        "cargo space" 30
+        "outfit space" 250
+        "engine capacity" 80
+        "drag" 3
+    description "for your own protection"
 
 # scout
 ship "Hylinx Scouter"
+
+# medium warships
+
+# long-distance striker
+ship "Striker"
+
+# ion striker
+ship "Scorpos"
+
+# missileboat
+ship "Missileboat"
+
+# spinal mount GRASER boat
+ship "Glass Cannon"
+
+# carrier
+ship "Eagle"
+
+# fragile long-range interceptor
+ship "Tox"
+
+# damage-tanking short-range interceptor
+ship "Veritox"
+
+# colony ship
+ship "Forest Ship"
+     attributes
+         category "Utility"
+         bunks 588
+         "cargo space" 200 # how many tons of equipment would you need to build a colony
+
+# smaller version of Forest Ship, meant for independent captains who can't quite decide
+ship "Garden Ship"
+     attributes
+         category "Utility"
+         bunks 120
+         "cargo space" 80
+
+
+# miner ship
+ship "RootHair"
+     attributes
+         category "Utility"
+         bunks 3
+         "cargo space" 80
+
+# drones
+
+ship "Hylinx Research Drone"
+
+ship "Hylinx Surveillance Drone"
+
+ship "Hylinx Swarm Attack Drone"

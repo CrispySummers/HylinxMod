@@ -69,7 +69,7 @@ CLOCK: [2025-06-22 Sun 15:29]--[2025-06-22 Sun 15:30] =>  0:01
 :END:
 <2025-06-23 Mon 15:10-15:22>
 
-** TODO components [3/9]
+** TODO components [3/10]
 *** DONE research [4/4] :@computer:@internet:
 **** DONE research what experts think on Intelligent Plants [1/1]
 ***** DONE look online for and take notes on what experts think on Intelligent Plants
@@ -376,8 +376,8 @@ CLOCK: [2025-07-07 Mon 14:43]--[2025-07-07 Mon 14:47] =>  0:04
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-*** TODO ships [3/10]
-**** TODO transport [2/3]
+*** TODO ships [4/10]
+**** DONE transport [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -399,10 +399,15 @@ CLOCK: [2025-07-09 Wed 14:46]--[2025-07-09 Wed 14:48] =>  0:02
 CLOCK: [2025-07-09 Wed 14:51]--[2025-07-09 Wed 14:52] =>  0:01
 :END:
 <2025-07-10 Thu 15:08-15:09>
-***** TODO write up definitions for 3 transport ships :@computer:think:
+***** DONE write up definitions for 3 transport ships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:42]
+CLOCK: [2025-07-13 Sun 14:36]--[2025-07-13 Sun 14:42] =>  0:06
+:END:
+<2025-07-13 Sun 14:35-14:43>
 **** DONE light freighter [3/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -453,7 +458,6 @@ CLOCK: [2025-06-25 Wed 14:56]--[2025-06-25 Wed 15:06] =>  0:10
 :LOGBOOK:
 - State "KILL"       from "TODO"       [2025-07-09 Wed 14:49]
 :END:
-<2025-07-10 Thu 15:09-15:10>
 ***** KILL write up definitions for 3 heavy freighters :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
@@ -490,7 +494,7 @@ CLOCK: [2025-06-30 Mon 14:50]--[2025-06-30 Mon 14:53] =>  0:03
 :LOGBOOK:
 CLOCK: [2025-06-30 Mon 14:53]--[2025-06-30 Mon 14:58] =>  0:05
 :END:
-**** TODO medium warship [1/3]
+**** TODO medium warship [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -503,16 +507,20 @@ CLOCK: [2025-06-30 Mon 14:53]--[2025-06-30 Mon 14:58] =>  0:05
 CLOCK: [2025-07-09 Wed 14:49]--[2025-07-09 Wed 14:50] =>  0:01
 :END:
 <2025-07-09 Wed 15:41-15:49>
-***** TODO select 3 medium warships :@computer:think:divg:
+***** DONE select 3 medium warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-07-10 Thu 15:10-15:11>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:29]
+CLOCK: [2025-07-13 Sun 14:28]--[2025-07-13 Sun 14:29] =>  0:01
+:END:
+<2025-07-13 Sun 14:30-14:31>
 ***** TODO write up definitions for 3 medium warships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO heavy warship [1/3]
+**** TODO heavy warship [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -524,16 +532,20 @@ CLOCK: [2025-07-09 Wed 14:49]--[2025-07-09 Wed 14:50] =>  0:01
 - State "DONE"       from "TODO"       [2025-07-09 Wed 14:51]
 :END:
 <2025-07-09 Wed 15:49-15:57>
-***** TODO select 3 heavy warships :@computer:think:divg:
+***** DONE select 3 heavy warships :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-07-10 Thu 15:11-15:12>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:31]
+CLOCK: [2025-07-13 Sun 14:29]--[2025-07-13 Sun 14:31] =>  0:02
+:END:
+<2025-07-13 Sun 14:31-14:32>
 ***** TODO write up definitions for 3 heavy warships :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO interceptor [1/3]
+**** TODO interceptor [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -546,16 +558,19 @@ CLOCK: [2025-07-09 Wed 14:49]--[2025-07-09 Wed 14:50] =>  0:01
 CLOCK: [2025-07-09 Wed 14:40]--[2025-07-09 Wed 14:43] =>  0:03
 :END:
 <2025-07-09 Wed 14:30-14:38>
-***** TODO select 3 interceptors :@computer:think:divg:
+***** DONE select 3 interceptors :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-07-10 Thu 15:12-15:13>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:31]
+:END:
+<2025-07-13 Sun 14:32-14:33>
 ***** TODO write up definitions for 3 interceptors :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO utility [1/3]
+**** TODO utility [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -568,16 +583,20 @@ CLOCK: [2025-07-09 Wed 14:40]--[2025-07-09 Wed 14:43] =>  0:03
 CLOCK: [2025-07-09 Wed 14:31]--[2025-07-09 Wed 14:39] =>  0:08
 :END:
 <2025-07-09 Wed 14:38-14:46>
-***** TODO select 3 utility ship :@computer:think:divg:
+***** DONE select 3 utility ship :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-07-10 Thu 15:13-15:14>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:34]
+CLOCK: [2025-07-13 Sun 14:31]--[2025-07-13 Sun 14:34] =>  0:03
+:END:
+<2025-07-13 Sun 14:33-14:34>
 ***** TODO write up definitions for 3 utility ship :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO drone [1/3]
+**** TODO drone [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -590,11 +609,15 @@ CLOCK: [2025-07-09 Wed 14:31]--[2025-07-09 Wed 14:39] =>  0:08
 CLOCK: [2025-07-09 Wed 14:44]--[2025-07-09 Wed 14:46] =>  0:02
 :END:
 <2025-07-09 Wed 14:46-14:54>
-***** TODO select 3 drones :@computer:think:divg:
+***** DONE select 3 drones :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-07-10 Thu 15:14-15:15>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-13 Sun 14:36]
+CLOCK: [2025-07-13 Sun 14:34]--[2025-07-13 Sun 14:36] =>  0:02
+:END:
+<2025-07-13 Sun 14:34-14:35>
 ***** TODO write up definitions for 3 drones :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
@@ -617,7 +640,6 @@ CLOCK: [2025-07-09 Wed 14:44]--[2025-07-09 Wed 14:46] =>  0:02
 :END:
 :PROPERTIES:
 :EFFORT:   3min
-<2025-07-10 Thu 15:15-15:16>
 ***** KILL write up definitions for 3 carriers :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
@@ -640,77 +662,336 @@ CLOCK: [2025-07-09 Wed 14:44]--[2025-07-09 Wed 14:46] =>  0:02
 ****** fill in texture
 ****** add secondary details
 ****** add ternary details
-*** factions [/]
-**** Klava [/]
-***** environment [/]
-****** territory
-****** resources available
-***** economics [/]
-****** needs
-****** imports
-****** exports
-***** politics [/]
-****** governance structure
-****** goals
-****** "personality"
-***** relationships [/]
-***** culture [/]
-****** values
-****** anti-values
-**** HyFed [/]
-***** environment [/]
-****** territory
-****** resources available
-***** economics [/]
-****** needs
-****** imports
-****** exports
-***** politics [/]
-****** governance structure
-****** goals
-****** "personality"
-***** relationships [/]
-***** culture [/]
-****** values
-****** anti-values
-**** HyCorps [/]
-***** environment [/]
-****** territory
-****** resources available
-***** economics [/]
-****** needs
-****** imports
-****** exports
-***** politics [/]
-****** governance structure
-****** goals
-****** "personality"
-***** relationships [/]
-***** culture [/]
-****** values
-****** anti-values
-**** Verohata [/]
-***** environment [/]
-****** territory
-****** resources available
-***** economics [/]
-****** needs
-****** imports
-****** exports
-***** politics [/]
-****** governance structure
-****** goals
-****** "personality"
-***** relationships [/]
-***** culture [/]
-****** values
-****** anti-values
+*** TODO factions [0/4]
+**** TODO Klava [3/7]
+***** TODO brainstorm ideas for the Klava :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** DONE environment [1/1]
+****** DONE territory [1/1]
+******* DONE define the Klava's territory :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-17 Thu 14:37]
+CLOCK: [2025-07-17 Thu 14:35]--[2025-07-17 Thu 14:37] =>  0:02
+:END:
+<2025-07-17 Thu 14:50-14:55>
+***** DONE culture [2/2]
+****** DONE values [1/1]
+******* DONE brainstorm 10 values for the Klava :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-17 Thu 14:47]
+CLOCK: [2025-07-17 Thu 14:37]--[2025-07-17 Thu 14:47] =>  0:10
+:END:
+<2025-07-17 Thu 15:00-15:10>
+****** DONE anti-values [1/1]
+******* DONE brainstorm 10 anti-values for the Klava :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-17 Thu 14:51]
+CLOCK: [2025-07-17 Thu 14:47]--[2025-07-17 Thu 14:51] =>  0:04
+:END:
+<2025-07-17 Thu 15:10-15:20>
+***** DONE history [1/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** DONE brainstorm origins for the Klava :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-17 Thu 14:58]
+CLOCK: [2025-07-17 Thu 14:51]--[2025-07-17 Thu 14:58] =>  0:07
+:END:
+<2025-07-17 Thu 15:25-15:40>
+***** TODO economics [0/4]
+****** TODO activities [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO brainstorm 10 things the Klava actually do :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+******* TODO select 5 activities for the Klava :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO needs [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO calculate the cost - fiscal and material - of the activities of the Klava :@computer:@internet:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO imports [0/1]
+******* TODO select resources that the Klava make cheaper than anyone else :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO exports [/]
+******* TODO select resources that the Klava find most expensive :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO politics [0/2]
+****** TODO governance structure [0/1]
+******* TODO describe the governance structure of the Klava, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+****** TODO goals [0/1]
+******* TODO describe the goals of the Klava, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO relationships [0/1]
+****** TODO based on their characterization, describe the Klava's relationships with other factions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO HyFed [0/7]
+***** TODO brainstorm ideas for the HyFed :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO environment [0/1]
+****** TODO territory [0/1]
+******* TODO define the HyFed's territory :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO culture [0/2]
+****** TODO values [0/1]
+******* TODO brainstorm 10 values for the HyFed :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO anti-values [0/1]
+******* TODO brainstorm 10 anti-values for the HyFed :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO history [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm origins for the HyFed :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO economics [0/4]
+****** TODO activities [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO brainstorm 10 things the HyFed actually do :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+******* TODO select 5 activities for the HyFed :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO needs [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO calculate the cost - fiscal and material - of the activities of the HyFed :@computer:@internet:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO imports [0/1]
+******* TODO select resources that the HyFed make cheaper than anyone else :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO exports [/]
+******* TODO select resources that the HyFed find most expensive :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO politics [0/2]
+****** TODO governance structure [0/1]
+******* TODO describe the governance structure of the HyFed, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+****** TODO goals [0/1]
+******* TODO describe the goals of the HyFed, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO relationships [0/1]
+****** TODO based on their characterization, describe the HyFed's relationships with other factions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO Consortium [0/7]
+***** TODO brainstorm ideas for the Consortium :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO environment [0/1]
+****** TODO territory [0/1]
+******* TODO define the Consortium's territory :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO culture [0/2]
+****** TODO values [0/1]
+******* TODO brainstorm 10 values for the Consortium :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO anti-values [0/1]
+******* TODO brainstorm 10 anti-values for the Consortium :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO history [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm origins for the Consortium :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO economics [0/4]
+****** TODO activities [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO brainstorm 10 things the Consortium actually do :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+******* TODO select 5 activities for the Consortium :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO needs [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO calculate the cost - fiscal and material - of the activities of the Consortium :@computer:@internet:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO imports [0/1]
+******* TODO select resources that the Consortium make cheaper than anyone else :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO exports [/]
+******* TODO select resources that the Consortium find most expensive :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO politics [0/2]
+****** TODO governance structure [0/1]
+******* TODO describe the governance structure of the Consortium, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+****** TODO goals [0/1]
+******* TODO describe the goals of the Consortium, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO relationships [0/1]
+****** TODO based on their characterization, describe the Consortium's relationships with other factions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO Verota [0/7]
+***** TODO brainstorm ideas for the Verota :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO environment [0/1]
+****** TODO territory [0/1]
+******* TODO define the Verota's territory :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO culture [0/2]
+****** TODO values [0/1]
+******* TODO brainstorm 10 values for the Verota :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO anti-values [0/1]
+******* TODO brainstorm 10 anti-values for the Verota :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO history [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO brainstorm origins for the Verota :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO economics [0/4]
+****** TODO activities [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO brainstorm 10 things the Verota actually do :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+******* TODO select 5 activities for the Verota :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO needs [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+******* TODO calculate the cost - fiscal and material - of the activities of the Verota :@computer:@internet:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO imports [0/1]
+******* TODO select resources that the Verota make cheaper than anyone else :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+****** TODO exports [/]
+******* TODO select resources that the Verota find most expensive :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO politics [0/2]
+****** TODO governance structure [0/1]
+******* TODO describe the governance structure of the Verota, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+****** TODO goals [0/1]
+******* TODO describe the goals of the Verota, with entities :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO relationships [0/1]
+****** TODO based on their characterization, describe the Verota's relationships with other factions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
 *** central aspect [/]
-*** factions [/]
-**** Klava [/]
-**** Verohati [/]
-**** HyFed [/]
-**** HyCorps [/]
 *** species [/]
 **** Violetstalk
 ***** habitat
